@@ -1,74 +1,122 @@
 # VPN Infrastructure Intelligence Lab
 
-Static research dashboard and aggregate datasets for VPN infrastructure analysis.
+Public aggregate dataset and static dashboard for analyzing VPN infrastructure patterns.
 
-The public repository contains only derived CSV/JSON summaries, documentation, validation scripts, and the GitHub Pages dashboard. Raw observations, endpoint inventories, MMDB databases, and local analysis inputs are outside the published boundary.
+The repository presents derived infrastructure intelligence at provider, country, ASN, relationship, archetype, and anonymized hosting-cluster levels. The published data is designed for research, comparison, and visual exploration without exposing raw endpoint inventories or operational source material.
 
-## Public Scope
+## Published Data Model
 
-- VPN provider infrastructure fingerprints
-- Provider independence and geo-truth signals
-- Country-level virtual-location pressure metrics
-- ASN and hosting footprint summaries
-- Anonymized hosting dependency clusters
-- Interactive static dashboard for GitHub Pages
-- Methodology, scoring, interpretation, and data-safety notes
+The public dataset is organized around a canonical VPN provider set. Non-VPN source rows are excluded before public outputs are generated, including Tor, iCloud Private Relay, and unattributed proxy data.
 
-## Data Boundary
+Core entities:
 
-The public data layer is aggregate-only.
+- **Provider**: normalized VPN provider name used as the main join key across provider-level datasets.
+- **Country**: full country name used for public geo summaries and dashboard filtering.
+- **ASN**: public autonomous system number and operator label, shown only as aggregate infrastructure context.
+- **Archetype**: provider infrastructure pattern derived from geography, hosting diversity, concentration, and confidence signals.
+- **Hosting cluster**: anonymized hosting/operator fingerprint used to show dependency patterns without naming raw endpoint infrastructure.
+- **Relationship cluster**: provider grouping based on aggregate overlap evidence such as shared ASN, shared prefix, or exact-overlap counts from aggregate source layers.
 
-Excluded from public outputs:
+## Dataset Files
 
-- Raw VPN exit IP addresses
-- Endpoint and node inventories
-- CIDR/network range lists
-- OpenVPN/WireGuard configuration files
-- Real-time detection or blocklist feeds
-- MMDB/source databases
-- Non-VPN rows, including Tor, iCloud Private Relay, and unattributed proxy data
+Provider-level files:
 
-Scores are infrastructure research signals. They are not legal claims, ownership claims, abuse claims, blocklist decisions, or provider verdicts.
+- `data/provider_fingerprints.csv`: provider infrastructure model, observed-record bucket, geography breadth, hosting diversity, shared-infrastructure score, hosting ratio, MMDB country-match rate, and confidence.
+- `data/provider_geo_truth_score.csv`: provider geo-truth score, observed country count, MMDB match rate, virtual-location likelihood, city precision quality, and confidence.
+- `data/provider_independence_index.csv`: provider independence score, grade, hosting concentration, shared-footprint level, geo-diversity level, and confidence.
+- `data/provider_archetype_map.csv`: provider-to-archetype mapping with grade, geo-truth score, and confidence.
 
-## Repository Layout
+Country and geo files:
 
-```text
-dashboard/          Static dashboard application
-data/               Public aggregate CSV/JSON datasets
-docs/               Methodology and interpretation notes
-scripts/            Dataset build and public-output validation scripts
-README.md           Project overview
-```
+- `data/country_virtual_location_pressure.csv`: country-level pressure score, provider count, hosting-cluster count, provider examples, hosting dependency, MMDB match rate, and confidence.
+- `data/provider_country_map.csv`: provider-to-country aggregate mapping with observed-record bucket and provider-country share.
 
+Infrastructure and dependency files:
 
+- `data/hosting_dependency_index.csv`: anonymized hosting clusters with provider count, country count, dependency score, dependency class, and public examples.
+- `data/provider_hosting_cluster_map.csv`: provider-to-hosting-cluster mapping.
+- `data/external_hosting_operator_footprint.csv`: aggregate operator footprint layer with normalized provider examples.
+- `data/external_provider_hosting_dependency.csv`: provider-to-operator aggregate dependency signals.
+
+ASN and Atlas files:
+
+- `data/atlas_provider_country_asn.csv`: provider-country-ASN aggregate layer used by the dashboard map and Atlas filters.
+- `data/atlas_provider_country.csv`: provider-country aggregate Atlas layer.
+- `data/atlas_provider_asn.csv`: provider-ASN aggregate Atlas layer.
+- `data/atlas_country_summary.csv`: country-level Atlas summary recalculated from the normalized provider-country-ASN layer.
+- `data/atlas_asn_summary.csv`: ASN-level Atlas summary recalculated from the normalized provider-country-ASN layer.
+- `data/external_asn_multi_provider_clusters.csv`: multi-provider ASN contexts after normalization to the canonical VPN provider set.
+
+Relationship and structure files:
+
+- `data/external_provider_overlap_signals.csv`: pair-level aggregate overlap signals.
+- `data/external_provider_relationship_clusters.csv`: provider relationship clusters with aggregate evidence counts.
+- `data/external_shared_prefix_evidence.csv`: anonymized shared-prefix evidence clusters.
+- `data/infrastructure_archetypes.csv`: archetype summaries and median signal values.
+- `data/market_structure_tiers.csv`: provider count and description for market-structure tiers.
+- `data/methodology_features.csv`: feature descriptions used by the public scoring layer.
+
+Repository summary:
+
+- `data/providers_public.csv`: public provider fingerprint export.
+- `data/public_summary.json`: generated public summary, source counts, exclusion boundary, and validation context.
+
+## Relationships Between Files
+
+Main joins:
+
+- `provider` joins provider-level files, provider-country maps, provider-hosting maps, Atlas provider files, and external provider dependency layers.
+- `country` joins country pressure data, provider-country maps, Atlas country summaries, and dashboard country filters.
+- `asn` joins Atlas ASN summaries, provider-ASN rows, provider-country-ASN rows, and ASN context panels.
+- `hosting_cluster` joins `hosting_dependency_index.csv` with `provider_hosting_cluster_map.csv`.
+- `archetype` joins `infrastructure_archetypes.csv` with `provider_archetype_map.csv`.
+- `relationship_cluster` identifies aggregate provider relationship groups in `external_provider_relationship_clusters.csv`.
+
+The dashboard applies these relationships interactively. Selecting a provider, country, ASN, archetype, relationship cluster, or hosting cluster recalculates the visible provider table, Atlas map, ASN context, country lists, relationship panels, and hosting dependency tables.
 
 ## Dashboard
 
-The dashboard is a static site under `dashboard/`. It loads public datasets from `data/` and can be served by GitHub Pages from the repository root.
+The GitHub Pages entry point is the interactive dashboard:
 
-Primary entry point:
+- Root page: `index.html`
+- Dashboard app: `dashboard/index.html`
+- Dashboard data source: `data/`
 
-```text
-dashboard/index.html
-```
+The dashboard includes:
 
-## Dataset Build
+- world Atlas map
+- unified filters
+- provider fingerprint table
+- selected-signal dossier
+- market structure tiers
+- infrastructure archetypes
+- country geo-truth list
+- ASN/network intelligence
+- provider relationship clusters
+- hosting dependency clusters
 
-Public datasets are generated locally from private inputs:
+## Public Safety Boundary
 
-```bash
-python3 scripts/build_public_dataset.py
-python3 scripts/validate_outputs.py
-```
+The repository does not publish:
 
-The validation script checks public files for raw infrastructure leakage patterns such as IP-like values, CIDR-like values, forbidden raw-data columns, and accidental public database files.
+- raw VPN exit IP addresses
+- endpoint or node inventories
+- CIDR/network range lists
+- OpenVPN or WireGuard configuration files
+- credentials, tokens, or provider client artifacts
+- MMDB/source databases
+- real-time detection feeds or blocklists
 
-## Current Public Summary
+The public layer contains aggregates, scores, examples, buckets, and anonymized cluster identifiers only.
 
-The generated summary is available at:
+## Interpretation and Legal Context
 
-```text
-data/public_summary.json
-```
+Scores and clusters are analytical infrastructure signals. They are not accusations, legal conclusions, ownership claims, affiliation claims, abuse determinations, or provider verdicts.
 
-The dashboard displays the active Atlas view separately from the full canonical provider set, because not every canonical VPN provider appears in every source layer.
+Provider independence, geo-truth, relationship, and dependency scores describe observed infrastructure patterns within the available aggregate data. They do not establish corporate control, intent, jurisdiction, service quality, user safety, malicious activity, or legal responsibility.
+
+Country labels represent observed or enriched infrastructure geography in the aggregate dataset. They are not statements about company jurisdiction, physical office location, ownership, or legal domicile.
+
+ASN and operator labels are used as infrastructure context only. They do not imply endorsement, wrongdoing, control, cooperation, or responsibility by the named network operator.
+
+The dataset is suitable for research, comparative analysis, methodology discussion, and visual exploration. It is not a substitute for legal review, incident response evidence, compliance decisions, or live security enforcement.
