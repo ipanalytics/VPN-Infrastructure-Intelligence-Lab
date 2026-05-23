@@ -6,7 +6,7 @@ The repository presents derived infrastructure intelligence at provider, country
 
 ## Published Data Model
 
-The public dataset is organized around a canonical VPN provider set. Non-VPN source rows are excluded before public outputs are generated, including Tor, iCloud Private Relay, and unattributed proxy data.
+The public dataset is organized around a canonical VPN provider set.
 
 Core entities:
 
