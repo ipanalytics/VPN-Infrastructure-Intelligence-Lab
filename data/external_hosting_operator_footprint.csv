@@ -1,0 +1,774 @@
+operator_cluster,operator,provider_count,asn_count,country_count,observed_records_bucket,top_provider_examples,source_repo
+OperatorCluster-001,CDNEXT,0,1,37,5k-9.9k,NordVPN (2708); CyberGhost (878); ProtonVPN (569); Windscribe (284); Astrill (256); Mullvad (143); PureVPN (127); Private Internet Access (126); Surfshark (53); ExpressVPN (38),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-002,M247,0,1,22,1k-4.9k,NordVPN (1167); CyberGhost (782); AirVPN (600); ProtonVPN (408); TorGuard (363); Windscribe (195); Mullvad (180); TunnelBear (137); WiTopia (125); PureVPN (93),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-003,NETPROTECT-62651,0,1,1,1k-4.9k,WLVPN (1496); IPVanish (1495); StrongVPN (199),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-004,CLOUVIDER Clouvider - Global ASN,0,1,3,1k-4.9k,NordVPN (1079); WLVPN (581); IPVanish (580); Astrill (539); ExpressVPN (22); StrongVPN (16); Windscribe (9); KevinVPN (8); Private Internet Access (5); Surfshark (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-005,PACKETHUBSA-AS-AP PacketHub S.A.,0,3,2,1k-4.9k,NordVPN (2186),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-006,CDN77 _,0,1,14,1k-4.9k,NordVPN (425); ProtonVPN (377); CyberGhost (153); Mullvad (101); IVPN (40); Windscribe (31); AzireVPN (19); Surfshark (18); PrivateVPN (16); Astrill (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-007,GSLNETWORKS-AS-AP GSL Networks Pty LTD,0,1,6,1k-4.9k,NordVPN (368); CyberGhost (268); Private Internet Access (132); ExpressVPN (87); PureVPN (49); IPVanish (38); WLVPN (38); Windscribe (27); Ivacy (9); ProtonVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-008,COGENT-174,0,1,4,500-999,Astrill (289); CyberGhost (168); IPVanish (134); WLVPN (134); Private Internet Access (37); Psiphon (10); StrongVPN (7); GhostPath (1); Sentinel dVPN (1); VPN Unlimited (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-009,BANDWIDTH-AS,0,1,5,500-999,NordVPN (590); IPVanish (26); WLVPN (26); Astrill (7); Surfshark (7); PureVPN (5); WiTopia (5); ProtonVPN (3); FlowVPN (1); PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-010,GLOBALLAYER,0,1,2,500-999,AirVPN (576); NordVPN (47); Surfshark (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-011,TZULO,0,1,1,500-999,Mullvad (254); AirVPN (224); Windscribe (84); IVPN (11); Sentinel dVPN (6); AzireVPN (5); CCrypto VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-012,"STL-AS-AP Strong Technology, LLC",0,1,1,500-999,IPVanish (276); WLVPN (276); StrongVPN (12),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-013,STRTEC,0,1,1,500-999,StrongVPN (226); WLVPN (176); IPVanish (161),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-014,AS-COLOCROSSING,0,1,1,500-999,Sentinel dVPN (242); Astrill (96); IPVanish (59); WLVPN (59); Windscribe (12); VPN.ac (9); TunnelBear (6); PureVPN (5); GhostPath (4); IVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-015,OVH,0,1,5,100-499,Astrill (95); Psiphon (56); WiTopia (40); VPNSecure (29); VPN Jantit (16); Sentinel dVPN (15); NetShade (13); HideIPVPN (11); Anonine (8); BoxPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-016,PACKETHUBSA,0,1,1,100-499,NordVPN (343),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-017,DIGITALOCEAN-ASN,0,1,3,100-499,Psiphon (100); TunnelBear (81); VPN Unlimited (49); PhantomPeer (14); TorGuard (12); PrivateVPN (10); uVPN (10); Goosevpn (7); Safervpn (5); VPN Jantit (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-018,AS62904 - Eonix Corporation,0,1,1,100-499,Astrill (275); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); Froot (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-019,AMANAHA-NEW,0,1,1,100-499,AirVPN (208); WiTopia (15); VPN Unlimited (8); Sentinel dVPN (5); Astrill (3); IVPN (3); Proxpn (2); Trust.Zone (2); VPN.ac (2); Anonvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-020,ABSTRACT,0,1,1,100-499,Njalla (241),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-021,ZEN-ECN,0,1,4,100-499,TunnelBear (101); IPVanish (45); WLVPN (45); Mullvad (24); Windscribe (9); PrivateVPN (4); StrongVPN (3); Astrill (2); ExpressVPN (2); Private Internet Access (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-022,HOSTROYALE,0,2,11,100-499,Mullvad (76); NordVPN (68); Surfshark (24); Astrill (15); IPVanish (11); WLVPN (11); Privado (9); StrongVPN (8); PureVPN (4); Cryptostorm (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-023,AS-VULTR,0,1,1,100-499,Astrill (84); VPN Unlimited (67); SwitchVPN (29); VPN Jantit (11); FlowVPN (7); Safervpn (7); Proxpn (3); Smartdnsproxy (3); VPNUK (3); Getflix (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-024,LATITUDE-SH,0,1,4,100-499,NordVPN (103); ExpressVPN (21); Astrill (16); IPVanish (13); WLVPN (13); PureVPN (9); Private Internet Access (8); TunnelBear (7); Windscribe (7); ProtonVPN (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-025,SHARKTECH,0,1,1,100-499,IPVanish (81); WLVPN (81); Astrill (37); StrongVPN (3); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-026,GLESYS glesys.com,0,1,3,100-499,CyberGhost (125); Private Internet Access (21); Anonine (13); Froot (10); FrootVPN (10); ExpressVPN (8); GhostPath (3); CactusVPN (2); IVPN (2); PhantomPeer (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-027,AKAMAI-LINODE-AP Akamai Connected Cloud,0,1,8,100-499,Psiphon (121); TunnelBear (44); GhostPath (23); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-028,"ONEPROVIDER-AS BrainStorm Network, Inc",0,1,27,100-499,OysterVPN (37); FlowVPN (29); VPN Unlimited (28); Sentinel dVPN (21); VPNUK (15); FastestVPN (13); Zoogvpn (12); VPNSecure (10); AnonymousVPN (7); Safervpn (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-029,ESAB-AS,0,1,1,100-499,Mullvad (173),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-030,HOST-AS-AP Host Universal Pty Ltd,0,1,2,100-499,NordVPN (51); Mullvad (40); ProtonVPN (31); Anonine (16); BoxPN (16); EasyHideIP (16); FrootVPN (16); Surfshark (9); PureVPN (4); Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-031,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",0,1,1,100-499,IPVanish (35); WLVPN (35); NordVPN (24); EasyHideIP (20); Anonine (9); BoxPN (8); FrootVPN (8); Sentinel dVPN (7); StrongVPN (7); Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-032,ALTUS,0,1,2,100-499,CyberGhost (46); AirVPN (24); Psiphon (23); NordVPN (10); Windscribe (6); IPVanish (5); VPN.ac (5); WLVPN (5); PureVPN (4); Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-033,ESTNOC-GLOBAL,0,1,1,100-499,Windscribe (30); CyberGhost (26); WLVPN (18); IPVanish (17); ProtonVPN (13); AirVPN (8); ExpressVPN (8); Private Internet Access (6); StrongVPN (4); TorGuard (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-034,NETPROTECT-SP,0,1,1,100-499,IPVanish (63); WLVPN (63),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-035,Latitude.sh LTDA,0,1,1,100-499,NordVPN (70); ExpressVPN (29); Windscribe (7); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); WiTopia (5); Astrill (3); Cryptostorm (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-036,Unknown,0,0,20,100-499,WiTopia (44); Vpnht (26); Astrill (10); CyberGhost (9); FlowVPN (7); GhostPath (7); Hotspotshield (7); Anonvpn (4); Proxpn (3); IVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-037,"IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",0,1,1,100-499,Sentinel dVPN (84); Psiphon (30); Astrill (4); VPN Jantit (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-038,CYBERZONEHUB,0,1,58,100-499,Surfshark (119),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-039,UK2NET-AS,0,1,5,100-499,ExpressVPN (27); IPVanish (20); WLVPN (20); Mullvad (17); Astrill (9); GhostPath (8); Windscribe (7); TunnelBear (5); SlickVPN (2); TorGuard (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-040,VOXILITY,0,1,2,100-499,IPVanish (47); WLVPN (47); Vpnht (13); PureVPN (5); Psiphon (4); StrongVPN (2); Ivacy (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-041,SECFIREWALLAS,0,1,2,100-499,ExpressVPN (104); Private Internet Access (14),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-042,Online SAS,0,1,1,100-499,VPN Unlimited (19); Psiphon (16); Vpnht (15); Riseup VPN (13); VPN.ac (10); WiTopia (10); EasyHideIP (5); FrootVPN (5); NordVPN (5); Anonine (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-043,SERVER-MANIA,0,1,1,100-499,IPVanish (35); WLVPN (35); Astrill (33); StrongVPN (8); TorGuard (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-044,AS-INCX,0,1,1,100-499,IPVanish (40); WLVPN (40); Windscribe (18); StrongVPN (6); Astrill (3); Surfshark (3); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-045,NFORCE,0,1,1,100-499,IPVanish (39); WLVPN (39); ProtonVPN (10); BTGuard (7); VPN.ac (7); Astrill (3); Cryptostorm (2); Smartdnsproxy (2); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-046,PHMGMT-AS1,0,1,1,100-499,Giganews (54); VyprVPN (54),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-047,THE,0,1,13,100-499,VPN Unlimited (43); WorldVPN (14); AnonymousVPN (13); FlowVPN (9); VPNUK (8); Kompot VPN (5); VPN Jantit (5); Zoogvpn (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-048,AS-GLOBALTELEHOST,0,2,3,50-99,Astrill (35); Anonine (32); BoxPN (32); EasyHideIP (32); FrootVPN (32); Windscribe (6); VPN Jantit (5); TorGuard (3); Zoogvpn (3); HideIPVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-049,BIP-AS BIP Backbone ASN,0,1,1,50-99,Privado (89),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-050,QUINTEX,0,1,1,50-99,AirVPN (88),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-051,HETZNER-AS,0,1,2,50-99,WorldVPN (62); Sentinel dVPN (16); Astrill (3); CactusVPN (2); HideIPVPN (2); uVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-052,AS40676 - Psychz Networks,0,1,1,50-99,Astrill (36); VPN.ac (8); Windscribe (6); WiTopia (5); Zoogvpn (5); ExpressVPN (4); VPN Unlimited (4); Sentinel dVPN (3); VPN Jantit (3); FastestVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-053,OBEHOSTING Obehosting AB,0,1,1,50-99,OVPN (68); AzireVPN (7); PrivateVPN (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-054,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,0,1,9,50-99,PureVPN (47); IPVanish (11); WLVPN (11); Ivacy (8); StrongVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-055,DEDICATED,0,1,1,50-99,AirVPN (40); WiTopia (20); Astrill (9); VPN Unlimited (5); FastestVPN (2); AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-056,NETPROTECT-PHX,0,1,1,50-99,IPVanish (34); WLVPN (34); StrongVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-057,NETROUTING-AS,0,1,1,50-99,AirVPN (64); AzireVPN (4); VPN Unlimited (3); Kompot VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-058,TEKNIKBYRAN,0,1,1,50-99,AirVPN (72),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-059,AS41564,0,1,1,50-99,CyberGhost (34); Windscribe (13); NordVPN (10); ExpressVPN (6); Private Internet Access (5); ProtonVPN (2); Psiphon (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-060,HOSTHATCH,0,1,7,50-99,WorldVPN (38); Sentinel dVPN (16); AzireVPN (6); FlowVPN (4); KevinVPN (2); AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-061,TRABIA,0,1,1,50-99,CyberGhost (19); IPVanish (10); WLVPN (10); Windscribe (6); Astrill (4); PureVPN (4); NordVPN (3); TorGuard (3); ExpressVPN (2); Private Internet Access (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-062,NEXEON,0,1,1,50-99,NordVPN (39); Sentinel dVPN (14); TorGuard (7); Astrill (4); Surfshark (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-063,SOFTLAYER,0,1,1,50-99,Astrill (63); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-064,WORLDSTREAM,0,1,1,50-99,ProtonVPN (50); Astrill (7); Trust.Zone (2); Freevpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-065,CLOUDSINGULARITY,0,1,1,50-99,AirVPN (48); Mullvad (8); IVPN (2); AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-066,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,0,1,1,50-99,Windscribe (18); VPN.ac (10); WiTopia (9); AirVPN (8); TorGuard (7); PrivateVPN (3); GhostPath (2); PureVPN (1); Sentinel dVPN (1); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-067,IST-AS,0,1,1,50-99,CyberGhost (38); Astrill (8); WiTopia (5); ExpressVPN (3); Private Internet Access (3); ProtonVPN (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-068,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,0,1,1,50-99,IPVanish (14); WLVPN (14); Mullvad (6); Anonine (5); Astrill (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); WiTopia (4); TorGuard (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-069,PACKETEXCHANGE,0,1,2,50-99,CyberGhost (35); Private Internet Access (6); Windscribe (6); NordVPN (5); Cryptostorm (2); ExpressVPN (2); ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-070,HURRICANE,0,1,1,50-99,Astrill (54); NetShade (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-071,PLI-AS,0,1,2,50-99,Kompot VPN (13); SwitchVPN (9); Windscribe (9); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); Mullvad (4); WiTopia (4); Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-072,IOMART-AS,0,1,2,50-99,VPNUK (14); Anonine (5); BoxPN (5); FlowVPN (5); HideIPVPN (5); WiTopia (5); CactusVPN (4); VPN Unlimited (3); VPN.ac (3); Cryptostorm (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-073,AkileCloud Network,0,1,1,50-99,Sentinel dVPN (50),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-074,FDCSERVERS,0,1,2,50-99,Astrill (36); Proxpn (8); VPN Unlimited (3); Anonvpn (1); CactusVPN (1); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-075,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",0,1,1,50-99,CyberGhost (15); IPVanish (7); WLVPN (7); Mullvad (4); PureVPN (4); ExpressVPN (3); Private Internet Access (3); Windscribe (3); ProtonVPN (2); Ivacy (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-076,LEASEWEB-NL-AMS-01 Netherlands,0,1,1,50-99,Anonine (10); BoxPN (10); EasyHideIP (10); FrootVPN (10); VPN.ac (9); IVPN (7); SwitchVPN (5); WiTopia (5); Astrill (3); HideIPVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-077,LIMESTONENETWORKS,0,1,1,lt-50,TunnelBear (16); PureVPN (11); Astrill (10); Sentinel dVPN (4); ExpressVPN (3); ProtonVPN (2); VPN Unlimited (2); Ivacy (1); Private Internet Access (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-078,NTT-GLOBAL-DATA-CENTERS-AMERICA-INC,0,1,1,lt-50,WiTopia (46),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-079,BASEIP-LAX,0,1,1,lt-50,Privado (44),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-080,OWL Owl Limited,0,1,1,lt-50,Mullvad (42); AzireVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-081,SITEHOST-AS-AP SiteHost New Zealand,0,1,1,lt-50,AirVPN (24); TunnelBear (20),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-082,LEASEWEB-USA-LAX,0,1,1,lt-50,WiTopia (25); Astrill (14); VPN Unlimited (2); Le VPN (1); OysterVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-083,RIXHOST,0,1,1,lt-50,AirVPN (32); Windscribe (6); WiTopia (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-084,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",0,1,2,lt-50,VPN Jantit (22); Sentinel dVPN (17); WorldVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-085,VELIANET-AS velia.net Internetdienste GmbH,0,1,1,lt-50,Astrill (16); CyberGhost (13); Sentinel dVPN (7); ExpressVPN (4); NetShade (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-086,HINET Data Communication Business Group,0,1,1,lt-50,Astrill (28); Windscribe (6); Sentinel dVPN (4); FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-087,PVDATANET,0,1,9,lt-50,PrivateVPN (39),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-088,HERNLABS,0,1,1,lt-50,Opera VPN (38),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-089,PARAD-40-ASN,0,1,1,lt-50,Giganews (19); VyprVPN (19),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-090,WII,0,1,1,lt-50,Astrill (31); CactusVPN (2); Sentinel dVPN (2); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-091,MASSIVEGRID,0,1,1,lt-50,Sentinel dVPN (34); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-092,MELBICOM-EU-AS Melbikomas UAB,0,2,2,lt-50,Astrill (19); PureVPN (8); FlowVPN (2); Ivacy (2); Sentinel dVPN (2); BTGuard (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-093,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,0,1,1,lt-50,TunnelBear (16); Astrill (6); VPN.ac (3); IVPN (2); CactusVPN (1); OysterVPN (1); Proxpn (1); Safervpn (1); Sentinel dVPN (1); VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-094,HR-CUSTOMER,0,1,3,lt-50,NordVPN (16); IPVanish (6); WLVPN (6); Surfshark (3); Mullvad (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-095,BANDWIDTH-ASIA,0,1,1,lt-50,NordVPN (30); FastestVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-096,LEASEWEB-USA-NYC,0,1,1,lt-50,WiTopia (25); Astrill (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-097,NAMECHEAP-NET,0,1,1,lt-50,Astrill (31),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-098,GTT-BACKBONE GTT,0,1,2,lt-50,CyberGhost (12); NordVPN (12); Astrill (4); Private Internet Access (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-099,KAOPU-HK Kaopu Cloud HK Limited,0,1,10,lt-50,OysterVPN (8); VPN Jantit (8); Zoogvpn (6); FlowVPN (3); Sentinel dVPN (3); CactusVPN (1); Le VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-100,AS56971 AS56971 Cloud,0,1,2,lt-50,Sentinel dVPN (19); WorldVPN (10),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-101,Data Miners S.A.  Racknation.cr,0,1,1,lt-50,IPVanish (10); WLVPN (10); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); StrongVPN (2); FlowVPN (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-102,BASEIP,0,1,1,lt-50,Privado (28),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-103,BLIX,0,1,1,lt-50,Mullvad (23); AzireVPN (2); PrivateVPN (2); SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-104,ESECUREDATA,0,1,1,lt-50,WiTopia (10); Anonine (7); BoxPN (7); EasyHideIP (7); FrootVPN (7); VPN Unlimited (5); Trust.Zone (2); VPN.ac (2); Froot (1); PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-105,KIXS-AS-KR Korea Telecom,0,1,1,lt-50,VPN Gate (18); Astrill (4); FlowVPN (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-106,LEASEWEB-USA-CHI,0,1,1,lt-50,WiTopia (20); Astrill (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-107,PILOT,0,1,1,lt-50,VPN Unlimited (20); Hotspotshield (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-108,BINBOX-GLOBAL-SERVICES,0,1,1,lt-50,CyberGhost (24),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-109,EDIS-AS-EU,0,1,4,lt-50,GhostPath (7); Safervpn (5); Astrill (4); Le VPN (4); FlowVPN (2); SlickVPN (1); Smartdnsproxy (1); SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-110,GCS-AS,0,1,1,lt-50,VPN Jantit (18); Kompot VPN (4); FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-111,LEASEWEB-USA-SEA,0,1,1,lt-50,WiTopia (10); Astrill (6); VPN Unlimited (3); VPN.ac (3); Cryptostorm (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-112,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,0,1,1,lt-50,Anonine (11); BoxPN (11); EasyHideIP (11); FrootVPN (11); VPN Unlimited (4); Cryptostorm (2); FastestVPN (2); Sentinel dVPN (2); Zoogvpn (2); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-113,VNPT-AS-VN VNPT Corp,0,1,1,lt-50,Sentinel dVPN (10); FlowVPN (8); Windscribe (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-114,DELUXHOST,0,1,2,lt-50,Sentinel dVPN (21); FreeVPN (1); KevinVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-115,EGIHOSTING,0,1,1,lt-50,Astrill (19); WiTopia (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-116,GIGABIT-MY Gigabit Hosting Sdn Bhd,0,1,1,lt-50,AirVPN (8); Astrill (6); WiTopia (5); IVPN (3); SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-117,HQSERV_NETWORKS,0,1,1,lt-50,Anonine (10); BoxPN (10); EasyHideIP (10); FrootVPN (10); Windscribe (6); IVPN (2); RedShield VPN (2); TorGuard (2); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-118,EHOSTIDC-AS-KR Hostcenter,0,1,1,lt-50,Astrill (6); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); WiTopia (5); FlowVPN (2); FastestVPN (1); Surfshark (1); SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-119,LEASEWEB-USA-DAL,0,1,1,lt-50,WiTopia (15); Astrill (5); Cryptostorm (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-120,ON2644819-NET,0,1,1,lt-50,Psiphon (22),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-121,PROTONVPN,0,1,1,lt-50,ProtonVPN (22),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-122,XTOM-AS-JP xTom,0,1,1,lt-50,IPVanish (10); WLVPN (10); ProtonVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-123,DIGITURUNC,0,1,1,lt-50,WiTopia (20); Astrill (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-124,GREENFLOID-AS,0,1,2,lt-50,WorldVPN (14); VPN Jantit (6); AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-125,H4Y-TECHNOLOGIES,0,1,1,lt-50,Windscribe (12); WiTopia (5); Cryptostorm (2); GhostPath (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-126,PERFORMIVE,0,1,1,lt-50,Astrill (8); Windscribe (6); ProtonVPN (4); TorGuard (2); StrongVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-127,SONDATECH S.A.S.,0,1,1,lt-50,Windscribe (21),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-128,AMAZON-02,0,1,1,lt-50,Perimeter81 (16); FlowVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-129,ASSEFLOW,0,1,1,lt-50,SwitchVPN (5); Astrill (4); WiTopia (4); VPNUK (2); AnonymousVPN (1); OVPN (1); Smartdnsproxy (1); TunnelBear (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-130,AXCELX-NET,0,1,1,lt-50,WiTopia (10); Windscribe (9); GhostPath (1); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-131,GCORE,0,1,3,lt-50,PureVPN (8); PrivateVPN (3); CactusVPN (2); FlowVPN (2); Ivacy (2); VPN Jantit (2); IVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-132,ASN-GIGENET,0,1,1,lt-50,Astrill (12); Sentinel dVPN (5); KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-133,ASN-VO Visual Online S.A. Luxembourg,0,1,1,lt-50,Anonine (14); BoxPN (14); EasyHideIP (14); FrootVPN (14); Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-134,CWCS-VM CompuWeb Communications Services Ltd,0,1,1,lt-50,VPNUK (18),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-135,DARTNODE,0,1,1,lt-50,Sentinel dVPN (15); KevinVPN (2); FreeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-136,DATAFOREST,0,1,1,lt-50,Vpnht (15); Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-137,FREE RANGE CLOUD,0,1,1,lt-50,Windscribe (16); FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-138,GRANSY Gransy s.r.o. gransy.com,0,1,1,lt-50,SSHMax (18),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-139,LEASEWEB-DE-FRA-10,0,1,1,lt-50,VPN.ac (8); Astrill (7); IVPN (2); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-140,NOCIX,0,1,1,lt-50,WiTopia (8); Astrill (3); Sentinel dVPN (2); VPNUK (2); FlowVPN (1); GhostPath (1); Hide.me (1); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-141,PROTONVPN-2,0,1,1,lt-50,ProtonVPN (18),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-142,WITOPIA-AS1,0,1,1,lt-50,WiTopia (18),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-143,FORTIS-AS Hosting services,0,1,2,lt-50,VPN Jantit (16); FreeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-144,GIGAHOST,0,1,1,lt-50,TorGuard (11); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-145,INTERNETBOLAGET,0,1,1,lt-50,NordVPN (17),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-146,NETMINDERS,0,1,1,lt-50,VPN.ac (6); PureVPN (5); Astrill (4); SwitchVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-147,PERFECT-INTERNATIONAL,0,1,1,lt-50,Astrill (16); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-148,RELIABLESITE,0,1,1,lt-50,Kompot VPN (8); Astrill (5); GhostPath (2); RedShield VPN (2); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-149,TELEKS-,0,1,1,lt-50,CyberGhost (10); Windscribe (3); NordVPN (2); Private Internet Access (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-150,AMC,0,1,1,lt-50,TunnelBear (16),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-151,SOFTETHER-AMERICA,0,1,1,lt-50,VPN Gate (16),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-152,TELE-AS Tele Asia Limited,0,1,1,lt-50,SwitchVPN (10); Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-153,"TWELVE99 Arelion, fka Telia Carrier",0,1,3,lt-50,PrivateVPN (11); AzireVPN (4); AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-154,ANL-36,0,1,1,lt-50,Sentinel dVPN (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-155,ARTNET,0,1,1,lt-50,Anonine (9); BoxPN (9); EasyHideIP (9); FrootVPN (9); Windscribe (3); Surfshark (2); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-156,DEHOST-INTERNET-VE-BILISIM-TEKNOLOJILERI-SAN-TIC-LTD-STI DEHOST INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI,0,1,1,lt-50,Sentinel dVPN (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-157,FSNET-1,0,1,1,lt-50,BoxPN (15); Anonine (14); EasyHideIP (14); FrootVPN (14); Froot (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-158,GORILLASERVERS,0,1,1,lt-50,Astrill (14); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-159,GTCOMM,0,1,1,lt-50,FrootVPN (5); Anonine (4); BoxPN (4); EasyHideIP (4); SmartVPN (3); Trust.Zone (3); Astrill (2); GhostPath (2); Froot (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-160,GTS-BACKBONE GTS Telecom,0,1,1,lt-50,CyberGhost (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-161,IDNIC-ATHARVA-AS-ID PT Atharva Telematika Persada,0,1,1,lt-50,Windscribe (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-162,KEYUBU,0,1,1,lt-50,Sentinel dVPN (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-163,LINVEO-LLC,0,1,1,lt-50,Sentinel dVPN (11); KevinVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-164,MADCOM-ASN,0,1,1,lt-50,NordVPN (7); Windscribe (6); Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-165,NETVAY,0,1,1,lt-50,Sentinel dVPN (15),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-166,SOLID,0,1,1,lt-50,Sentinel dVPN (11); KevinVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-167,VELOXSERV,0,1,2,lt-50,FastestVPN (5); Mullvad (4); Sentinel dVPN (4); AzireVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-168,XTOM-JAPAN xTom Japan Corporation,0,1,1,lt-50,Astrill (11); ProtonVPN (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-169,24SHELLS,0,1,1,lt-50,Astrill (13),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-170,GHOST,0,1,2,lt-50,Le VPN (5); AnonymousVPN (2); Smartdnsproxy (2); KevinVPN (1); PrivateVPN (1); VPN Jantit (1); uVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-171,LEAPSWITCH-IN-AS-AP LEAPSWITCH NETWORKS PRIVATE LIMITED,0,1,1,lt-50,Windscribe (6); WiTopia (5); Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-172,PONYNET,0,1,3,lt-50,FreeVPN (10); FlowVPN (2); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-173,SERVERS-COM,0,1,2,lt-50,ProtonVPN (5); WiTopia (4); GhostPath (1); HideIPVPN (1); PrivateVPN (1); SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-174,SUPERNET-UK,0,1,1,lt-50,Astrill (13),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-175,TIER-NET,0,1,1,lt-50,Astrill (6); Surfshark (6); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-176,UNMANAGED-DEDICATED-SERVERS,0,1,1,lt-50,Sentinel dVPN (13),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-177,ASNET,0,1,3,lt-50,Sentinel dVPN (7); FlowVPN (3); FreeVPN (1); WorldVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-178,FAIRYHOSTING,0,1,1,lt-50,Kompot VPN (8); FlowVPN (1); GhostPath (1); PrivateVPN (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-179,FLOKINET,0,1,1,lt-50,VPN.ac (8); Windscribe (3); IVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-180,GF-UA,0,1,2,lt-50,WorldVPN (5); VPN Unlimited (4); VPN Jantit (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-181,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,0,1,1,lt-50,Astrill (4); VPN.ac (4); Proxpn (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-182,LEASEWEB-USA-PHX,0,1,1,lt-50,Astrill (5); WiTopia (5); PureVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-183,ORG-LVA15-AS,0,1,1,lt-50,Astrill (11); Vpnht (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-184,RADORE,0,1,1,lt-50,Anonine (6); BoxPN (6); EasyHideIP (6); FrootVPN (6); Sentinel dVPN (5); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-185,TIER4CLOU-AS Tier 4 Cloud Services,0,1,1,lt-50,Astrill (7); WiTopia (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-186,xneelo,0,1,1,lt-50,Astrill (3); FlowVPN (2); PrivateVPN (2); FastestVPN (1); Safervpn (1); Sentinel dVPN (1); VPN Unlimited (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-187,ALMOUROLTEC,0,1,1,lt-50,Astrill (3); TorGuard (3); IVPN (2); FlowVPN (1); PrivateVPN (1); Sentinel dVPN (1); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-188,ANGANI-AS,0,1,1,lt-50,CyberGhost (11),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-189,ARUBA-ASN,0,1,1,lt-50,WorldVPN (5); VPN Unlimited (4); CactusVPN (1); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-190,FIBERFI,0,1,1,lt-50,Astrill (6); WiTopia (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-191,HOSTODO,0,1,1,lt-50,Sentinel dVPN (11),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-192,IOMART-IE,0,1,1,lt-50,Anonine (7); BoxPN (7); EasyHideIP (7); FrootVPN (7); VPNSecure (3); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-193,VIRTUALSYSTEMS,0,1,1,lt-50,Anonine (7); BoxPN (7); EasyHideIP (7); FrootVPN (7); CactusVPN (1); FlowVPN (1); Trust.Zone (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-194,WEBHORIZON-AS-AP WebHorizon Internet Services,0,1,1,lt-50,Sentinel dVPN (9); KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-195,WEHOSTWEBSITES-COM,0,1,1,lt-50,WiTopia (10); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-196,BEANFIELD,0,1,1,lt-50,Psiphon (10),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-197,HVC-AS,0,1,1,lt-50,Astrill (4); VPN.ac (4); GhostPath (1); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-198,KDDI KDDI CORPORATION,0,1,1,lt-50,VPN Gate (10),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-199,LEASEWEB-USA-SFO,0,1,1,lt-50,Astrill (7); VPN.ac (2); VPN Unlimited (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-200,PEG-SV,0,1,1,lt-50,Astrill (8); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-201,SERVETHEWORLD-AS,0,1,1,lt-50,Astrill (5); IVPN (2); Getflix (1); Safervpn (1); Smartdnsproxy (1); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-202,THORDC-AS,0,1,1,lt-50,WiTopia (4); GhostPath (1); IVPN (1); Le VPN (1); PrivateVPN (1); Proxpn (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-203,WERIDATA-LLC,0,1,1,lt-50,Sentinel dVPN (10),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-204,WIPAK-AS,0,1,1,lt-50,Vpnht (10),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-205,XTOM xTom GmbH,0,1,1,lt-50,Sentinel dVPN (6); Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-206,AFRIHOST-SP,0,1,1,lt-50,Windscribe (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-207,AMARUTU-TECHNOLOGY,0,1,2,lt-50,PureVPN (6); Ivacy (2); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-208,ASN-XTUDIONET,0,1,1,lt-50,Anonine (9); BoxPN (9); EasyHideIP (9); FrootVPN (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-209,CHERRYSERVERS1-AS,0,1,1,lt-50,Astrill (4); Psiphon (4); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-210,CYBERCON,0,1,1,lt-50,Astrill (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-211,DEXDC,0,1,1,lt-50,Sentinel dVPN (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-212,H2NEXUS-AS,0,1,1,lt-50,Sentinel dVPN (4); SotaVPN (4); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-213,I-SERVERS-EAST,0,1,1,lt-50,Sentinel dVPN (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-214,ITL-BG,0,1,2,lt-50,WorldVPN (5); AnonymousVPN (2); VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-215,MAJESTIC-HOSTING-01,0,1,1,lt-50,Sentinel dVPN (6); Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-216,ONLYSERVERS Dedicated Server Hosting Provider,0,1,1,lt-50,Vpnht (5); Kompot VPN (3); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-217,OWL-AS-AP Owl Limited,0,1,1,lt-50,Mullvad (8); AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-218,PRIVATE-NETWORKS,0,1,1,lt-50,RedShield VPN (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-219,SCLOUDPTELTD-AS Scloud Pte Ltd,0,1,1,lt-50,FlowVPN (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-220,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,0,1,1,lt-50,Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); Astrill (3); CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-221,"SIAMDATA-TH Siamdata Communication Co.,Ltd.",0,1,1,lt-50,Windscribe (6); VPN Jantit (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-222,SKB-AS SK Broadband Co Ltd,0,1,1,lt-50,FlowVPN (3); VPN Gate (3); Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-223,VDI-NETWORK,0,1,1,lt-50,Windscribe (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-224,WINDSCRIBE,0,1,1,lt-50,Windscribe (9),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-225,ZAPPIE-HOST-AS Zappie Host,0,1,1,lt-50,VPN Unlimited (6); FlowVPN (1); Safervpn (1); Vpnht (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-226,1GSERVERS,0,1,1,lt-50,Sentinel dVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-227,BT-UK-AS BTnet UK Regional network,0,1,1,lt-50,NordVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-228,CONTABO,0,1,1,lt-50,Sentinel dVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-229,ENDOFFICE,0,1,1,lt-50,NordVPN (4); Astrill (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-230,GLOBALHOST-BOSNIA-AS,0,1,1,lt-50,Windscribe (4); Astrill (3); ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-231,HOSTEROID,0,1,1,lt-50,Sentinel dVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-232,HSI-EUROPE,0,1,2,lt-50,Astrill (6); GhostPath (1); NetShade (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-233,ILAIT,0,1,1,lt-50,PrivateVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-234,NEWPUSH,0,1,1,lt-50,FlowVPN (7); Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-235,ORACLE-BMC-31898,0,1,1,lt-50,MoriVPN (4); Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-236,RAVNIX,0,1,1,lt-50,Sentinel dVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-237,SERVER24-AS INCUBATEC GmbH - Srl,0,1,1,lt-50,Anonine (8); BoxPN (8); EasyHideIP (8); FrootVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-238,SERVERHUB-NL,0,1,1,lt-50,Astrill (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-239,SSASN2,0,1,1,lt-50,Astrill (5); FlowVPN (2); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-240,TELE2,0,1,2,lt-50,PureVPN (6); Ivacy (3); ProtonVPN (1); VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-241,VIVIDHOSTING,0,1,1,lt-50,NordVPN (8),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-242,AKTON-AS Akton Autonomous System,0,1,1,lt-50,VPN Unlimited (6); Astrill (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-243,AS-30083-US-VELIA-NET,0,1,1,lt-50,Astrill (4); VPN Unlimited (2); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-244,ASDETUK www.heficed.com,0,1,1,lt-50,Smartdnsproxy (2); AnonymousVPN (1); FlowVPN (1); SwitchVPN (1); Trust.Zone (1); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-245,CENTAURUS_AGENA3000,0,1,1,lt-50,Vpnht (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-246,COMFACCORPORATION-AS-AP COMFAC CORPORATION,0,1,1,lt-50,VPN Jantit (4); FlowVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-247,CYTA-NETWORK Internet Services,0,1,1,lt-50,Windscribe (6); PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-248,DASABO,0,1,1,lt-50,Sentinel dVPN (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-249,ENZUINC-,0,1,1,lt-50,VPN Unlimited (3); Astrill (2); Smartdnsproxy (2); Getflix (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-250,GIGAINFRA SoftBank Corp.,0,1,1,lt-50,VPN Gate (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-251,IDC-AS-AP Dromatics Systems Pte Ltd,0,1,1,lt-50,Sentinel dVPN (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-252,INT-NETWORK,0,1,1,lt-50,VPN.ac (5); HideIPVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-253,INTERHOST,0,1,1,lt-50,WiTopia (4); GhostPath (1); SmartVPN (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-254,ITL-LV,0,1,2,lt-50,WorldVPN (5); FlowVPN (1); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-255,KVCNET-2009,0,1,1,lt-50,Astrill (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-256,"LAIN we love lain, cats and the world wide web",0,1,1,lt-50,Sentinel dVPN (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-257,NOVOSERVE-AS,0,1,1,lt-50,ProtonVPN (7),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-258,OUIHEBERG,0,1,1,lt-50,Sentinel dVPN (4); KevinVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-259,ROSTELECOM-AS PJSC Rostelecom. Technical Team,0,1,1,lt-50,VPNObratno (6); VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-260,SOVAM-AS,0,1,1,lt-50,Astrill (4); Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-261,SPARKED,0,1,1,lt-50,Sentinel dVPN (5); VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-262,THEOPT-HOU,0,1,1,lt-50,Astrill (3); VPN Unlimited (3); GhostPath (1); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-263,TIMEWEB-AS,0,1,1,lt-50,Kompot VPN (4); KeyDrop (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-264,WEBHS WEBSP LDA,0,1,1,lt-50,WiTopia (5); FastestVPN (1); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-265,XTOM xTom,0,1,1,lt-50,Mullvad (5); Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-266,ACEHOST,0,1,1,lt-50,Windscribe (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-267,ALEXHOST,0,1,2,lt-50,CactusVPN (2); Cryptostorm (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-268,AS-NETWORKEDGE,0,1,1,lt-50,Windscribe (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-269,CLOUDWEBMANAGE-,0,1,1,lt-50,Astrill (3); FlowVPN (1); Sentinel dVPN (1); VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-270,DATALOGISTICS,0,1,1,lt-50,Windscribe (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-271,Dattatec.com,0,1,1,lt-50,FlowVPN (3); Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-272,ELD-AS-AP Edgenext Legend Dynasty Pte. Ltd.,0,1,1,lt-50,Sentinel dVPN (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-273,FIBERSTATE,0,1,1,lt-50,Astrill (3); Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-274,HEARTBEAT-IT,0,1,1,lt-50,Sentinel dVPN (4); KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-275,HUGESERVER-NETWORKS,0,1,1,lt-50,Astrill (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-276,IDIGITAL,0,1,1,lt-50,Anonine (5); BoxPN (5); EasyHideIP (5); FrootVPN (5); FlowVPN (1); Froot (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-277,IFX18747,0,1,5,lt-50,PrivateVPN (5); AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-278,InterBS S.R.L. BAEHOST,0,1,1,lt-50,Astrill (5); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-279,JONE,0,1,1,lt-50,Mullvad (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-280,LEASEWEB-USA-WDC,0,1,1,lt-50,Cryptostorm (2); FastestVPN (1); HideIPVPN (1); Ivacy (1); PureVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-281,LINKdotNET-AS,0,1,1,lt-50,Sentinel dVPN (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-282,LITESERVER,0,1,1,lt-50,FreeVPN (2); SotaVPN (2); Safervpn (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-283,METRABYTE-TH 453 Ladplacout Jorakhaebua,0,1,1,lt-50,WiTopia (5); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-284,MYSTICDEVIO,0,1,1,lt-50,Sentinel dVPN (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-285,NINE,0,1,1,lt-50,PhantomPeer (2); GhostPath (1); Proxpn (1); Safervpn (1); SmartVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-286,OPTIMUS-AS,0,1,1,lt-50,VPN Unlimited (4); GhostPath (1); SmartVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-287,PROSERVICE,0,1,1,lt-50,Windscribe (3); ExpressVPN (2); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-288,QNAX LTDA,0,1,1,lt-50,Windscribe (3); CactusVPN (1); IVPN (1); PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-289,SECURITYNET-AS,0,1,1,lt-50,FlowVPN (4); GhostPath (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-290,SERVERASTRA-AS,0,1,1,lt-50,Astrill (3); GhostPath (1); VPN Jantit (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-291,"SERVERFIELD-AS Serverfield Co., Ltd.",0,1,2,lt-50,Astrill (4); GhostPath (1); Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-292,SKYNET-CY-AS,0,1,1,lt-50,Windscribe (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-293,TTM,0,1,1,lt-50,Trust.Zone (5); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-294,UNMETERED,0,1,1,lt-50,Windscribe (6),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-295,YURTEH-AS,0,1,1,lt-50,Astrill (3); AnonymousVPN (2); Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-296,AS-ANEXIA ANEXIA Internetdienstleistungs GmbH,0,1,1,lt-50,Vpnht (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-297,AS-CATIXS-AKA,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-298,AS45671-NET-AU Wholesale Services Provider,0,1,1,lt-50,Private Internet Access (2); Smartdnsproxy (2); CyberGhost (1); Getflix (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-299,ASERGO-AS,0,1,1,lt-50,Astrill (3); Getflix (1); Smartdnsproxy (1); Vpnht (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-300,AVAHOHST,0,1,1,lt-50,Sentinel dVPN (4); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-301,BYTEVIRTLLC,0,1,1,lt-50,FlowVPN (4); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-302,CB-BYO-IP,0,1,1,lt-50,WorldVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-303,CNSERVER-AP-AS CNServer LLC,0,1,1,lt-50,WiTopia (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-304,COMVIVE-AS Seville - Spain,0,1,1,lt-50,GhostPath (1); Le VPN (1); Safervpn (1); SmartVPN (1); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-305,"COREIX-UK-AS London, Great Britain",0,1,1,lt-50,SwitchVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-306,FOURPLEX-ASN,0,1,1,lt-50,KevinVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-307,GIR-AS,0,1,1,lt-50,Kompot VPN (3); VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-308,HALIL-OMER-TEKIN,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-309,HOSTEONS-AS-AP Hosteons Pte. Ltd.,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-310,HZ-EU-AS,0,1,1,lt-50,Trust.Zone (2); VPN Unlimited (2); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-311,IFOG-GMBH,0,1,1,lt-50,FlowVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-312,INTERSTAR,0,1,1,lt-50,WiTopia (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-313,IS-AS-1,0,1,1,lt-50,VPN.ac (3); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-314,KAZTELECOM-AS,0,1,1,lt-50,Sentinel dVPN (3); VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-315,"M247-UK M247 UK Ltd, trading as M247",0,1,1,lt-50,Trust.Zone (2); Cryptostorm (1); Goosevpn (1); IVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-316,MEVSPACE,0,1,1,lt-50,Kompot VPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-317,NETWIRE-INC,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-318,NOVOSERVE-CUSTOMERS-AS NovoServe Customers ASN,0,1,1,lt-50,ProtonVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-319,ONEASIAHOST OneAsiaHost,0,1,1,lt-50,VPN Jantit (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-320,PROMO-PLUS,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-321,PSKZ-ALA,0,1,1,lt-50,Kompot VPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-322,ROYALE-AS,0,1,1,lt-50,Sentinel dVPN (3); KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-323,RYAMER,0,1,1,lt-50,Windscribe (3); AzireVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-324,Red Cientifica Peruana,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-325,SAS-SHPV-FRANCE,0,1,1,lt-50,Freedomip (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-326,SERVER server.ua,0,1,1,lt-50,AzireVPN (1); CactusVPN (1); IVPN (1); PrivateVPN (1); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-327,SERVERSTADIUM,0,1,1,lt-50,Astrill (3); Safervpn (1); VPN Unlimited (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-328,SKHRON Skhron OU: skhron.eu,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-329,TWO-DEGREES-AS-AP Two Degrees Networks Limited,0,1,1,lt-50,Astrill (4); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-330,VECTANT ARTERIA Networks Corporation,0,1,1,lt-50,VPN Gate (3); FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-331,VIETEL-AS-AP Viettel Group,0,1,1,lt-50,WiTopia (4); VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-332,WCZAPKOWICZ-AS as214481as-wczapkowicz Chunkserve Backbone Transit,0,1,1,lt-50,Sentinel dVPN (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-333,WEBENLET-AS,0,1,1,lt-50,Astrill (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-334,WEBEX,0,1,1,lt-50,WiTopia (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-335,WEBWORLD-AS ta Web World Ireland,0,1,2,lt-50,Astrill (3); OysterVPN (1); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-336,WESTHOST,0,1,1,lt-50,Mullvad (5),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-337,XSERVERCLOUD,0,1,1,lt-50,AnonymousVPN (1); FastestVPN (1); IVPN (1); Sentinel dVPN (1); VPN Unlimited (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-338,ZAYO-6461,0,1,1,lt-50,Private Internet Access (3); CyberGhost (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-339,ABKHAZMEDIA-AS,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-340,ACTIVE-SERVERS active-servers.com,0,1,1,lt-50,Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-341,AS-CYBER-DATA,0,1,1,lt-50,Mullvad (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-342,ASBAXETN,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-343,Administracion Nacional de Telecomunicaciones,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-344,Autonomous System for Dataspace P.S.A.,0,1,1,lt-50,PrivateVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-345,BAGE,0,1,1,lt-50,FlowVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-346,BINARYRACKS-AS,0,1,1,lt-50,Astrill (3); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-347,BYTENODE-AS,0,1,1,lt-50,Mullvad (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-348,"CAT-AP The Communication Authoity of Thailand, CAT",0,1,1,lt-50,TorGuard (4); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-349,CIVO-UK,0,1,1,lt-50,FlowVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-350,CLOUDFLARENET,0,1,1,lt-50,KevinVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-351,CLOUDLEASE,0,1,1,lt-50,Astrill (3); Trust.Zone (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-352,COOPNORGE,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-353,DATABRIDGE,0,1,1,lt-50,Mullvad (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-354,DELTAHOST-KYIV,0,1,1,lt-50,VPNSecure (2); FlowVPN (1); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-355,EDGECENTERLLC,0,1,1,lt-50,FlowVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-356,EVOLUS-IX,0,2,1,lt-50,KevinVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-357,FARDA-IX-LINK,0,1,1,lt-50,Psiphon (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-358,FIRST-SERVER-EU-AS FIRST-SERVER-US,0,1,1,lt-50,Trust.Zone (2); VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-359,GNETINC-AS-AP GNET INC.,0,1,1,lt-50,Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-360,HAYASHIMO,0,1,1,lt-50,Mullvad (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-361,HON-ASN,0,1,1,lt-50,Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-362,HOSTBILBY,0,1,1,lt-50,KevinVPN (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-363,HOSTKEY-USA,0,1,1,lt-50,Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-364,HOSTUP HOSTUP,0,1,1,lt-50,KevinVPN (2); Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-365,HUTCHISON-AS-AP HGC Global Communications Limited,0,1,1,lt-50,Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-366,IDNIC-BIZNETGIO-AS-ID PT Biznet Gio Nusantara,0,1,1,lt-50,VPN Jantit (3); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-367,INTERNETPORT-AS,0,1,1,lt-50,Astrill (3); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-368,IOFLOOD,0,1,1,lt-50,Astrill (3); SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-369,LERTAS-AS,0,1,1,lt-50,Astrill (3); PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-370,NANO-AS,0,1,1,lt-50,CCrypto VPN (2); Surfshark (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-371,PHOENIXNAP-SRB,0,1,1,lt-50,Astrill (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-372,RACKVOLT-AS-AP RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-373,ROGERS-COMMUNICATIONS,0,1,1,lt-50,NordVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-374,SELECTEL-MSK,0,1,1,lt-50,WiTopia (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-375,SENKO-AS Senko Digital Ltd,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-376,SERVER-AS-AP Server Galactic Private Limited,0,1,1,lt-50,Sentinel dVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-377,SERVERS-AUS-CUST Servers Australia Customers,0,1,1,lt-50,Private Internet Access (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-378,SO-NET Sony Network Communications Inc.,0,1,1,lt-50,VPN Gate (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-379,TANGRAM-CANADA-INC,0,1,1,lt-50,AnonymousVPN (3); WorldVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-380,VERSATEL,0,1,1,lt-50,NordVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-381,WEB2OBJECTS,0,1,1,lt-50,NordVPN (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-382,XTOM,0,1,1,lt-50,Mullvad (4),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-383,iHosting Servicios Internet Ltda.,0,1,1,lt-50,TorGuard (3); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-384,-Reserved AS-,0,2,2,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-385,ACTIVENETWORK-AS Active Network S.p.A.,0,1,1,lt-50,Sentinel dVPN (2); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-386,"ALWYZON Alwyzon, a trading name of Hohl IT e.U.",0,1,1,lt-50,FlowVPN (2); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-387,AS-SERVERION Serverion B.V.,0,1,1,lt-50,Smartdnsproxy (3); Getflix (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-388,ASN-METANET Routingpeering issues: noc@metanet.ch,0,1,1,lt-50,VPNUK (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-389,BAHNHOF,0,1,1,lt-50,Integrityvpn (1); ProtonVPN (1); VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-390,"BANGMODENTERPRISE-TH Bangmod Enterprise Co., Ltd.",0,1,1,lt-50,AzireVPN (1); PrivateVPN (1); RedShield VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-391,BEGET-AS,0,1,1,lt-50,KeyDrop (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-392,BELCLOUD Premium IP transit network,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-393,BV-EU-AS,0,1,3,lt-50,CactusVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-394,Banka Kombetare Tregtare Sh.A.,0,1,1,lt-50,Vpnht (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-395,CAPL-AS-AP Contabo Asia Private Limited,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-396,CL8ASN1,0,1,1,lt-50,FlowVPN (1); PrivateVPN (1); Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-397,CLOUDWEBMANAGE-UK-1,0,1,1,lt-50,FlowVPN (2); VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-398,"CTCX Chubu Telecommunications Company, Inc.",0,1,1,lt-50,VPN Gate (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-399,CYBERSE Cyberse GmbH & Co. KG,0,1,1,lt-50,KevinVPN (2); FreeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-400,DE-CORP DE-CORP,0,1,1,lt-50,Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-401,DF-TRANSIT,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-402,FIRST-SERVER-EUROPE,0,1,1,lt-50,VPN Jantit (2); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-403,GHT-NET,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-404,HIZAKURA-,0,1,1,lt-50,KevinVPN (2); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-405,HOLLANDER-JACOBSEN,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-406,HOSTPAT-AS-IN HOSTDZIRE WEB SERVICES PRIVATE LIMITED,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-407,HS,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-408,Host-Africa-AS,0,1,1,lt-50,Sentinel dVPN (2); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-409,IGNERO,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-410,IKOULA,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-411,INIOS-AS,0,1,1,lt-50,PureVPN (2); Ivacy (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-412,ITLDC-EU,0,1,2,lt-50,WorldVPN (2); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-413,ITM NORD AS,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-414,IXIR,0,1,1,lt-50,FastestVPN (1); OysterVPN (1); VPNUK (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-415,"JTCL-JP-AS JCOM Co., Ltd.",0,1,1,lt-50,VPN Gate (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-416,KAMATERA,0,1,1,lt-50,VPNSecure (2); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-417,KIRINONET,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-418,LACHANSO-VN Digital Shield Technology Company Limited,0,1,1,lt-50,Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-419,LANCOM Athens - Greece,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-420,LGDACOM LG DACOM Corporation,0,1,1,lt-50,Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-421,LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE,0,1,1,lt-50,WiTopia (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-422,MADGEN-01,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-423,MAGNA-CAPAX,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-424,MASTER-AS Czech Republic  www.master.cz,0,1,1,lt-50,Sentinel dVPN (2); AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-425,MVPS www.mvps.net,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-426,NETCUP-AS netcup GmbH,0,1,1,lt-50,Sentinel dVPN (2); KeyDrop (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-427,NETERRA-AS,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-428,"NNECL-AS-AP NZ Network Enterprise Co., Ltd.",0,1,1,lt-50,Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-429,NUSANET-AS-ID PT. Media Antar Nusa,0,1,1,lt-50,FreeVPN (2); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-430,NUYEK,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-431,OCN NTT Communications Corporation,0,1,1,lt-50,VPN Gate (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-432,PROLOCATION Prolocation,0,1,1,lt-50,Goosevpn (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-433,PROXAD,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-434,RISEUP,0,1,1,lt-50,Riseup VPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-435,ROUTE95,0,1,1,lt-50,WorldVPN (2); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-436,ROUTERHOSTING,0,1,1,lt-50,MoriVPN (2); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-437,SERVITRO-LTD,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-438,SILKGLOBAL DOMINICANA SRL,0,1,1,lt-50,WiTopia (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-439,SIMPLYTRANSIT,0,1,1,lt-50,VPNUK (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-440,SMARTAPE,0,1,1,lt-50,CactusVPN (2); HideIPVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-441,SYNAPSECOM-AS SYNAPSECOM TELECOMS S.A.,0,1,1,lt-50,VPN Unlimited (2); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-442,THE-HOSTING,0,1,1,lt-50,FlowVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-443,TWO-E-TELEKOM,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-444,ULTAHOST-AP-AS,0,1,2,lt-50,VPN Jantit (2); CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-445,VAULT-HOST,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-446,VCL-AS-AP Virtury Cloud Private Limited,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-447,VDSINA,0,1,1,lt-50,KeyDrop (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-448,VEESP-AS,0,1,1,lt-50,WorldVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-449,VIRMACH,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-450,VITALNG,0,1,1,lt-50,GhostPath (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-451,VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,0,1,1,lt-50,Astrill (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-452,VPLSNET,0,1,1,lt-50,Windscribe (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-453,WORLDBUS,0,2,1,lt-50,FlowVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-454,YOTTASRC,0,1,1,lt-50,Sentinel dVPN (3),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-455,AIS-FIBRE-AS-AP AIS Fibre,0,1,1,lt-50,VPN Gate (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-456,ALJASKA-AS,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-457,AMAZON-AES,0,1,1,lt-50,Octanevpn (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-458,ANTON-LEVIN-AS,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-459,AS-3HCLOUD,0,1,1,lt-50,KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-460,AS-SERVERION,0,1,1,lt-50,Smartdnsproxy (2); Getflix (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-461,AS213929CH AS213929.ch,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-462,ASN-FLEXENTIAL,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-463,ATLANTIC-NET-1,0,1,1,lt-50,Getflix (1); HideIPVPN (1); Smartdnsproxy (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-464,ATT-INTERNET4,0,1,1,lt-50,Goosevpn (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-465,AXARNET-AS,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-466,BALTNETA Customers AS,0,1,1,lt-50,AnonymousVPN (1); FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-467,BIGLOBE BIGLOBE Inc.,0,1,1,lt-50,VPN Gate (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-468,C1V Internet Service Provider in Italy,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-469,CABLENET-AS,0,1,1,lt-50,ProtonVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-470,CARRIERDOMAIN-NYC,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-471,COLOCATEL-INC Colocatel Network - High Bandwidth Dedicated Servers,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-472,COMCAST-7922,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-473,COOLHOUSING-AS Vinohradska 190,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-474,CORE-BACKBONE CORE-BACKBONE GMBH GLOBAL NETWORK,0,1,1,lt-50,FlowVPN (1); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-475,CROWNCLOUD,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-476,CSLOX-IDC-AS-AP CS LOXINFO Public Company Limited.,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-477,CTRLS-AS-IN CtrlS,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-478,DAINTERNATIONALGROUP,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-479,DCE,0,1,1,lt-50,Surfshark (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-480,DOT,0,1,1,lt-50,VPNSecure (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-481,ELCRO-DIGITAL-SERVICES-LLC,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-482,"ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc.",0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-483,EVOCATIVE-GLOBAL,0,1,1,lt-50,CyberGhost (1); Private Internet Access (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-484,EVOXTENTERPRISE-AS-AP Evoxt Enterprise,0,1,1,lt-50,FlowVPN (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-485,FARICE-AS,0,1,1,lt-50,ProtonVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-486,FASTPANDA,0,1,1,lt-50,Sentinel dVPN (1); VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-487,FRONTIER-FRTR,0,1,1,lt-50,Astrill (1); Vpnfacile (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-488,GLBBULUTTEKNOLOJISI-AS,0,1,1,lt-50,FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-489,HIVE-DATA-CENTER,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-490,HKTIMS-AP HKT Limited,0,1,1,lt-50,Astrill (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-491,HOST-MEDIA-LTD,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-492,HOSTINGINSIDE HostingInside LTD.,0,1,1,lt-50,PrivateVPN (1); ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-493,HOSTKEY-AS,0,1,1,lt-50,KevinVPN (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-494,HOSTSLIM-GLOBAL-NETWORK,0,1,1,lt-50,CCrypto VPN (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-495,HSO-GROUP,0,1,1,lt-50,GhostPath (1); uVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-496,HZ-UK-AS,0,1,1,lt-50,Trust.Zone (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-497,HZ-US-AS,0,1,1,lt-50,Trust.Zone (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-498,Host-Africa-AS2,0,1,1,lt-50,AnonymousVPN (1); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-499,I-SERVERS-NORTH-EU to AS51765 announce AS207569,0,1,1,lt-50,VPN Jantit (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-500,I4W,0,1,1,lt-50,CactusVPN (1); Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-501,IDNIC-ATHAMEDIANET-AS-ID CV Atha Media Prima,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-502,IDNIC-BSTI-AS-ID PT Berkah Solusi Teknologi Informasi,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-503,IDNIC-SUITEN-AS-ID PT. SUITEN INOVASI SUKSES,0,1,1,lt-50,AzireVPN (1); ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-504,INALAN,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-505,INFOMANIAK-AS,0,1,1,lt-50,KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-506,INTERDIGI-VN INTERDIGI JOINT STOCK COMPANY,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-507,INTERNETO-VIZIJA,0,1,1,lt-50,HideIPVPN (1); PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-508,J AND J SPA INFOFRACTAL,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-509,KARABRO Karabro AB,0,1,1,lt-50,FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-510,KEYWEB-AS,0,1,1,lt-50,OVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-511,KOUMBIT,0,1,1,lt-50,Riseup VPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-512,KREDIT-AS,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-513,KUZEYDC,0,1,1,lt-50,KevinVPN (1); Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-514,LEASEWEB-UK-LON-11,0,1,1,lt-50,NetShade (1); VPN.ac (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-515,LIGHT4-AS-AP LIGHT NODE LIMITED,0,1,1,lt-50,Sentinel dVPN (1); Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-516,LIVENET-,0,1,1,lt-50,HideIPVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-517,LV-2CLOUD-ASN16,0,1,1,lt-50,CactusVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-518,MAKONIX,0,1,2,lt-50,AnonymousVPN (1); FreeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-519,MICROTRONIX-ESOLUTIONS,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-520,MIVOCLOUD,0,1,1,lt-50,ProtonVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-521,MYTEK-AS-AP MYTEK TRADING PTY LTD,0,1,1,lt-50,IVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-522,NEXT-ALAN-AS,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-523,NUCLEARFALLOUT-CHI,0,1,1,lt-50,CactusVPN (1); LimeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-524,NUCLEARFALLOUT-DAL,0,1,1,lt-50,CactusVPN (1); LimeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-525,NUCLEARFALLOUT-LAX,0,1,1,lt-50,CactusVPN (1); LimeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-526,Offshore Racks S.A,0,1,1,lt-50,FlowVPN (1); GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-527,PEBBLEHOST,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-528,PV-HOSTED,0,1,1,lt-50,ProtonVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-529,QUICKPACKET,0,1,1,lt-50,GhostPath (2); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-530,RACKFOREST-AS,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-531,RADIOGRAFICA COSTARRICENSE,0,1,1,lt-50,PrivateVPN (1); Proxpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-532,SERVERHOUSE,0,1,1,lt-50,GhostPath (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-533,SERVHOST-AS,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-534,SHOCK-1,0,1,1,lt-50,RedShield VPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-535,SINAVPS SinaVPS,0,1,1,lt-50,FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-536,SITCL-AS-AP Silicon Cloud Global US,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-537,SRX TECNOLOGIA DA INFORMACAO LTDA,0,1,1,lt-50,RedShield VPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-538,SYSTEMINPLACE,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-539,THINKSYSTEMSUK-ASN,0,1,1,lt-50,HideIPVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-540,TR-PENTECH-AS,0,1,1,lt-50,Getflix (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-541,UKRAINE-AS,0,1,1,lt-50,Zoogvpn (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-542,VEESP-LV-AS,0,1,1,lt-50,SotaVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-543,VHOST-AS-VN Viet Solutions Services Trading Company Limited,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-544,VHOST-HOLDINGS-SG vHost Holdings Pte Ltd,0,1,1,lt-50,FlowVPN (1); VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-545,VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-546,WAICORE-LTD WAICORE LTD,0,1,1,lt-50,KevinVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-547,WEBDOCK-AS,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-548,WHITELABELIT,0,1,1,lt-50,Astrill (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-549,WISDOM-CLOUD,0,1,1,lt-50,FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-550,XANDMAIL-ASN,0,1,1,lt-50,FlowVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-551,XTOM xTom Pty Ltd,0,1,1,lt-50,Sentinel dVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-552,ZETSERVERS ZetServers.com - Unmetered Cloud and Dedicated Servers Provider,0,1,1,lt-50,CactusVPN (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-553,ZHOUYISAT-COMMUNICATIONS,0,1,1,lt-50,VPN Jantit (2),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-554,AARONSMITH-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-555,ADVIN-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-556,AEZA-AS,0,1,1,lt-50,KeyDrop (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-557,AHCLOUD,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-558,"ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.",0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-559,AMIS,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-560,"ARDH-AS-ID ARDH GLOBAL INDONESIA, PT",0,1,1,lt-50,Astrill (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-561,ARUBAFR-AS,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-562,AS-DATASOURCE,0,1,1,lt-50,Hide.me (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-563,AS-GEOHOSTING,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-564,AS-ITFRUIT,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-565,AS-TEKNOSOS-INT,0,1,1,lt-50,RedShield VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-566,AS40028 - 1651884 Ontario Inc.,0,1,1,lt-50,AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-567,AS49870-BV,0,1,1,lt-50,Vpnht (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-568,AS62212,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-569,ASBAXET,0,1,1,lt-50,Kompot VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-570,ASN-ROUTELABEL,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-571,ASTURKNET,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-572,AUTO1-RIPE,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-573,AWEB-ASN,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-574,AXUSHOST,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-575,BALTKOM-AS,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-576,BAT-AS9038,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-577,BESTHOSTING-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-578,BLXGRP,0,1,1,lt-50,AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-579,BOUYGTEL-B2B,0,1,1,lt-50,Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-580,BOUYGTEL-ISP,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-581,BRAINOZA,0,1,1,lt-50,FreeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-582,BSKYB-BROADBAND-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-583,CALYX-AS,0,1,1,lt-50,Riseup VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-584,"CANET IMIZU CABLE NETWORK CO.,LTD.",0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-585,CAT-CLOUD-AP CAT Telecom Public Company Limited,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-586,CDM,0,1,1,lt-50,GhostPath (1); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-587,CENTURY-LTD,0,1,1,lt-50,Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-588,CHOCIZ-AS,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-589,CLOUDSIGMA-AS,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-590,CLOUDVALLEY-AS-AP Cloudvalley Sdn. Bhd.,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-591,CMBHK-AS-KR CMB,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-592,DACEN-2,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-593,DE-FIRSTCOLO firstcolo.net,0,1,1,lt-50,KevinVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-594,DEDAUS-AS-AP Dedicated Servers Australia,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-595,DELTA-TELECOM-AS International Communication Operator,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-596,DHH-AS,0,1,1,lt-50,ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-597,DIG001,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-598,DIGIWEB-AS,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-599,DINSERVGRO-NET,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-600,DMIT,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-601,"DOCOMO NTT DOCOMO, INC.",0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-602,ENET-2,0,1,1,lt-50,GhostPath (1); SlickVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-603,ENTECHNOLOGIES-AS-AP EN Technologies Pte Ltd,0,1,1,lt-50,FreeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-604,ERTH-OMSK-AS,0,1,1,lt-50,VPNObratno (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-605,ESAMARA-AS,0,1,1,lt-50,VPNObratno (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-606,ESSENSYSINC,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-607,ESTOXY-OU,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-608,ESTRUXTURE-QC-10929,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-609,EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd.,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-610,FABIT-AS,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-611,FBX-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-612,FEELB,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-613,FIBERGRID,0,1,1,lt-50,ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-614,FIBERPOWER-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-615,FPT-AS-AP FPT Telecom Company,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-616,FREETHOUGHT-AS,0,1,1,lt-50,Vpnfacile (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-617,FUTURE-LAIN,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-618,France Telecom - Orange,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-619,GAYANET-AS-KR LG HelloVision Corp.,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-620,GINERNET,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-621,GOCODEIT-EDGE,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-622,GOODHOSTKZ Goodhost.KZ - Hosting provider of Kazakhstan. Dedicated and VDSVPS hosting,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-623,GTD PERU S.A,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-624,Gigared S.A.,0,1,1,lt-50,Kompot VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-625,HETZNER-CLOUD4-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-626,HKBN-AS-AP Hong Kong Broadband Network Ltd.,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-627,HNSL-AS-AP Hytron Network Services Limited,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-628,HOOPLAHOSTING-AS-AP Hoopla Hosting Limited,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-629,HOSTUS-GLOBAL-AS HostUS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-630,IDCF IDC Frontier Inc.,0,1,1,lt-50,Vpnht (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-631,IDNIC-HERZA-AS-ID PT Herza Digital Indonesia,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-632,IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-633,IIJ Internet Initiative Japan Inc.,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-634,IL,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-635,INDE-PTE-EU,0,1,1,lt-50,Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-636,INFOLINK-MIA-,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-637,"INTERNET-CZ Ktis 2, 384 03 Ktis",0,1,1,lt-50,SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-638,INTERNETBILISIM,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-639,INTERNETBOLAGET-DE,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-640,INTERSPACE-EUROPE,0,1,1,lt-50,ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-641,IP-PROJECTS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-642,IPAX-AS,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-643,IPHOST .GR IpDomain,0,1,1,lt-50,Getflix (1); Smartdnsproxy (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-644,IPSERVICE-AS,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-645,IT2-AS-AP IT Nut Hosting,0,1,1,lt-50,Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-646,IWEB-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-647,Informatica y Telecomunicaciones S.A.,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-648,JOYSVC-AS-IN JOY SERVICES,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-649,KCNNET-AS-KR Keumgang Cable Network,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-650,KCTVNET-AS-KR Korea Cable TV Kwangju Broadcasting,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-651,KUROIT Kuroit Limited,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-652,LAMA-AS-VN LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-653,LAYER,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-654,LCPDCO LCP AS dc oostkamp,0,1,1,lt-50,SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-655,LDEX,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-656,LEASEWEB-USA-MIA,0,1,1,lt-50,PureVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-657,LGHL-AS-AP Liasail Global Hongkong Limited,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-658,LIMITEDNETWORK-AS,0,1,1,lt-50,PureVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-659,LOCLIXIT-AS,0,1,1,lt-50,KevinVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-660,M247 Enterprise Services,0,1,1,lt-50,TorGuard (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-661,M5HOSTING,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-662,MAGTICOMAS Magticom,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-663,MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-664,MANN-IT-AS,0,1,1,lt-50,AzireVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-665,MELITACABLE,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-666,MFBANKA-AS,0,1,1,lt-50,CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-667,MIDCO-NET,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-668,MTW-AS,0,1,1,lt-50,KeyDrop (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-669,MVMTECH-AS,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-670,MYTHIC Mythic Beasts Ltd,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-671,NAV NAV Communications,0,1,1,lt-50,AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-672,NETPLUS,0,1,1,lt-50,SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-673,NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-674,NEXTGENWEBS-NL,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-675,NFX_ZSPO,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-676,NHL-AS1,0,1,1,lt-50,VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-677,NKTELECOM,0,1,1,lt-50,VPN Jantit (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-678,NOVA-CLOUD-,0,1,1,lt-50,Astrill (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-679,NUCLEARFALLOUT-ATL,0,1,1,lt-50,CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-680,NUCLEARFALLOUT-FRA,0,1,1,lt-50,LimeVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-681,NUCLEARFALLOUT-NYC,0,1,1,lt-50,CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-682,NUCLEARFALLOUT-SEA,0,1,1,lt-50,CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-683,NUXOA,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-684,NV-ASN CELLCOM ltd.,0,1,1,lt-50,Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-685,OBE-NET,0,1,1,lt-50,OVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-686,ONE-NETWORK,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-687,OPTAGE OPTAGE Inc.,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-688,PALTEL-AS PALTEL Autonomous System,0,1,1,lt-50,ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-689,PDDA-AS,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-690,PIPE-NET pipehost.net,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-691,PIPEHOST-AS PIPEHOST,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-692,POWERLINE-AS-AP POWER LINE DATACENTER,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-693,POWERVIS-AS-KR LG POWERCOMM,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-694,PROENNET-AS Proen Corp Public Company Limited.,0,1,1,lt-50,Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-695,QTSC-AS-VN Quang Trung Software City Development Company,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-696,QUICKHOSTUK,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-697,RACKRAY UAB Rakrejus,0,1,1,lt-50,Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-698,RAJASA-AS-ID-AP PT. Raja Sepadan Abadi,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-699,RAMNODE,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-700,RAY-AS,0,1,1,lt-50,VPNObratno (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-701,RCS-RDS 73-75 Dr. Staicovici,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-702,"REDCOM-AS Redcom, Khabarovsk, Russia",0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-703,RELAYIFY-LLC,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-704,RETEK,0,1,1,lt-50,MoriVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-705,RICAWEBSERVICES,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-706,RS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-707,RU-AEZA-AS,0,1,1,lt-50,Kompot VPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-708,RU-JSCIOT,0,1,1,lt-50,KeyDrop (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-709,SCALAXY-AS,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-710,SELL-AS Orasul Navodari - Primaria Navodari,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-711,SERVENET-AS-TH-AP ServeNET Solution Limited Partnership,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-712,SERVERCENTRAL,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-713,SERVERUM-AS,0,1,1,lt-50,VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-714,SETCOR,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-715,SH-COM-,0,1,1,lt-50,Smartdnsproxy (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-716,SIA_2CLOUD,0,1,1,lt-50,AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-717,SKB-NAMDONGNET-AS-KR SK Broadband Co Ltd,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-718,SKB-TBROAD_HANVIT-AS-KR SK Broadband Co Ltd,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-719,SOLLUTIUM-NL,0,1,1,lt-50,Hide.me (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-720,SPECTRAIP SpectraIP B.V.,0,1,1,lt-50,CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-721,SS7-AS,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-722,SSERV-AS,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-723,STREADER,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-724,SUNUCUN,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-725,SUOMICOMMUNICATIONS,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-726,SYN-UK SYN,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-727,SYPTEC-NOC,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-728,SZYBKINET,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-729,TCTEL,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-730,TECHTIDE,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-731,TELECOM-ARMENIA Telecom Armenia AS,0,1,1,lt-50,Zoogvpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-732,TELENOR-SE Telenor Sverige AB,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-733,THE-1984-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-734,TIF-AS Iliad Italia S.p.A,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-735,TNF-AS,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-736,"TOPHOST-MD-AS R.Moldova, Chisinau, Paris 18A",0,1,1,lt-50,CactusVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-737,TOT-NET TOT Public Company Limited,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-738,TPNET,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-739,TRANSATEL1-AS-AP Transatel,0,1,1,lt-50,SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-740,TRINITY-AS,0,1,1,lt-50,VPNObratno (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-741,TTC-AS JSC Transtelecom,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-742,TTSB-AS-AP Terabix,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-743,TUNGSTEN,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-744,TURNKEY-INTERNET,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-745,Truxgo S. de R.L de C.V,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-746,UCOM ARTERIA Networks Corporation,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-747,UK-NETCETERA Netcetera Autonomous System Peers,0,1,1,lt-50,PrivateVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-748,UNI2-AS,0,1,1,lt-50,HideIPVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-749,UNITEL-LA Star Telecom,0,1,1,lt-50,VPN Gate (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-750,UPCLOUD,0,1,1,lt-50,Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-751,USA-2022,0,1,1,lt-50,ProtonVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-752,UUNET,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-753,VELOCIHOST,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-754,VERGETEL1-AS-AP VERGETEL,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-755,VERMONT-TELE,0,1,1,lt-50,Astrill (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-756,VERSAWEB-ASN,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-757,VH-GLOBAL VH Global Limited,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-758,VIRTUASYS-EU Lift weight. Push bytes. Never drop. Repeat.,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-759,VODAFONE-IT-ASN,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-760,VOICE-NET-AS,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-761,VOOSERVERS,0,1,1,lt-50,GhostPath (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-762,W1N,0,1,1,lt-50,SwitchVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-763,WAP-AC,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-764,WEBAIR-INTERNET,0,1,1,lt-50,Safervpn (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-765,WEBHOSTING24-AS Webhosting24 GmbH,0,1,1,lt-50,AnonymousVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-766,WEYRO,0,1,1,lt-50,KevinVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-767,WHG-IN,0,1,1,lt-50,VPNSecure (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-768,WHITELABEL,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-769,WICHITA-INTER-KONNECTS-1LL4H,0,1,1,lt-50,Hotspotshield (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-770,XENIAHOSTING,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-771,YANDEXCLOUD,0,1,1,lt-50,KeyDrop (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-772,YESONGIT,0,1,1,lt-50,Sentinel dVPN (1),ipanalytics/vpn-provider-overlap-intelligence
+OperatorCluster-773,ZAM LTDA.,0,1,1,lt-50,FlowVPN (1),ipanalytics/vpn-provider-overlap-intelligence

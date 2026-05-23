@@ -1,0 +1,7 @@
+feature,scope,description
+country_spread_score,provider,Normalized country diversity
+hosting_diversity_score,provider,Normalized hosting-cluster diversity with concentration penalty
+shared_infra_score,provider,Concentration-derived shared infrastructure signal
+mmdb_country_match_rate,provider/country,Share of observations where source country matched private geo.mmdb country
+geo_truth_score,provider,"Plausibility blend of geography, city precision, hosting diversity, MMDB match rate, and confidence"
+virtual_location_pressure,country,"Country-level hosting concentration, city precision, and MMDB mismatch pressure signal"

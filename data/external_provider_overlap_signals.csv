@@ -1,0 +1,16 @@
+provider_a,provider_b,relationship_score,confidence,shared_exact_count,shared_prefix_count,shared_asn_count,source_repo
+Anonine,BoxPN,1.00,high,290,56,31,ipanalytics/vpn-provider-overlap-intelligence
+Anonine,EasyHideIP,1.00,high,285,55,30,ipanalytics/vpn-provider-overlap-intelligence
+Anonine,FrootVPN,1.00,high,285,55,30,ipanalytics/vpn-provider-overlap-intelligence
+BoxPN,EasyHideIP,1.00,high,285,55,30,ipanalytics/vpn-provider-overlap-intelligence
+BoxPN,FrootVPN,1.00,high,285,55,30,ipanalytics/vpn-provider-overlap-intelligence
+EasyHideIP,FrootVPN,1.00,high,285,55,30,ipanalytics/vpn-provider-overlap-intelligence
+Ivacy,PureVPN,0.79,high,27,20,9,ipanalytics/vpn-provider-overlap-intelligence
+Getflix,Smartdnsproxy,0.65,medium,18,18,15,ipanalytics/vpn-provider-overlap-intelligence
+Froot,FrootVPN,0.56,medium,21,11,10,ipanalytics/vpn-provider-overlap-intelligence
+GhostPath,SlickVPN,0.56,medium,11,11,10,ipanalytics/vpn-provider-overlap-intelligence
+Sentinel dVPN,TorGuard,0.55,medium,17,17,5,ipanalytics/vpn-provider-overlap-intelligence
+Anonine,Froot,0.52,medium,10,9,8,ipanalytics/vpn-provider-overlap-intelligence
+BoxPN,Froot,0.52,medium,10,9,8,ipanalytics/vpn-provider-overlap-intelligence
+EasyHideIP,Froot,0.52,medium,10,9,8,ipanalytics/vpn-provider-overlap-intelligence
+IPVanish,StrongVPN,0.12,low,2,1,1,ipanalytics/vpn-provider-overlap-intelligence

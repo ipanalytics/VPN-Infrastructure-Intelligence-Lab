@@ -1,0 +1,90 @@
+provider,archetype,independence_grade,geo_truth_score,confidence
+AirVPN,multi-hosting-commercial-vpn,C,0.63,high
+Anonine,multi-hosting-commercial-vpn,B,0.71,medium
+Anonvpn,regional-datacenter-vpn,D,0.49,low
+AnonymousVPN,multi-hosting-commercial-vpn,C,0.59,low
+Astrill,global-premium-mesh,A,0.82,high
+AzireVPN,multi-hosting-commercial-vpn,C,0.59,low
+BTGuard,white-label-reseller-cluster,D,0.49,low
+BoxPN,multi-hosting-commercial-vpn,B,0.71,medium
+CCrypto VPN,regional-datacenter-vpn,D,0.47,low
+CactusVPN,multi-hosting-commercial-vpn,B,0.75,low
+Cryptostorm,multi-hosting-commercial-vpn,D,0.58,low
+CyberGhost,multi-hosting-commercial-vpn,C,0.55,high
+EasyHideIP,multi-hosting-commercial-vpn,B,0.71,medium
+ExpressVPN,multi-hosting-commercial-vpn,C,0.55,medium
+FastestVPN,multi-hosting-commercial-vpn,C,0.56,low
+FlowVPN,global-premium-mesh,A,0.76,medium
+FreeVPN,multi-hosting-commercial-vpn,C,0.66,low
+Freedomip,single-hosting-vpn,D,0.39,low
+Freevpn,regional-datacenter-vpn,D,0.41,low
+Froot,regional-datacenter-vpn,D,0.55,low
+FrootVPN,multi-hosting-commercial-vpn,B,0.71,medium
+Getflix,multi-hosting-commercial-vpn,C,0.58,low
+GhostPath,global-premium-mesh,B,0.82,medium
+Giganews,white-label-reseller-cluster,D,0.36,low
+Goosevpn,single-hosting-vpn,D,0.42,low
+Hide.me,regional-datacenter-vpn,D,0.44,low
+HideIPVPN,multi-hosting-commercial-vpn,C,0.58,low
+Hotspotshield,multi-hosting-commercial-vpn,C,0.57,low
+IPVanish,multi-hosting-commercial-vpn,C,0.67,high
+IVPN,multi-hosting-commercial-vpn,C,0.65,medium
+Integrityvpn,single-hosting-vpn,D,0.39,low
+Ivacy,multi-hosting-commercial-vpn,B,0.75,low
+KevinVPN,multi-hosting-commercial-vpn,B,0.61,low
+KeyDrop,regional-datacenter-vpn,C,0.48,low
+Kompot VPN,multi-hosting-commercial-vpn,C,0.57,low
+Le VPN,multi-hosting-commercial-vpn,C,0.47,low
+LimeVPN,regional-datacenter-vpn,D,0.44,low
+MoriVPN,regional-datacenter-vpn,D,0.32,low
+Mullvad,multi-hosting-commercial-vpn,C,0.62,high
+NetShade,white-label-reseller-cluster,D,0.45,low
+Njalla,single-hosting-vpn,D,0.20,medium
+NordVPN,multi-hosting-commercial-vpn,C,0.60,high
+OVPN,regional-datacenter-vpn,D,0.57,low
+Octanevpn,single-hosting-vpn,D,0.39,low
+Opera VPN,single-hosting-vpn,D,0.41,low
+OysterVPN,white-label-reseller-cluster,D,0.70,low
+Perimeter81,single-hosting-vpn,D,0.30,low
+PhantomPeer,white-label-reseller-cluster,D,0.45,low
+Privado,regional-datacenter-vpn,D,0.45,medium
+Private Internet Access,multi-hosting-commercial-vpn,C,0.68,medium
+PrivateVPN,multi-hosting-commercial-vpn,B,0.82,medium
+ProtonVPN,multi-hosting-commercial-vpn,C,0.64,high
+Proxpn,multi-hosting-commercial-vpn,C,0.58,low
+Psiphon,multi-hosting-commercial-vpn,C,0.56,medium
+PureVPN,multi-hosting-commercial-vpn,C,0.59,medium
+RedShield VPN,multi-hosting-commercial-vpn,C,0.52,low
+Riseup VPN,regional-datacenter-vpn,D,0.50,low
+SSHMax,single-hosting-vpn,D,0.39,low
+Safervpn,multi-hosting-commercial-vpn,C,0.61,low
+Sentinel dVPN,global-premium-mesh,A,0.84,high
+SlickVPN,regional-datacenter-vpn,C,0.56,low
+SmartVPN,multi-hosting-commercial-vpn,C,0.55,low
+Smartdnsproxy,multi-hosting-commercial-vpn,C,0.58,low
+SotaVPN,regional-datacenter-vpn,D,0.37,low
+StrongVPN,multi-hosting-commercial-vpn,C,0.65,medium
+Surfshark,multi-hosting-commercial-vpn,B,0.84,medium
+SwitchVPN,multi-hosting-commercial-vpn,C,0.65,low
+TorGuard,white-label-reseller-cluster,D,0.54,medium
+Trust.Zone,multi-hosting-commercial-vpn,C,0.56,low
+TunnelBear,multi-hosting-commercial-vpn,C,0.53,medium
+VPN Gate,multi-hosting-commercial-vpn,C,0.67,low
+VPN Jantit,multi-hosting-commercial-vpn,B,0.66,medium
+VPN Unlimited,multi-hosting-commercial-vpn,C,0.60,medium
+VPN.ac,multi-hosting-commercial-vpn,B,0.70,medium
+VPNObratno,regional-datacenter-vpn,D,0.54,low
+VPNSTunnel,single-hosting-vpn,D,0.20,low
+VPNSecure,multi-hosting-commercial-vpn,C,0.53,low
+VPNUK,multi-hosting-commercial-vpn,C,0.65,low
+Vpnbook,single-hosting-vpn,D,0.22,low
+Vpnfacile,white-label-reseller-cluster,D,0.46,low
+Vpnht,multi-hosting-commercial-vpn,C,0.64,medium
+VyprVPN,white-label-reseller-cluster,D,0.38,low
+WLVPN,multi-hosting-commercial-vpn,C,0.67,high
+WiTopia,multi-hosting-commercial-vpn,B,0.74,medium
+Windscribe,multi-hosting-commercial-vpn,B,0.70,high
+WorkingVPN,single-hosting-vpn,D,0.33,low
+WorldVPN,multi-hosting-commercial-vpn,C,0.73,medium
+Zoogvpn,multi-hosting-commercial-vpn,B,0.66,low
+uVPN,regional-datacenter-vpn,D,0.50,low

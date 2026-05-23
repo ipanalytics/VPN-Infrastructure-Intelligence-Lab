@@ -1,0 +1,123 @@
+country,providers_observed,hosting_cluster_count,provider_examples,local_hosting_diversity,remote_hosting_dependency,mmdb_country_match_rate,virtual_location_pressure,confidence
+Afghanistan,1,1,Ivacy,low,high,0.00,0.80,low
+Albania,16,5,CyberGhost; Windscribe; WLVPN; IPVanish; NordVPN; Mullvad,low,high,0.99,0.55,low
+Algeria,1,1,Surfshark,low,high,1.00,0.65,low
+Andorra,1,1,Surfshark,low,high,1.00,0.65,low
+Antarctica,1,1,Windscribe,low,high,0.67,0.70,low
+Antigua & Barbuda,1,1,OysterVPN,low,high,0.00,0.80,low
+Argentina,7,7,Windscribe; Astrill; FlowVPN; Sentinel dVPN; Surfshark; PrivateVPN,low,high,0.53,0.56,low
+Armenia,3,2,Surfshark; Zoogvpn; FlowVPN,medium,high,1.00,0.47,low
+Australia,33,19,NordVPN; CyberGhost; ExpressVPN; Private Internet Access; PureVPN; Windscribe,medium,high,0.24,0.59,high
+Austria,16,9,Safervpn; FlowVPN; Vpnht; Le VPN; Astrill; KevinVPN,medium,high,0.49,0.57,low
+Azerbaijan,2,2,Surfshark; FlowVPN,low,high,1.00,0.53,low
+Bahamas,1,1,Surfshark,low,high,1.00,0.65,low
+Bangladesh,2,2,Surfshark; Hotspotshield,low,high,1.00,0.53,low
+Belgium,6,5,Surfshark; GhostPath; PrivateVPN; WorldVPN; SwitchVPN; Ivacy,medium,high,1.00,0.44,low
+Belize,1,1,Surfshark,low,high,1.00,0.65,low
+Bhutan,1,1,Surfshark,low,high,1.00,0.65,low
+Bolivia,1,1,Surfshark,low,high,1.00,0.65,low
+Bosnia and Herzegovina,4,2,Windscribe; Astrill; Surfshark; ProtonVPN,low,high,1.00,0.58,low
+Brazil,22,9,NordVPN; ExpressVPN; Windscribe; BoxPN; EasyHideIP; FrootVPN,low,high,0.37,0.71,medium
+Brunei,2,2,Surfshark; Ivacy,low,high,0.67,0.58,low
+Bulgaria,10,11,Trust.Zone; Astrill; WorldVPN; Sentinel dVPN; Surfshark; VPN Unlimited,high,high,0.65,0.42,low
+Cambodia,2,2,VPN Jantit; Surfshark,medium,high,0.50,0.55,low
+Canada,51,32,AirVPN; Astrill; VPN Unlimited; Sentinel dVPN; WLVPN; IPVanish,medium,high,0.70,0.48,medium
+Chile,8,7,TorGuard; Surfshark; Sentinel dVPN; FlowVPN; PrivateVPN; GhostPath,medium,high,1.00,0.43,low
+China,4,4,VPN Jantit; Sentinel dVPN; Hotspotshield; WorldVPN,low,high,0.05,0.76,low
+Colombia,1,1,Surfshark,low,high,1.00,0.65,low
+Costa Rica,12,3,WLVPN; IPVanish; BoxPN; Anonine; FrootVPN; EasyHideIP,low,high,1.00,0.62,low
+Croatia,4,4,Surfshark; ProtonVPN; FlowVPN; PrivateVPN,medium,high,1.00,0.44,low
+Cyprus,10,8,ExpressVPN; Windscribe; Private Internet Access; Sentinel dVPN; PrivateVPN; Surfshark,low,high,0.15,0.72,medium
+Czechia,10,10,SSHMax; FlowVPN; Sentinel dVPN; GhostPath; Surfshark; Astrill,medium,high,1.00,0.48,low
+Denmark,11,8,Private Internet Access; Astrill; Surfshark; PrivateVPN; Sentinel dVPN; Ivacy,medium,high,0.91,0.44,low
+Dominican Republic,1,1,WiTopia,low,high,1.00,0.65,low
+Ecuador,1,1,Surfshark,low,high,1.00,0.65,low
+Egypt,4,3,Sentinel dVPN; Surfshark; Ivacy; WiTopia,low,high,0.90,0.53,low
+Estonia,23,11,Windscribe; CyberGhost; WLVPN; IPVanish; Sentinel dVPN; ProtonVPN,low,high,0.17,0.71,medium
+European Union,4,3,PureVPN; OysterVPN; VPN Gate; ProtonVPN,low,high,0.00,0.70,low
+FL,1,1,OysterVPN,low,high,0.00,0.80,low
+Finland,24,9,WLVPN; IPVanish; Astrill; Mullvad; Private Internet Access; FrootVPN,low,high,0.99,0.58,low
+France,44,20,Astrill; Psiphon; WiTopia; VPNSecure; VPN Unlimited; Sentinel dVPN,low,high,0.40,0.63,medium
+Georgia,6,6,Sentinel dVPN; FlowVPN; Windscribe; Surfshark; ExpressVPN; Zoogvpn,medium,high,0.56,0.49,low
+Germany,37,38,Sentinel dVPN; WorldVPN; Astrill; Psiphon; Vpnht; CyberGhost,medium,high,0.60,0.47,medium
+Ghana,1,1,Surfshark,low,high,1.00,0.65,low
+Greece,9,8,Astrill; Surfshark; GhostPath; VPN Unlimited; Ivacy; PrivateVPN,high,high,1.00,0.37,low
+Greenland,1,1,Surfshark,low,high,1.00,0.65,low
+Hong Kong,27,20,Sentinel dVPN; TunnelBear; Astrill; SwitchVPN; VPN Jantit; Zoogvpn,high,high,0.64,0.44,medium
+Hungary,9,6,Astrill; FlowVPN; VPN Jantit; Surfshark; Ivacy; PrivateVPN,medium,high,0.96,0.42,low
+Iceland,12,6,VPN.ac; WiTopia; Windscribe; ProtonVPN; IVPN; Surfshark,medium,high,0.71,0.49,low
+India,22,15,NordVPN; Mullvad; Astrill; IPVanish; WLVPN; PrivateVPN,low,high,0.23,0.69,medium
+Indonesia,12,12,Windscribe; VPN Jantit; Sentinel dVPN; FreeVPN; Surfshark; ProtonVPN,medium,high,1.00,0.45,low
+Ireland,7,5,Astrill; Surfshark; Ivacy; WorldVPN; PrivateVPN; VPNUK,medium,high,1.00,0.44,low
+Isle of Man,2,2,Surfshark; PrivateVPN,low,high,1.00,0.53,low
+Israel,20,7,FrootVPN; EasyHideIP; Anonine; BoxPN; Astrill; Windscribe,low,high,0.97,0.55,low
+Italy,25,18,Sentinel dVPN; Private Internet Access; EasyHideIP; Anonine; BoxPN; FrootVPN,medium,high,0.80,0.43,medium
+Jamaica,1,1,Sentinel dVPN,low,high,1.00,0.65,low
+Japan,15,22,VPN Gate; Astrill; WLVPN; IPVanish; Private Internet Access; ProtonVPN,high,high,1.00,0.38,low
+Jordan,1,1,Sentinel dVPN,low,high,1.00,0.65,low
+Kazakhstan,7,6,Kompot VPN; Sentinel dVPN; Surfshark; VPN Jantit; Zoogvpn; FlowVPN,medium,high,1.00,0.42,low
+Kenya,1,1,CyberGhost,low,high,1.00,0.65,low
+Kyrgyzstan,1,1,Sentinel dVPN,low,high,0.50,0.72,low
+Laos,2,2,Surfshark; VPN Gate,low,high,1.00,0.53,low
+Latvia,13,11,AirVPN; Windscribe; WorldVPN; WiTopia; CactusVPN; AnonymousVPN,low,high,0.91,0.61,low
+Liechtenstein,2,2,Surfshark; WorldVPN,low,high,1.00,0.53,low
+Lithuania,20,8,CyberGhost; Astrill; PureVPN; Windscribe; WiTopia; Psiphon,medium,high,0.61,0.54,medium
+Luxembourg,21,7,BoxPN; FrootVPN; EasyHideIP; Anonine; PureVPN; Le VPN,low,high,0.79,0.55,low
+Macao,1,1,Surfshark,low,high,1.00,0.65,low
+Malaysia,21,12,PureVPN; IPVanish; WLVPN; Astrill; AirVPN; FrootVPN,low,high,0.58,0.57,medium
+Malta,2,2,Surfshark; PrivateVPN,low,high,1.00,0.53,low
+Marshall Islands,1,1,Hotspotshield,low,high,0.00,0.80,low
+Mauritius,2,0,Anonvpn; Proxpn,low,high,1.00,0.65,low
+Mexico,3,4,Surfshark; PrivateVPN; FlowVPN,high,high,1.00,0.39,low
+Moldova,21,8,CyberGhost; IPVanish; WLVPN; Sentinel dVPN; Windscribe; Astrill,low,high,0.99,0.59,low
+Monaco,1,1,Surfshark,low,high,1.00,0.65,low
+Mongolia,1,1,Surfshark,low,high,1.00,0.65,low
+Montenegro,1,1,Surfshark,low,high,1.00,0.65,low
+Morocco,1,1,Surfshark,low,high,1.00,0.65,low
+Myanmar,1,1,Surfshark,low,high,1.00,0.65,low
+Namibia,1,1,OysterVPN,low,high,0.00,0.80,low
+Nepal,1,1,Surfshark,low,high,1.00,0.65,low
+Netherlands,51,43,AirVPN; Privado; ProtonVPN; NordVPN; VPN Unlimited; CyberGhost,medium,high,0.65,0.56,high
+New Zealand,7,4,AirVPN; TunnelBear; Astrill; Surfshark; Sentinel dVPN; Zoogvpn,low,high,1.00,0.64,low
+Nigeria,2,1,Surfshark; Ivacy,low,high,1.00,0.65,low
+North Macedonia,6,3,CyberGhost; Windscribe; NordVPN; Private Internet Access; Surfshark; ProtonVPN,low,high,1.00,0.60,low
+Norway,20,8,Mullvad; TorGuard; FrootVPN; Anonine; EasyHideIP; BoxPN,medium,high,0.82,0.50,low
+Oman,1,1,Ivacy,low,high,0.00,0.80,low
+Pakistan,3,3,Astrill; Surfshark; OysterVPN,medium,high,1.00,0.47,low
+Palestine,1,1,ProtonVPN,low,high,1.00,0.65,low
+Panama,23,7,NordVPN; Kompot VPN; Windscribe; SwitchVPN; Anonine; FrootVPN,low,high,0.00,0.72,high
+Paraguay,1,1,Surfshark,low,high,1.00,0.65,low
+Peru,3,3,Sentinel dVPN; Surfshark; PrivateVPN,low,high,1.00,0.52,low
+Philippines,7,7,VPN Jantit; FlowVPN; Surfshark; PrivateVPN; Ivacy; OysterVPN,medium,high,1.00,0.46,low
+Poland,18,14,EasyHideIP; Anonine; BoxPN; FrootVPN; Sentinel dVPN; WorldVPN,low,high,0.95,0.51,low
+Portugal,16,8,WiTopia; Surfshark; TorGuard; Astrill; CactusVPN; Sentinel dVPN,medium,high,0.97,0.44,low
+Puerto Rico,1,1,Surfshark,low,high,1.00,0.65,low
+Romania,56,15,NordVPN; CyberGhost; AirVPN; ProtonVPN; TorGuard; Njalla,low,high,0.04,0.80,high
+Russia,17,27,VPN Jantit; KeyDrop; VPNObratno; Vpnht; Kompot VPN; Sentinel dVPN,high,high,0.80,0.39,low
+Saudi Arabia,3,3,Sentinel dVPN; Surfshark; OysterVPN,medium,high,0.60,0.57,low
+Serbia,4,1,Surfshark; Ivacy; PrivateVPN; GhostPath,low,high,1.00,0.65,low
+Seychelles,6,4,PureVPN; VPN.ac; Sentinel dVPN; HideIPVPN; Trust.Zone; ProtonVPN,medium,high,0.00,0.61,low
+Singapore,22,23,Psiphon; TunnelBear; Sentinel dVPN; FlowVPN; Astrill; VPN Jantit,low,high,0.20,0.66,medium
+Slovakia,4,3,Astrill; Surfshark; Ivacy; PrivateVPN,low,high,1.00,0.50,low
+Slovenia,5,3,VPN Unlimited; Surfshark; GhostPath; SmartVPN; Astrill,medium,high,0.53,0.53,low
+South Africa,14,6,Windscribe; Sentinel dVPN; Astrill; VPN Jantit; FlowVPN; PrivateVPN,medium,high,1.00,0.45,low
+South Korea,16,14,VPN Gate; Astrill; FlowVPN; Windscribe; BoxPN; Anonine,medium,high,1.00,0.45,low
+Spain,18,14,FrootVPN; Anonine; EasyHideIP; BoxPN; Private Internet Access; Surfshark,low,high,0.97,0.50,low
+Sri Lanka,1,1,Surfshark,low,high,1.00,0.65,low
+Sweden,35,21,Mullvad; CyberGhost; AirVPN; OVPN; Opera VPN; PrivateVPN,medium,high,0.72,0.49,medium
+Switzerland,17,19,ProtonVPN; FlowVPN; VPNUK; PhantomPeer; CactusVPN; Sentinel dVPN,medium,high,0.43,0.51,low
+Taiwan,10,6,Astrill; Windscribe; Sentinel dVPN; FlowVPN; Surfshark; Hotspotshield,low,high,0.90,0.59,low
+Thailand,15,14,Windscribe; WiTopia; VPN Jantit; TorGuard; VPN Gate; Surfshark,high,high,1.00,0.38,low
+Tunisia,1,1,FlowVPN,low,high,1.00,0.65,low
+Türkiye,23,20,Sentinel dVPN; WiTopia; EasyHideIP; FrootVPN; Anonine; BoxPN,high,high,0.97,0.39,medium
+UNKNOWN,1,1,Sentinel dVPN,low,high,0.00,0.80,low
+Ukraine,24,13,FrootVPN; Anonine; BoxPN; EasyHideIP; Sentinel dVPN; WorldVPN,medium,high,0.94,0.47,low
+United Arab Emirates,4,5,Sentinel dVPN; KeyDrop; Surfshark; PrivateVPN,medium,high,0.27,0.50,low
+United Kingdom,59,68,NordVPN; CyberGhost; ProtonVPN; Astrill; WLVPN; IPVanish,medium,high,0.23,0.59,high
+United Kingdom,6,10,Private Internet Access; Surfshark; CactusVPN; Ivacy; FastestVPN; OysterVPN,medium,high,0.00,0.58,low
+United States,76,202,WLVPN; IPVanish; Astrill; StrongVPN; Sentinel dVPN; AirVPN,medium,high,0.66,0.47,high
+Uruguay,2,2,Sentinel dVPN; Surfshark,low,high,1.00,0.53,low
+Uzbekistan,1,1,Surfshark,low,high,1.00,0.65,low
+Vanuatu,2,2,Mullvad; AzireVPN,low,high,0.00,0.83,low
+Venezuela,1,1,Surfshark,low,high,1.00,0.65,low
+Vietnam,12,13,Sentinel dVPN; Windscribe; FlowVPN; WiTopia; Astrill; VPN Jantit,medium,high,0.96,0.49,low

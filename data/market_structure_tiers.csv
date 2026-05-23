@@ -1,0 +1,5 @@
+tier,tier_name,providers_count,description
+1,Large independent/global VPN providers,3,High diversity and low shared-infrastructure signals
+2,Mostly independent commercial VPN providers,15,Broad or diverse footprint with moderate dependency
+3,Mixed dependency VPN providers,38,"Mixed geography, hosting diversity, and concentration signals"
+4,Concentrated or reseller-like VPN providers,33,High concentration or low independence signals

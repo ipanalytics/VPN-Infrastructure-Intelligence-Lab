@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>VPN Infrastructure Intelligence Lab</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,460;9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=20260523a">
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>VPN Infrastructure Intelligence Lab</h1>
+        <p>Aggregate VPN infrastructure research without publishing endpoint inventories.</p>
+      </div>
+      <nav aria-label="Research notes">
+        <button class="nav-button" data-doc="methodology">Methodology</button>
+        <button class="nav-button" data-doc="safety">Data Safety</button>
+        <a href="../data/public_summary.json">Summary JSON</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="panel area-atlas">
+          <div class="panel-title">
+            <h2>Infrastructure Atlas Map</h2>
+            <span>Unified filters update every panel</span>
+          </div>
+          <div class="atlas-controls" aria-label="Dashboard filters">
+            <label class="filter-provider">
+              Provider
+              <select id="providerFilter">
+                <option value="">All providers</option>
+              </select>
+            </label>
+            <label class="filter-archetype">
+              Archetype
+              <select id="archetypeFilter">
+                <option value="">All archetypes</option>
+              </select>
+            </label>
+            <label class="filter-grade">
+              Grade
+              <select id="gradeFilter">
+                <option value="">All grades</option>
+                <option>A</option>
+                <option>B</option>
+                <option>C</option>
+                <option>D</option>
+              </select>
+            </label>
+            <label>
+              Metric
+              <select id="atlasMetric" aria-label="Atlas metric">
+                <option value="prefix_count">/24 prefixes</option>
+                <option value="provider_count">Providers</option>
+                <option value="asn_count">ASNs</option>
+              </select>
+            </label>
+            <label>
+              Country
+              <select id="atlasCountryFilter">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label>
+              ASN
+              <select id="atlasAsnFilter">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label>
+              Min /24
+              <select id="atlasMinPrefix">
+                <option value="0">All</option>
+                <option value="5">5+</option>
+                <option value="10">10+</option>
+                <option value="25">25+</option>
+                <option value="100">100+</option>
+              </select>
+            </label>
+            <label class="atlas-search">
+              Search
+              <input id="atlasSearch" type="search" placeholder="provider, country, ASN">
+            </label>
+            <button id="resetFilters" class="reset-button" type="button">Reset</button>
+          </div>
+          <div id="atlasStats" class="atlas-stats"></div>
+          <div id="atlasMap" class="atlas-map"></div>
+          <div class="atlas-tables">
+            <section>
+              <h3>Top Providers In Current View</h3>
+              <div id="atlasProviderRows" class="mini-list"></div>
+            </section>
+            <section>
+              <h3>Top ASN Footprint</h3>
+              <div id="atlasAsnRows" class="mini-list"></div>
+            </section>
+            <section>
+              <h3>Top Reported Country Footprint</h3>
+              <div id="atlasCountryRows" class="mini-list"></div>
+            </section>
+          </div>
+      </section>
+
+      <section class="notice">
+        <strong>Boundary</strong>
+        <span>These scores are analytical infrastructure signals — not accusations, legal claims, ownership claims, or provider verdicts.</span>
+      </section>
+
+      <section class="analysis-grid">
+        <section class="panel table-panel">
+          <div class="panel-title">
+            <h2>Provider Fingerprints</h2>
+            <span id="providerVisibleCount"></span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th><button data-sort="provider">Provider</button></th>
+                  <th><button data-sort="infra_model">Archetype</button></th>
+                  <th><button data-sort="grade">Grade</button></th>
+                  <th><button data-sort="geo">Geo truth</button></th>
+                  <th><button data-sort="mmdb">MMDB match</button></th>
+                  <th><button data-sort="hosting">Hosting diversity</button></th>
+                  <th><button data-sort="confidence">Confidence</button></th>
+                </tr>
+              </thead>
+              <tbody id="providerRows"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <aside class="panel insight-panel">
+          <div class="panel-title">
+            <h2>Selected Signal</h2>
+            <span id="selectionType">Overview</span>
+          </div>
+          <div id="selectionDetails" class="selection-details"></div>
+          <div class="insight-footer">
+            <b>Read-only dossier.</b> Selecting a provider, tier, archetype, country,
+            or hosting cluster updates this readout and the provider table.
+            Aggregate signals only — no operators or endpoints are exposed.
+          </div>
+        </aside>
+
+        <section class="panel area-market">
+          <div class="panel-title">
+            <h2>Market Structure</h2>
+            <span>Click to filter</span>
+          </div>
+          <div id="tierBars" class="bars"></div>
+        </section>
+
+        <section class="panel area-archetype">
+          <div class="panel-title">
+            <h2>Infrastructure Archetypes</h2>
+            <span>Click to filter</span>
+          </div>
+          <div id="archetypeBars" class="bars"></div>
+        </section>
+
+        <section class="panel area-country">
+          <div class="panel-title">
+            <h2>Country Geo Truth</h2>
+            <span>Click for detail</span>
+          </div>
+          <div id="countryList" class="ranked"></div>
+        </section>
+
+        <section class="panel area-asn">
+          <div class="panel-title">
+            <h2>ASN / Network Intelligence</h2>
+            <span>ASN context</span>
+          </div>
+          <div id="asnList" class="ranked"></div>
+        </section>
+
+        <section class="panel area-relationship">
+          <div class="panel-title">
+            <h2>Provider Relationship Clusters</h2>
+            <span>Overlap evidence</span>
+          </div>
+          <div id="relationshipList" class="ranked"></div>
+        </section>
+
+        <section class="panel hosting-panel">
+          <div class="panel-title">
+            <h2>Hosting Dependency Clusters</h2>
+            <span>Anonymized operators</span>
+          </div>
+          <p class="panel-note">
+            A cluster is an anonymized hosting/operator fingerprint. Click a row to inspect provider and country examples without exposing operators or endpoints.
+          </p>
+          <div class="table-wrap compact">
+            <table>
+              <thead>
+                <tr>
+                  <th><button data-hosting-sort="hosting_cluster">Cluster</button></th>
+                  <th><button data-hosting-sort="provider_count">Providers</button></th>
+                  <th><button data-hosting-sort="dependency_score">Dependency</button></th>
+                  <th>Provider examples</th>
+                  <th>Country examples</th>
+                </tr>
+              </thead>
+              <tbody id="hostingRows"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <dialog id="docModal">
+      <div class="modal-head">
+        <h2 id="modalTitle"></h2>
+        <button id="modalClose" aria-label="Close">Close</button>
+      </div>
+      <article id="modalBody"></article>
+    </dialog>
+
+    <script src="app.js?v=20260523a"></script>
+  </body>
+</html>

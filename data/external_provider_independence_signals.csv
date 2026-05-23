@@ -1,0 +1,90 @@
+provider,external_independence_score,external_asn_count,external_hosting_org_count,external_top_host_share,external_concentration_level,source_repo
+NordVPN,1.00,35,32,0.29,moderate,ipanalytics/vpn-provider-overlap-intelligence
+WLVPN,0.92,31,31,0.44,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+IPVanish,0.92,31,31,0.44,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Astrill,1.00,153,152,0.20,distributed,ipanalytics/vpn-provider-overlap-intelligence
+CyberGhost,0.97,22,23,0.33,moderate,ipanalytics/vpn-provider-overlap-intelligence
+AirVPN,0.92,15,15,0.30,moderate,ipanalytics/vpn-provider-overlap-intelligence
+ProtonVPN,1.00,42,42,0.36,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Sentinel dVPN,1.00,220,218,0.20,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Mullvad,1.00,27,26,0.22,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Windscribe,1.00,58,58,0.28,moderate,ipanalytics/vpn-provider-overlap-intelligence
+WiTopia,1.00,48,49,0.20,moderate,ipanalytics/vpn-provider-overlap-intelligence
+StrongVPN,0.91,23,24,0.42,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Private Internet Access,1.00,24,25,0.28,moderate,ipanalytics/vpn-provider-overlap-intelligence
+TunnelBear,0.92,15,15,0.30,moderate,ipanalytics/vpn-provider-overlap-intelligence
+TorGuard,0.56,19,20,0.83,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Psiphon,0.92,14,14,0.28,moderate,ipanalytics/vpn-provider-overlap-intelligence
+PureVPN,1.00,27,27,0.30,moderate,ipanalytics/vpn-provider-overlap-intelligence
+ExpressVPN,1.00,22,22,0.27,moderate,ipanalytics/vpn-provider-overlap-intelligence
+VPN Unlimited,1.00,35,35,0.20,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Anonine,1.00,32,31,0.17,distributed,ipanalytics/vpn-provider-overlap-intelligence
+EasyHideIP,1.00,31,30,0.17,distributed,ipanalytics/vpn-provider-overlap-intelligence
+FrootVPN,1.00,31,30,0.17,distributed,ipanalytics/vpn-provider-overlap-intelligence
+BoxPN,1.00,31,30,0.18,distributed,ipanalytics/vpn-provider-overlap-intelligence
+Surfshark,0.86,20,19,0.42,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+FlowVPN,1.00,111,110,0.12,distributed,ipanalytics/vpn-provider-overlap-intelligence
+Njalla,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+VPN Jantit,1.00,55,55,0.11,distributed,ipanalytics/vpn-provider-overlap-intelligence
+WorldVPN,0.91,17,17,0.34,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Privado,0.66,5,5,0.52,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+PrivateVPN,1.00,42,42,0.25,moderate,ipanalytics/vpn-provider-overlap-intelligence
+VPN.ac,1.00,32,33,0.14,distributed,ipanalytics/vpn-provider-overlap-intelligence
+IVPN,1.00,29,30,0.29,moderate,ipanalytics/vpn-provider-overlap-intelligence
+GhostPath,1.00,66,67,0.18,distributed,ipanalytics/vpn-provider-overlap-intelligence
+Vpnht,0.97,15,16,0.25,moderate,ipanalytics/vpn-provider-overlap-intelligence
+OVPN,0.56,8,8,0.69,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+VPN Gate,1.00,34,34,0.19,distributed,ipanalytics/vpn-provider-overlap-intelligence
+Trust.Zone,0.89,24,24,0.44,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+VPNUK,1.00,21,22,0.21,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Zoogvpn,1.00,44,44,0.14,distributed,ipanalytics/vpn-provider-overlap-intelligence
+SwitchVPN,0.95,23,23,0.35,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Ivacy,0.97,20,20,0.30,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Cryptostorm,0.69,16,16,0.62,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Giganews,0.46,2,2,0.74,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+VyprVPN,0.46,2,2,0.74,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+FastestVPN,0.71,13,13,0.55,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+KevinVPN,1.00,29,28,0.12,distributed,ipanalytics/vpn-provider-overlap-intelligence
+AzireVPN,0.98,21,21,0.30,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Kompot VPN,0.98,14,14,0.21,moderate,ipanalytics/vpn-provider-overlap-intelligence
+CactusVPN,1.00,38,38,0.13,distributed,ipanalytics/vpn-provider-overlap-intelligence
+VPNSecure,0.79,16,16,0.48,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+OysterVPN,0.53,8,8,0.73,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Smartdnsproxy,0.99,24,24,0.31,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Goosevpn,0.48,5,5,0.76,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Hotspotshield,0.91,15,16,0.32,moderate,ipanalytics/vpn-provider-overlap-intelligence
+AnonymousVPN,0.96,20,20,0.30,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Safervpn,1.00,23,23,0.18,distributed,ipanalytics/vpn-provider-overlap-intelligence
+Opera VPN,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+RedShield VPN,0.86,11,11,0.32,moderate,ipanalytics/vpn-provider-overlap-intelligence
+HideIPVPN,0.91,15,15,0.31,moderate,ipanalytics/vpn-provider-overlap-intelligence
+FreeVPN,0.84,14,14,0.38,moderate,ipanalytics/vpn-provider-overlap-intelligence
+uVPN,0.79,8,8,0.38,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Proxpn,0.84,9,10,0.33,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Le VPN,0.82,9,9,0.35,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Froot,0.75,10,10,0.45,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Getflix,1.00,17,17,0.10,distributed,ipanalytics/vpn-provider-overlap-intelligence
+Riseup VPN,0.58,5,5,0.62,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+PhantomPeer,0.51,4,4,0.70,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+NetShade,0.52,6,6,0.72,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+SSHMax,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Perimeter81,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+KeyDrop,0.92,8,8,0.21,moderate,ipanalytics/vpn-provider-overlap-intelligence
+SmartVPN,0.89,8,8,0.25,moderate,ipanalytics/vpn-provider-overlap-intelligence
+SlickVPN,0.96,10,10,0.18,distributed,ipanalytics/vpn-provider-overlap-intelligence
+BTGuard,0.51,4,4,0.70,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+VPNObratno,0.60,5,5,0.60,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+CCrypto VPN,0.66,4,4,0.50,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+SotaVPN,0.65,3,3,0.50,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Anonvpn,0.61,3,4,0.57,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+MoriVPN,0.60,3,3,0.57,concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Vpnfacile,0.49,3,3,0.71,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Freedomip,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+LimeVPN,0.85,4,4,0.25,moderate,ipanalytics/vpn-provider-overlap-intelligence
+VPNSTunnel,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Freevpn,0.78,3,3,0.33,moderate,ipanalytics/vpn-provider-overlap-intelligence
+Hide.me,0.78,3,3,0.33,moderate,ipanalytics/vpn-provider-overlap-intelligence
+WorkingVPN,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Octanevpn,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Vpnbook,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence
+Integrityvpn,0.26,1,1,1.00,highly_concentrated,ipanalytics/vpn-provider-overlap-intelligence

@@ -1,0 +1,6 @@
+archetype,description,providers_count,median_geo_truth,median_independence
+global-premium-mesh,Large distributed footprint with high diversity signals,4,0.82,0.85
+multi-hosting-commercial-vpn,Broad commercial footprint with heavy hosting usage,51,0.63,0.61
+regional-datacenter-vpn,Regional or mid-sized datacenter-oriented footprint,15,0.48,0.34
+single-hosting-vpn,Narrow footprint concentrated in one hosting pattern,11,0.39,0.08
+white-label-reseller-cluster,High shared-infrastructure and low independence signals,8,0.46,0.28

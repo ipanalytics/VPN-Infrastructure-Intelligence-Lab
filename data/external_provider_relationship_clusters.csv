@@ -1,0 +1,6 @@
+relationship_cluster,providers,relationship_score,confidence,shared_exact_count,shared_prefix_count,shared_asn_count,evidence,source_repo
+cluster_001,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,1.00,high,1766,57,32,exact_ip_overlap;shared_prefix_24;shared_asn,ipanalytics/vpn-provider-overlap-intelligence
+cluster_002,Getflix; Smartdnsproxy,0.65,medium,18,18,15,exact_ip_overlap;shared_prefix_24;shared_asn,ipanalytics/vpn-provider-overlap-intelligence
+cluster_003,GhostPath; SlickVPN,0.65,medium,11,11,10,exact_ip_overlap;shared_prefix_24;shared_asn,ipanalytics/vpn-provider-overlap-intelligence
+cluster_004,Ivacy; PureVPN,0.64,medium,27,20,9,exact_ip_overlap;shared_prefix_24;shared_asn,ipanalytics/vpn-provider-overlap-intelligence
+cluster_005,Sentinel dVPN; TorGuard,0.60,medium,17,17,5,exact_ip_overlap;shared_prefix_24;shared_asn,ipanalytics/vpn-provider-overlap-intelligence

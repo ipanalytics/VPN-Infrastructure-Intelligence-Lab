@@ -1,0 +1,123 @@
+country,observed_records_bucket,prefix_count,provider_count,asn_count,data_origin
+Afghanistan,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Albania,aggregate,22,16,5,VPN-Infrastructure-Atlas
+Algeria,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Andorra,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Antarctica,aggregate,2,1,1,VPN-Infrastructure-Atlas
+Antigua & Barbuda,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Argentina,aggregate,18,7,7,VPN-Infrastructure-Atlas
+Armenia,aggregate,3,3,2,VPN-Infrastructure-Atlas
+Australia,aggregate,270,32,19,VPN-Infrastructure-Atlas
+Austria,aggregate,27,16,9,VPN-Infrastructure-Atlas
+Azerbaijan,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Bahamas,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Bangladesh,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Belgium,aggregate,8,6,5,VPN-Infrastructure-Atlas
+Belize,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Bhutan,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Bolivia,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Bosnia and Herzegovina,aggregate,7,4,2,VPN-Infrastructure-Atlas
+Brazil,aggregate,37,21,9,VPN-Infrastructure-Atlas
+Brunei,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Bulgaria,aggregate,20,10,11,VPN-Infrastructure-Atlas
+Cambodia,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Canada,aggregate,242,49,30,VPN-Infrastructure-Atlas
+Chile,aggregate,7,7,7,VPN-Infrastructure-Atlas
+China,aggregate,43,4,4,VPN-Infrastructure-Atlas
+Colombia,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Costa Rica,aggregate,12,12,3,VPN-Infrastructure-Atlas
+Croatia,aggregate,4,4,4,VPN-Infrastructure-Atlas
+Cyprus,aggregate,44,10,8,VPN-Infrastructure-Atlas
+Czechia,aggregate,17,10,10,VPN-Infrastructure-Atlas
+Denmark,aggregate,15,11,8,VPN-Infrastructure-Atlas
+Dominican Republic,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Ecuador,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Egypt,aggregate,5,4,3,VPN-Infrastructure-Atlas
+Estonia,aggregate,57,22,10,VPN-Infrastructure-Atlas
+European Union,aggregate,6,4,3,VPN-Infrastructure-Atlas
+FL,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Finland,aggregate,33,23,9,VPN-Infrastructure-Atlas
+France,aggregate,236,42,21,VPN-Infrastructure-Atlas
+Georgia,aggregate,12,6,7,VPN-Infrastructure-Atlas
+Germany,aggregate,275,35,37,VPN-Infrastructure-Atlas
+Ghana,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Greece,aggregate,13,9,8,VPN-Infrastructure-Atlas
+Greenland,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Hong Kong,aggregate,79,27,19,VPN-Infrastructure-Atlas
+Hungary,aggregate,16,9,6,VPN-Infrastructure-Atlas
+Iceland,aggregate,15,12,6,VPN-Infrastructure-Atlas
+India,aggregate,84,21,16,VPN-Infrastructure-Atlas
+Indonesia,aggregate,20,12,12,VPN-Infrastructure-Atlas
+Ireland,aggregate,8,7,5,VPN-Infrastructure-Atlas
+Isle of Man,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Israel,aggregate,24,19,7,VPN-Infrastructure-Atlas
+Italy,aggregate,53,25,18,VPN-Infrastructure-Atlas
+Jamaica,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Japan,aggregate,62,15,22,VPN-Infrastructure-Atlas
+Jordan,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Kazakhstan,aggregate,10,7,6,VPN-Infrastructure-Atlas
+Kenya,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Kyrgyzstan,aggregate,2,1,1,VPN-Infrastructure-Atlas
+Laos,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Latvia,aggregate,21,13,11,VPN-Infrastructure-Atlas
+Liechtenstein,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Lithuania,aggregate,36,19,9,VPN-Infrastructure-Atlas
+Luxembourg,aggregate,32,21,7,VPN-Infrastructure-Atlas
+Macao,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Malaysia,aggregate,43,21,12,VPN-Infrastructure-Atlas
+Malta,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Marshall Islands,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Mauritius,aggregate,6,2,0,VPN-Infrastructure-Atlas
+Mexico,aggregate,4,3,4,VPN-Infrastructure-Atlas
+Moldova,aggregate,29,19,7,VPN-Infrastructure-Atlas
+Monaco,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Mongolia,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Montenegro,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Morocco,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Myanmar,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Namibia,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Nepal,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Netherlands,aggregate,258,49,43,VPN-Infrastructure-Atlas
+New Zealand,aggregate,8,7,4,VPN-Infrastructure-Atlas
+Nigeria,aggregate,2,2,1,VPN-Infrastructure-Atlas
+North Macedonia,aggregate,7,6,3,VPN-Infrastructure-Atlas
+Norway,aggregate,28,19,8,VPN-Infrastructure-Atlas
+Oman,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Pakistan,aggregate,3,3,3,VPN-Infrastructure-Atlas
+Palestine,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Panama,aggregate,168,22,8,VPN-Infrastructure-Atlas
+Paraguay,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Peru,aggregate,4,3,3,VPN-Infrastructure-Atlas
+Philippines,aggregate,13,7,7,VPN-Infrastructure-Atlas
+Poland,aggregate,36,18,14,VPN-Infrastructure-Atlas
+Portugal,aggregate,19,15,9,VPN-Infrastructure-Atlas
+Puerto Rico,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Romania,aggregate,1007,53,15,VPN-Infrastructure-Atlas
+Russia,aggregate,64,17,27,VPN-Infrastructure-Atlas
+Saudi Arabia,aggregate,4,3,3,VPN-Infrastructure-Atlas
+Serbia,aggregate,5,4,1,VPN-Infrastructure-Atlas
+Seychelles,aggregate,11,6,4,VPN-Infrastructure-Atlas
+Singapore,aggregate,83,20,23,VPN-Infrastructure-Atlas
+Slovakia,aggregate,4,4,3,VPN-Infrastructure-Atlas
+Slovenia,aggregate,8,5,3,VPN-Infrastructure-Atlas
+South Africa,aggregate,23,14,6,VPN-Infrastructure-Atlas
+South Korea,aggregate,53,16,14,VPN-Infrastructure-Atlas
+Spain,aggregate,24,18,14,VPN-Infrastructure-Atlas
+Sri Lanka,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Sweden,aggregate,96,35,21,VPN-Infrastructure-Atlas
+Switzerland,aggregate,36,17,19,VPN-Infrastructure-Atlas
+Taiwan,aggregate,28,10,6,VPN-Infrastructure-Atlas
+Thailand,aggregate,22,14,14,VPN-Infrastructure-Atlas
+Tunisia,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Türkiye,aggregate,44,23,20,VPN-Infrastructure-Atlas
+UNKNOWN,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Ukraine,aggregate,38,24,13,VPN-Infrastructure-Atlas
+United Arab Emirates,aggregate,9,4,5,VPN-Infrastructure-Atlas
+United Kingdom,aggregate,1447,58,68,VPN-Infrastructure-Atlas
+United States,aggregate,2113,73,198,VPN-Infrastructure-Atlas
+Uruguay,aggregate,2,2,2,VPN-Infrastructure-Atlas
+Uzbekistan,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Vanuatu,aggregate,10,2,2,VPN-Infrastructure-Atlas
+Venezuela,aggregate,1,1,1,VPN-Infrastructure-Atlas
+Vietnam,aggregate,20,12,13,VPN-Infrastructure-Atlas
+ZZ,aggregate,1,1,0,VPN-Infrastructure-Atlas

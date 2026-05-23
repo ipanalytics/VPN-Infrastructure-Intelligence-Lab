@@ -1,0 +1,1263 @@
+provider,country,observed_records_bucket,prefix_count,asn_count,hosting_record_bucket,avg_confidence,data_origin
+NordVPN,United Kingdom,1k-4.9k,468,9,1k-4.9k,95.0,VPN-Infrastructure-Atlas
+WLVPN,United States,1k-4.9k,115,11,1k-4.9k,95.0,VPN-Infrastructure-Atlas
+IPVanish,United States,1k-4.9k,114,11,1k-4.9k,95.0,VPN-Infrastructure-Atlas
+NordVPN,Panama,1k-4.9k,140,3,1k-4.9k,95.0,VPN-Infrastructure-Atlas
+Astrill,United States,1k-4.9k,256,63,1k-4.9k,78.1,VPN-Infrastructure-Atlas
+NordVPN,Romania,1k-4.9k,227,1,1k-4.9k,95.0,VPN-Infrastructure-Atlas
+CyberGhost,United Kingdom,1k-4.9k,73,4,1k-4.9k,71.8,VPN-Infrastructure-Atlas
+NordVPN,Australia,1k-4.9k,61,3,1k-4.9k,95.0,VPN-Infrastructure-Atlas
+Astrill,United Kingdom,500-999,31,8,500-999,78.6,VPN-Infrastructure-Atlas
+CyberGhost,Romania,500-999,63,3,500-999,72.8,VPN-Infrastructure-Atlas
+WLVPN,United Kingdom,500-999,29,6,500-999,95.0,VPN-Infrastructure-Atlas
+IPVanish,United Kingdom,500-999,29,6,500-999,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,United Kingdom,500-999,172,5,500-999,95.0,VPN-Infrastructure-Atlas
+StrongVPN,United States,100-499,129,10,100-499,82.5,VPN-Infrastructure-Atlas
+Sentinel dVPN,United States,100-499,278,45,100-499,95.0,VPN-Infrastructure-Atlas
+Windscribe,United Kingdom,100-499,80,6,100-499,95.0,VPN-Infrastructure-Atlas
+AirVPN,Netherlands,100-499,15,3,100-499,95.0,VPN-Infrastructure-Atlas
+AirVPN,Romania,100-499,44,1,100-499,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Australia,100-499,21,2,100-499,72.4,VPN-Infrastructure-Atlas
+WiTopia,United States,100-499,45,21,100-499,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Romania,100-499,127,1,100-499,95.0,VPN-Infrastructure-Atlas
+Njalla,Romania,100-499,16,1,100-499,80.0,VPN-Infrastructure-Atlas
+TunnelBear,United States,100-499,116,7,100-499,95.0,VPN-Infrastructure-Atlas
+Windscribe,United States,100-499,47,15,100-499,95.0,VPN-Infrastructure-Atlas
+Windscribe,Romania,100-499,40,1,100-499,95.0,VPN-Infrastructure-Atlas
+CyberGhost,United States,100-499,23,4,100-499,71.5,VPN-Infrastructure-Atlas
+AirVPN,United States,100-499,20,3,100-499,95.0,VPN-Infrastructure-Atlas
+VPN Unlimited,United States,100-499,114,16,100-499,70.0,VPN-Infrastructure-Atlas
+NordVPN,United States,100-499,22,6,100-499,95.0,VPN-Infrastructure-Atlas
+Privado,Netherlands,100-499,22,3,100-499,95.0,VPN-Infrastructure-Atlas
+Mullvad,United States,100-499,75,8,100-499,95.0,VPN-Infrastructure-Atlas
+PureVPN,United Kingdom,100-499,64,5,100-499,88.0,VPN-Infrastructure-Atlas
+Private Internet Access,United States,100-499,66,9,100-499,95.0,VPN-Infrastructure-Atlas
+TunnelBear,Romania,100-499,22,1,100-499,95.0,VPN-Infrastructure-Atlas
+Mullvad,United Kingdom,100-499,51,4,100-499,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,United Kingdom,100-499,81,20,100-499,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Germany,100-499,119,15,100-499,95.0,VPN-Infrastructure-Atlas
+AirVPN,Canada,100-499,8,2,100-499,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Sweden,100-499,8,1,100-499,72.0,VPN-Infrastructure-Atlas
+WiTopia,Romania,100-499,23,1,100-499,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Cyprus,100-499,29,1,100-499,70.0,VPN-Infrastructure-Atlas
+Astrill,France,100-499,18,3,100-499,78.0,VPN-Infrastructure-Atlas
+ExpressVPN,United Kingdom,100-499,37,7,100-499,69.6,VPN-Infrastructure-Atlas
+Mullvad,Romania,50-99,50,1,50-99,95.0,VPN-Infrastructure-Atlas
+PureVPN,Romania,50-99,42,1,50-99,88.0,VPN-Infrastructure-Atlas
+Mullvad,Sweden,50-99,20,1,50-99,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Australia,50-99,35,1,50-99,69.7,VPN-Infrastructure-Atlas
+NordVPN,India,50-99,10,3,50-99,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Romania,50-99,29,1,50-99,95.0,VPN-Infrastructure-Atlas
+Giganews,United States,50-99,62,2,50-99,78.0,VPN-Infrastructure-Atlas
+VyprVPN,United States,50-99,62,2,50-99,95.0,VPN-Infrastructure-Atlas
+NordVPN,Brazil,50-99,8,1,50-99,95.0,VPN-Infrastructure-Atlas
+OVPN,Sweden,50-99,8,3,50-99,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,United Kingdom,50-99,27,3,50-99,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Australia,50-99,23,3,50-99,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Türkiye,50-99,16,8,50-99,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Germany,50-99,46,1,50-99,88.0,VPN-Infrastructure-Atlas
+NordVPN,Netherlands,50-99,5,2,50-99,95.0,VPN-Infrastructure-Atlas
+PureVPN,Australia,50-99,20,3,50-99,88.0,VPN-Infrastructure-Atlas
+Anonine,Romania,50-99,9,1,50-99,95.0,VPN-Infrastructure-Atlas
+Astrill,Canada,50-99,15,5,50-99,78.1,VPN-Infrastructure-Atlas
+BoxPN,Romania,50-99,9,1,50-99,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Romania,50-99,9,1,50-99,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Romania,50-99,9,1,50-99,95.0,VPN-Infrastructure-Atlas
+WiTopia,France,50-99,8,2,50-99,95.0,VPN-Infrastructure-Atlas
+FlowVPN,United States,lt-50,40,24,lt-50,70.0,VPN-Infrastructure-Atlas
+ProtonVPN,Netherlands,lt-50,32,5,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Jantit,United States,lt-50,44,16,lt-50,88.0,VPN-Infrastructure-Atlas
+BoxPN,United States,lt-50,8,3,lt-50,95.0,VPN-Infrastructure-Atlas
+PureVPN,Malaysia,lt-50,17,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Surfshark,United States,lt-50,39,11,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,United States,lt-50,8,3,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Netherlands,lt-50,2,1,lt-50,71.1,VPN-Infrastructure-Atlas
+EasyHideIP,United States,lt-50,8,3,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,United States,lt-50,8,3,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Netherlands,lt-50,22,2,lt-50,70.0,VPN-Infrastructure-Atlas
+Windscribe,Australia,lt-50,14,2,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Netherlands,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+TunnelBear,Singapore,lt-50,33,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Netherlands,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+GhostPath,United States,lt-50,41,21,lt-50,88.0,VPN-Infrastructure-Atlas
+Astrill,Germany,lt-50,21,7,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Canada,lt-50,18,3,lt-50,70.0,VPN-Infrastructure-Atlas
+IVPN,United Kingdom,lt-50,31,3,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Switzerland,lt-50,11,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Trust.Zone,Romania,lt-50,33,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Gate,Japan,lt-50,40,13,lt-50,78.0,VPN-Infrastructure-Atlas
+VPNUK,United Kingdom,lt-50,29,5,lt-50,86.9,VPN-Infrastructure-Atlas
+WiTopia,United Kingdom,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Mullvad,India,lt-50,19,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Romania,lt-50,29,6,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Lithuania,lt-50,2,1,lt-50,73.3,VPN-Infrastructure-Atlas
+Goosevpn,Romania,lt-50,31,1,lt-50,78.0,VPN-Infrastructure-Atlas
+IPVanish,Australia,lt-50,7,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Romania,lt-50,6,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Opera VPN,Sweden,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+WLVPN,Australia,lt-50,7,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Romania,lt-50,6,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AirVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Canada,lt-50,20,8,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,United States,lt-50,14,3,lt-50,88.0,VPN-Infrastructure-Atlas
+FlowVPN,Canada,lt-50,20,4,lt-50,70.0,VPN-Infrastructure-Atlas
+FastestVPN,Romania,lt-50,29,1,lt-50,95.0,VPN-Infrastructure-Atlas
+SwitchVPN,United States,lt-50,23,5,lt-50,88.0,VPN-Infrastructure-Atlas
+Astrill,Taiwan,lt-50,14,2,lt-50,78.0,VPN-Infrastructure-Atlas
+IVPN,Romania,lt-50,22,1,lt-50,95.0,VPN-Infrastructure-Atlas
+StrongVPN,United Kingdom,lt-50,10,4,lt-50,83.8,VPN-Infrastructure-Atlas
+Astrill,Lithuania,lt-50,11,4,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN.ac,United States,lt-50,16,8,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNSecure,France,lt-50,21,2,lt-50,88.0,VPN-Infrastructure-Atlas
+ExpressVPN,United States,lt-50,12,4,lt-50,70.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Singapore,lt-50,21,7,lt-50,95.0,VPN-Infrastructure-Atlas
+Vpnht,Germany,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+WiTopia,Canada,lt-50,5,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Estonia,lt-50,7,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Brazil,lt-50,5,1,lt-50,70.0,VPN-Infrastructure-Atlas
+PureVPN,United States,lt-50,16,6,lt-50,88.0,VPN-Infrastructure-Atlas
+ProtonVPN,Australia,lt-50,13,2,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Gate,South Korea,lt-50,28,9,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Netherlands,lt-50,8,5,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Romania,lt-50,10,1,lt-50,78.0,VPN-Infrastructure-Atlas
+EasyHideIP,United Kingdom,lt-50,4,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,India,lt-50,12,4,lt-50,78.0,VPN-Infrastructure-Atlas
+CyberGhost,Estonia,lt-50,2,1,lt-50,71.9,VPN-Infrastructure-Atlas
+PrivateVPN,Sweden,lt-50,7,5,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Hong Kong,lt-50,25,9,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Jantit,United Kingdom,lt-50,23,6,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,France,lt-50,19,2,lt-50,70.0,VPN-Infrastructure-Atlas
+Mullvad,Vanuatu,lt-50,7,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Italy,lt-50,16,5,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Türkiye,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,United States,lt-50,18,7,lt-50,93.8,VPN-Infrastructure-Atlas
+VPN Jantit,China,lt-50,22,2,lt-50,88.0,VPN-Infrastructure-Atlas
+FrootVPN,Canada,lt-50,4,4,lt-50,95.0,VPN-Infrastructure-Atlas
+Vpnht,France,lt-50,5,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Windscribe,Canada,lt-50,5,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Canada,lt-50,4,4,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,United Kingdom,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,United Kingdom,lt-50,20,2,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Canada,lt-50,4,4,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Canada,lt-50,4,4,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,United States,lt-50,18,7,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Netherlands,lt-50,13,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Argentina,lt-50,7,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,United Kingdom,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,United Kingdom,lt-50,17,12,lt-50,70.0,VPN-Infrastructure-Atlas
+Mullvad,Australia,lt-50,7,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,France,lt-50,20,6,lt-50,95.0,VPN-Infrastructure-Atlas
+TunnelBear,New Zealand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Romania,lt-50,17,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Moldova,lt-50,3,1,lt-50,72.6,VPN-Infrastructure-Atlas
+Sentinel dVPN,China,lt-50,19,3,lt-50,95.0,VPN-Infrastructure-Atlas
+SSHMax,Czechia,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Jantit,Russia,lt-50,16,2,lt-50,88.0,VPN-Infrastructure-Atlas
+Vpnht,United Kingdom,lt-50,8,2,lt-50,78.0,VPN-Infrastructure-Atlas
+WLVPN,Estonia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Estonia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,India,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+NordVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Gate,United States,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Jantit,France,lt-50,16,2,lt-50,88.0,VPN-Infrastructure-Atlas
+WLVPN,India,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+AirVPN,Latvia,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Australia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Australia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Australia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Australia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Perimeter81,United States,lt-50,4,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Private Internet Access,United Kingdom,lt-50,5,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Romania,lt-50,15,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Trust.Zone,United Kingdom,lt-50,15,3,lt-50,70.0,VPN-Infrastructure-Atlas
+TunnelBear,Hong Kong,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Albania,lt-50,2,1,lt-50,75.0,VPN-Infrastructure-Atlas
+FrootVPN,United Kingdom,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+OVPN,Romania,lt-50,14,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Canada,lt-50,11,4,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,United States,lt-50,9,6,lt-50,95.0,VPN-Infrastructure-Atlas
+Safervpn,United States,lt-50,14,5,lt-50,78.0,VPN-Infrastructure-Atlas
+VPNUK,Canada,lt-50,15,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Indonesia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Japan,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+AzireVPN,United States,lt-50,14,5,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Hotspotshield,Romania,lt-50,14,1,lt-50,78.0,VPN-Infrastructure-Atlas
+IPVanish,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,United States,lt-50,14,7,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Zoogvpn,Canada,lt-50,14,3,lt-50,78.0,VPN-Infrastructure-Atlas
+Anonine,Sweden,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Netherlands,lt-50,12,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Hong Kong,lt-50,5,4,lt-50,78.0,VPN-Infrastructure-Atlas
+CyberGhost,Germany,lt-50,6,1,lt-50,71.9,VPN-Infrastructure-Atlas
+EasyHideIP,France,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,Singapore,lt-50,5,4,lt-50,70.0,VPN-Infrastructure-Atlas
+FrootVPN,France,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+KevinVPN,United States,lt-50,11,8,lt-50,70.0,VPN-Infrastructure-Atlas
+Kompot VPN,Panama,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+NetShade,France,lt-50,13,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Estonia,lt-50,11,1,lt-50,95.0,VPN-Infrastructure-Atlas
+RedShield VPN,United States,lt-50,5,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Riseup VPN,France,lt-50,11,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Vietnam,lt-50,4,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,United States,lt-50,13,7,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN.ac,France,lt-50,6,2,lt-50,95.0,VPN-Infrastructure-Atlas
+AirVPN,New Zealand,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,France,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,France,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,United States,lt-50,10,5,lt-50,95.0,VPN-Infrastructure-Atlas
+GhostPath,United Kingdom,lt-50,11,7,lt-50,88.0,VPN-Infrastructure-Atlas
+Mullvad,Norway,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Sweden,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,India,lt-50,10,2,lt-50,88.0,VPN-Infrastructure-Atlas
+RedShield VPN,United Kingdom,lt-50,12,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Cyprus,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Thailand,lt-50,4,3,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Netherlands,lt-50,8,4,lt-50,88.0,VPN-Infrastructure-Atlas
+Zoogvpn,United States,lt-50,10,6,lt-50,78.0,VPN-Infrastructure-Atlas
+Anonine,Germany,lt-50,6,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,Sweden,lt-50,7,2,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Germany,lt-50,6,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,Kenya,lt-50,1,1,lt-50,72.3,VPN-Infrastructure-Atlas
+EasyHideIP,Germany,lt-50,6,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Romania,lt-50,6,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FastestVPN,Canada,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Germany,lt-50,6,1,lt-50,95.0,VPN-Infrastructure-Atlas
+HideIPVPN,France,lt-50,11,1,lt-50,70.0,VPN-Infrastructure-Atlas
+IPVanish,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Australia,lt-50,6,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Proxpn,United States,lt-50,10,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Australia,lt-50,10,6,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+uVPN,United States,lt-50,11,2,lt-50,70.0,VPN-Infrastructure-Atlas
+Anonine,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Netherlands,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Canada,lt-50,9,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,South Korea,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+BoxPN,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Netherlands,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,North Macedonia,lt-50,1,1,lt-50,72.5,VPN-Infrastructure-Atlas
+EasyHideIP,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Netherlands,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FreeVPN,United States,lt-50,10,3,lt-50,88.0,VPN-Infrastructure-Atlas
+Froot,Sweden,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+FrootVPN,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Netherlands,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Japan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IPVanish,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+KeyDrop,Russia,lt-50,10,6,lt-50,70.0,VPN-Infrastructure-Atlas
+Private Internet Access,Germany,lt-50,4,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Estonia,lt-50,7,3,lt-50,95.0,VPN-Infrastructure-Atlas
+StrongVPN,Canada,lt-50,3,1,lt-50,86.0,VPN-Infrastructure-Atlas
+Surfshark,Australia,lt-50,9,3,lt-50,95.0,VPN-Infrastructure-Atlas
+SwitchVPN,Hong Kong,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Slovenia,lt-50,4,2,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN.ac,Australia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Canada,lt-50,4,3,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNObratno,Russia,lt-50,10,5,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNSecure,Canada,lt-50,10,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Vpnht,Romania,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+WLVPN,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Japan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WLVPN,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,India,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Brazil,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Poland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Malaysia,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+BoxPN,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Poland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Poland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,France,lt-50,8,4,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Netherlands,lt-50,9,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FrootVPN,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Poland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Hotspotshield,United Kingdom,lt-50,9,3,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,United States,lt-50,9,3,lt-50,78.0,VPN-Infrastructure-Atlas
+Kompot VPN,Russia,lt-50,6,4,lt-50,71.1,VPN-Infrastructure-Atlas
+OVPN,United Kingdom,lt-50,8,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,United States,lt-50,7,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Privado,India,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Cyprus,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,United Kingdom,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Netherlands,lt-50,9,7,lt-50,95.0,VPN-Infrastructure-Atlas
+SwitchVPN,Panama,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN.ac,Germany,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,United Kingdom,lt-50,5,4,lt-50,95.0,VPN-Infrastructure-Atlas
+Vpnht,Russia,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+WiTopia,Australia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Albania,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Antarctica,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Panama,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Vietnam,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,South Africa,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Finland,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Hungary,lt-50,4,2,lt-50,78.0,VPN-Infrastructure-Atlas
+BoxPN,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,United States,lt-50,7,7,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Estonia,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+ExpressVPN,Sweden,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Vietnam,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FrootVPN,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Goosevpn,United States,lt-50,8,2,lt-50,78.0,VPN-Infrastructure-Atlas
+HideIPVPN,United Kingdom,lt-50,8,3,lt-50,70.0,VPN-Infrastructure-Atlas
+Kompot VPN,Estonia,lt-50,2,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Kompot VPN,United States,lt-50,7,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Le VPN,Romania,lt-50,8,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Private Internet Access,Denmark,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Italy,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+PureVPN,Lithuania,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PureVPN,Luxembourg,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,India,lt-50,5,3,lt-50,95.0,VPN-Infrastructure-Atlas
+StrongVPN,India,lt-50,4,1,lt-50,83.8,VPN-Infrastructure-Atlas
+StrongVPN,Romania,lt-50,3,1,lt-50,83.8,VPN-Infrastructure-Atlas
+Surfshark,United Kingdom,lt-50,6,4,lt-50,95.0,VPN-Infrastructure-Atlas
+SwitchVPN,United Kingdom,lt-50,7,3,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Hong Kong,lt-50,7,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Romania,lt-50,4,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN.ac,Iceland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNSecure,United Kingdom,lt-50,7,5,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNUK,Netherlands,lt-50,8,1,lt-50,91.9,VPN-Infrastructure-Atlas
+VPNUK,United States,lt-50,8,4,lt-50,88.8,VPN-Infrastructure-Atlas
+Zoogvpn,France,lt-50,8,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Netherlands,lt-50,8,4,lt-50,78.0,VPN-Infrastructure-Atlas
+Anonine,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Singapore,lt-50,3,2,lt-50,78.3,VPN-Infrastructure-Atlas
+BTGuard,Netherlands,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+BoxPN,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,Switzerland,lt-50,5,3,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Hungary,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,South Korea,lt-50,6,3,lt-50,70.0,VPN-Infrastructure-Atlas
+FrootVPN,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Getflix,United States,lt-50,7,5,lt-50,78.0,VPN-Infrastructure-Atlas
+IPVanish,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Netherlands,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Kompot VPN,United Kingdom,lt-50,5,2,lt-50,80.0,VPN-Infrastructure-Atlas
+MoriVPN,United States,lt-50,7,3,lt-50,80.0,VPN-Infrastructure-Atlas
+NordVPN,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PhantomPeer,United States,lt-50,7,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Private Internet Access,Spain,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Georgia,lt-50,6,3,lt-50,95.0,VPN-Infrastructure-Atlas
+SlickVPN,United States,lt-50,7,7,lt-50,88.0,VPN-Infrastructure-Atlas
+Trust.Zone,Canada,lt-50,6,3,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Jantit,Indonesia,lt-50,5,3,lt-50,88.0,VPN-Infrastructure-Atlas
+WLVPN,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,France,lt-50,7,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Hong Kong,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Zoogvpn,Hong Kong,lt-50,7,2,lt-50,78.0,VPN-Infrastructure-Atlas
+uVPN,France,lt-50,7,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Anonine,Türkiye,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Bulgaria,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Israel,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+BoxPN,Türkiye,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Netherlands,lt-50,5,5,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Türkiye,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,Italy,lt-50,6,4,lt-50,70.0,VPN-Infrastructure-Atlas
+FrootVPN,Türkiye,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+GhostPath,Australia,lt-50,6,3,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Canada,lt-50,6,3,lt-50,88.0,VPN-Infrastructure-Atlas
+Kompot VPN,Netherlands,lt-50,5,2,lt-50,80.0,VPN-Infrastructure-Atlas
+Private Internet Access,Estonia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Finland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Japan,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Netherlands,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Canada,lt-50,4,3,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PureVPN,European Union,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PureVPN,Seychelles,lt-50,4,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Egypt,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Moldova,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Ukraine,lt-50,4,4,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Canada,lt-50,6,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Spain,lt-50,4,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,France,lt-50,4,4,lt-50,95.0,VPN-Infrastructure-Atlas
+Trust.Zone,Bulgaria,lt-50,6,3,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Jantit,Philippines,lt-50,5,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Singapore,lt-50,3,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Germany,lt-50,3,2,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Unlimited,United Kingdom,lt-50,6,2,lt-50,70.0,VPN-Infrastructure-Atlas
+Windscribe,Israel,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,India,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,South Korea,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Lithuania,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Latvia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Moldova,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Netherlands,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Taiwan,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Poland,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Zoogvpn,Romania,lt-50,6,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Anonine,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Finland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonine,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,United States,lt-50,5,4,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Argentina,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Greece,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Norway,lt-50,3,1,lt-50,78.0,VPN-Infrastructure-Atlas
+BoxPN,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Finland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BoxPN,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Finland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,United Kingdom,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,Hong Kong,lt-50,5,3,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Romania,lt-50,4,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Freedomip,France,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+FrootVPN,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Finland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FrootVPN,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+GhostPath,Netherlands,lt-50,4,4,lt-50,88.0,VPN-Infrastructure-Atlas
+HideIPVPN,United States,lt-50,5,4,lt-50,70.0,VPN-Infrastructure-Atlas
+IVPN,Canada,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+KevinVPN,United Kingdom,lt-50,4,2,lt-50,70.0,VPN-Infrastructure-Atlas
+Kompot VPN,Kazakhstan,lt-50,4,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Kompot VPN,Poland,lt-50,2,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Le VPN,Luxembourg,lt-50,5,1,lt-50,70.0,VPN-Infrastructure-Atlas
+NordVPN,France,lt-50,5,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Germany,lt-50,3,2,lt-50,92.2,VPN-Infrastructure-Atlas
+PureVPN,Canada,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Safervpn,Austria,lt-50,5,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,United Arab Emirates,lt-50,4,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Peru,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Poland,lt-50,5,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Netherlands,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+SwitchVPN,Italy,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Netherlands,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Trust.Zone,Germany,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+TunnelBear,United Kingdom,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Jantit,Netherlands,lt-50,5,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN.ac,Seychelles,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Vpnfacile,France,lt-50,3,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,Austria,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+WiTopia,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Latvia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Netherlands,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Bulgaria,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Italy,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Latvia,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Ukraine,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+AirVPN,Australia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AirVPN,Estonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AirVPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Anonvpn,Mauritius,lt-50,4,0,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Austria,lt-50,1,1,lt-50,78.5,VPN-Infrastructure-Atlas
+Astrill,Italy,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Luxembourg,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Moldova,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,New Zealand,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Russia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Sweden,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+AzireVPN,Netherlands,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CCrypto VPN,France,lt-50,4,1,lt-50,88.0,VPN-Infrastructure-Atlas
+CactusVPN,Canada,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,United Kingdom,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Germany,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Argentina,lt-50,4,2,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Austria,lt-50,4,3,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Czechia,lt-50,4,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Russia,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Froot,Canada,lt-50,4,4,lt-50,78.0,VPN-Infrastructure-Atlas
+Froot,United States,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+GhostPath,Germany,lt-50,4,3,lt-50,88.0,VPN-Infrastructure-Atlas
+KevinVPN,Netherlands,lt-50,3,3,lt-50,70.0,VPN-Infrastructure-Atlas
+Le VPN,Austria,lt-50,4,1,lt-50,70.0,VPN-Infrastructure-Atlas
+LimeVPN,United States,lt-50,4,4,lt-50,70.0,VPN-Infrastructure-Atlas
+Mullvad,Canada,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+NordVPN,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+NordVPN,Germany,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Australia,lt-50,4,2,lt-50,91.5,VPN-Infrastructure-Atlas
+PrivateVPN,France,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Netherlands,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Poland,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PureVPN,Albania,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PureVPN,India,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PureVPN,Moldova,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PureVPN,Netherlands,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+RedShield VPN,Romania,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Riseup VPN,United States,lt-50,4,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Argentina,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Russia,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Taiwan,lt-50,4,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Uruguay,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,United Kingdom,lt-50,4,3,lt-50,78.0,VPN-Infrastructure-Atlas
+StrongVPN,Estonia,lt-50,1,1,lt-50,83.8,VPN-Infrastructure-Atlas
+Surfshark,Belgium,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Germany,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,India,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Italy,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Poland,lt-50,4,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Portugal,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Jantit,Germany,lt-50,4,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Thailand,lt-50,4,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Italy,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN.ac,Singapore,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNSTunnel,United States,lt-50,4,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WiTopia,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Hong Kong,lt-50,1,0,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Iceland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Russia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WiTopia,Vietnam,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Bosnia and Herzegovina,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Australia,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Finland,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Ukraine,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Bosnia and Herzegovina,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Brazil,lt-50,1,1,lt-50,78.7,VPN-Infrastructure-Atlas
+Astrill,Denmark,lt-50,3,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Estonia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Ireland,lt-50,1,1,lt-50,78.7,VPN-Infrastructure-Atlas
+Astrill,Panama,lt-50,3,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Pakistan,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Portugal,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Slovakia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Ukraine,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Vietnam,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,South Africa,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+AzireVPN,Norway,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,Vanuatu,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Albania,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+ExpressVPN,Lithuania,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Germany,lt-50,3,3,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Georgia,lt-50,2,2,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Lithuania,lt-50,3,3,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Philippines,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Ukraine,lt-50,3,2,lt-50,70.0,VPN-Infrastructure-Atlas
+FreeVPN,Netherlands,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Czechia,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,France,lt-50,3,3,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Russia,lt-50,3,2,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Sweden,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Singapore,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Goosevpn,Netherlands,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+HideIPVPN,Netherlands,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+IVPN,Estonia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Malaysia,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Panama,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Canada,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Estonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,United Kingdom,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,United Kingdom,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+KeyDrop,United Arab Emirates,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Mullvad,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Mullvad,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+NordVPN,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,European Union,lt-50,3,2,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,India,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Japan,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Proxpn,Mauritius,lt-50,2,0,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Canada,lt-50,3,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Cyprus,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Kazakhstan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Malaysia,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Norway,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Sweden,lt-50,3,3,lt-50,95.0,VPN-Infrastructure-Atlas
+SmartVPN,Canada,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,United States,lt-50,3,1,lt-50,88.0,VPN-Infrastructure-Atlas
+StrongVPN,Malaysia,lt-50,1,1,lt-50,85.0,VPN-Infrastructure-Atlas
+StrongVPN,Netherlands,lt-50,1,1,lt-50,85.0,VPN-Infrastructure-Atlas
+Trust.Zone,France,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,United States,lt-50,3,3,lt-50,70.0,VPN-Infrastructure-Atlas
+TunnelBear,Netherlands,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Gate,Russia,lt-50,3,3,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Gate,Thailand,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Jantit,Hungary,lt-50,3,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Luxembourg,lt-50,3,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN.ac,Hong Kong,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNSecure,United States,lt-50,3,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNUK,Switzerland,lt-50,3,1,lt-50,86.7,VPN-Infrastructure-Atlas
+VPNUK,Romania,lt-50,3,1,lt-50,78.3,VPN-Infrastructure-Atlas
+Vpnht,Albania,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,Netherlands,lt-50,3,3,lt-50,78.0,VPN-Infrastructure-Atlas
+WiTopia,Dominican Republic,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Georgia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Iceland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,North Macedonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Poland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Windscribe,Russia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorkingVPN,France,lt-50,3,1,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Russia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Singapore,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Zoogvpn,United Kingdom,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Ukraine,lt-50,3,2,lt-50,78.0,VPN-Infrastructure-Atlas
+uVPN,Romania,lt-50,3,1,lt-50,70.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Latvia,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Albania,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Czechia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Spain,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Thailand,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+AzireVPN,Canada,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CCrypto VPN,Latvia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+CactusVPN,Brazil,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Switzerland,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Germany,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Spain,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Hong Kong,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,India,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Italy,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Japan,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Latvia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Moldova,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Poland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Portugal,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Romania,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Russia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Sweden,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Ukraine,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+CyberGhost,India,lt-50,1,0,lt-50,95.0,VPN-Infrastructure-Atlas
+ExpressVPN,Georgia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+ExpressVPN,Moldova,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FastestVPN,Germany,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,Japan,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Luxembourg,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Sweden,lt-50,2,2,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Türkiye,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Taiwan,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,South Africa,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FreeVPN,Germany,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,France,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,Indonesia,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Freevpn,France,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Froot,Romania,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,United Kingdom,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Romania,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Türkiye,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+GhostPath,Belgium,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Spain,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Greece,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,India,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Italy,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+HideIPVPN,Germany,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+HideIPVPN,Poland,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+HideIPVPN,Seychelles,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+IVPN,Australia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Germany,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Finland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Hong Kong,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Israel,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Iceland,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Norway,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Ukraine,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,ZZ,lt-50,1,0,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Luxembourg,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Romania,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+KevinVPN,Austria,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Germany,lt-50,2,2,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,France,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Mullvad,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Mullvad,Panama,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+NetShade,United Kingdom,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+NetShade,United States,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+NordVPN,North Macedonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OVPN,Germany,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Octanevpn,United States,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+OysterVPN,Canada,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Netherlands,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Vietnam,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,Moldova,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,North Macedonia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Cyprus,lt-50,2,2,lt-50,91.5,VPN-Infrastructure-Atlas
+PrivateVPN,Denmark,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Japan,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Norway,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,South Africa,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Albania,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Iceland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Proxpn,Canada,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Proxpn,United Kingdom,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Proxpn,Singapore,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+PureVPN,Brazil,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PureVPN,Finland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+RedShield VPN,Brazil,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+RedShield VPN,Israel,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Riseup VPN,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Riseup VPN,United Kingdom,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Safervpn,Netherlands,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Switzerland,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Czechia,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Indonesia,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Iceland,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Japan,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Kyrgyzstan,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,South Korea,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Portugal,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Saudi Arabia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,UNKNOWN,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,South Africa,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+SlickVPN,United Kingdom,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Australia,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Luxembourg,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+SotaVPN,United Kingdom,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+StrongVPN,Australia,lt-50,2,1,lt-50,80.0,VPN-Infrastructure-Atlas
+StrongVPN,Costa Rica,lt-50,1,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Surfshark,Andorra,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,United Arab Emirates,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Armenia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Argentina,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Azerbaijan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Bosnia and Herzegovina,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Bangladesh,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Bulgaria,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Brunei,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Bolivia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Brazil,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Bahamas,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Bhutan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Belize,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Switzerland,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Chile,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Colombia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Cyprus,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Czechia,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Denmark,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Algeria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Ecuador,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Estonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Egypt,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Georgia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Ghana,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Greenland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Greece,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Hong Kong,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Croatia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Hungary,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Indonesia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Ireland,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Isle of Man,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Iceland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Japan,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Cambodia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,South Korea,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Kazakhstan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Laos,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Liechtenstein,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Latvia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Morocco,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Monaco,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Montenegro,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,North Macedonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Myanmar,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Mongolia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Macao,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Malta,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Mexico,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Malaysia,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Nigeria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Netherlands,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Nepal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,New Zealand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Peru,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Philippines,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Pakistan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Puerto Rico,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Paraguay,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Serbia,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Saudi Arabia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Singapore,lt-50,2,2,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Slovenia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Slovakia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Taiwan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Uruguay,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Uzbekistan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Venezuela,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Vietnam,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,South Africa,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+SwitchVPN,Canada,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Trust.Zone,Netherlands,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,Ukraine,lt-50,2,2,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Jantit,Estonia,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Cambodia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Kazakhstan,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Vietnam,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,South Africa,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Bulgaria,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Greece,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPNSecure,Romania,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNSecure,Ukraine,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNUK,Germany,lt-50,2,2,lt-50,82.5,VPN-Infrastructure-Atlas
+VPNUK,France,lt-50,2,1,lt-50,82.5,VPN-Infrastructure-Atlas
+VPNUK,Italy,lt-50,2,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Vpnbook,France,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,Singapore,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+WorldVPN,Austria,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Canada,lt-50,2,2,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Sweden,lt-50,2,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Zoogvpn,Germany,lt-50,2,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Israel,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Lithuania,lt-50,2,2,lt-50,78.0,VPN-Infrastructure-Atlas
+uVPN,Germany,lt-50,2,1,lt-50,70.0,VPN-Infrastructure-Atlas
+uVPN,United Kingdom,lt-50,2,2,lt-50,70.0,VPN-Infrastructure-Atlas
+Anonvpn,Canada,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Anonvpn,United Kingdom,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Anonvpn,United States,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Czechia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Germany,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,France,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Romania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AnonymousVPN,South Africa,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Astrill,Indonesia,lt-50,1,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Astrill,Kazakhstan,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Slovenia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Astrill,Türkiye,lt-50,1,1,lt-50,80.0,VPN-Infrastructure-Atlas
+AzireVPN,Australia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,Indonesia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+AzireVPN,South Africa,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+BTGuard,Canada,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+BTGuard,Lithuania,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+BTGuard,United States,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+CCrypto VPN,Estonia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+CCrypto VPN,United States,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+CactusVPN,Australia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,France,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+CactusVPN,Singapore,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+EasyHideIP,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,United Kingdom,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FastestVPN,South Africa,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+FlowVPN,Armenia,lt-50,1,0,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Australia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Azerbaijan,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Chile,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Costa Rica,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Cyprus,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Denmark,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Estonia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Finland,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Croatia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Indonesia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Israel,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,India,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Kazakhstan,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Moldova,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Mexico,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Malaysia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Panama,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Poland,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Portugal,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FlowVPN,Tunisia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+FreeVPN,Switzerland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,Estonia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,Finland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,United Kingdom,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,Luxembourg,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,Sweden,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+FreeVPN,Singapore,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Freevpn,Netherlands,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Froot,France,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Froot,Panama,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Australia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Canada,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Denmark,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Greece,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Netherlands,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Norway,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Panama,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Getflix,Sweden,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+GhostPath,Austria,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Brazil,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Switzerland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Chile,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Denmark,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Estonia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Hong Kong,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Hungary,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Indonesia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Ireland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Israel,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Iceland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Japan,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Luxembourg,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Moldova,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Malaysia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Norway,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Panama,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Poland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Portugal,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Romania,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Serbia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Slovenia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Thailand,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Türkiye,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+GhostPath,Ukraine,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Goosevpn,United Kingdom,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hide.me,Switzerland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Hide.me,Poland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Hide.me,United States,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+HideIPVPN,Spain,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+HideIPVPN,Lithuania,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+HideIPVPN,Russia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Hotspotshield,Bangladesh,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Brazil,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,China,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Germany,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,France,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Lithuania,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Marshall Islands,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Panama,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Singapore,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Taiwan,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,Ukraine,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Hotspotshield,South Africa,lt-50,1,0,lt-50,78.0,VPN-Infrastructure-Atlas
+IVPN,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+IVPN,Luxembourg,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Integrityvpn,Sweden,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Ivacy,Afghanistan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Austria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Belgium,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Bulgaria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Brunei,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Switzerland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Chile,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Denmark,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Egypt,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,France,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Greece,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Hungary,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Ireland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Latvia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Nigeria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Netherlands,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Oman,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Philippines,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Poland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Serbia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Russia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Singapore,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Slovakia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Taiwan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Ivacy,Vietnam,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+KevinVPN,Canada,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Switzerland,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Italy,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Luxembourg,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Romania,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Sweden,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Singapore,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KevinVPN,Türkiye,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+KeyDrop,Germany,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Kompot VPN,Argentina,lt-50,1,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Le VPN,Spain,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Le VPN,United Kingdom,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Le VPN,Hong Kong,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Le VPN,Iceland,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Le VPN,Sweden,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Le VPN,United States,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+NetShade,Germany,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OVPN,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OVPN,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Antigua & Barbuda,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Australia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Bulgaria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Switzerland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Cyprus,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Czechia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Germany,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,FL,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,France,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,United Kingdom,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Japan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Namibia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Philippines,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Pakistan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Poland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Russia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Saudi Arabia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Singapore,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Taiwan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+OysterVPN,United Kingdom,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PhantomPeer,Switzerland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PhantomPeer,Romania,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PhantomPeer,Sweden,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Privado,Romania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Private Internet Access,India,lt-50,1,0,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,United Arab Emirates,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Argentina,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Austria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Belgium,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Bulgaria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Brazil,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Chile,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Czechia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Estonia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PrivateVPN,Finland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PrivateVPN,Greece,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Croatia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Hungary,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Indonesia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Ireland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Israel,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PrivateVPN,Isle of Man,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Iceland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,South Korea,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Luxembourg,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+PrivateVPN,Latvia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Malta,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Mexico,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Malaysia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,New Zealand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Peru,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Philippines,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Romania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Serbia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Singapore,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Slovakia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Taiwan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Ukraine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+PrivateVPN,Vietnam,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Bosnia and Herzegovina,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Cyprus,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,European Union,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Croatia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Indonesia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,India,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Moldova,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,North Macedonia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Palestine,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Seychelles,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Sweden,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+ProtonVPN,Taiwan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Proxpn,Switzerland,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Proxpn,Costa Rica,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Proxpn,Hong Kong,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Proxpn,Iceland,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+RedShield VPN,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+RedShield VPN,Finland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+RedShield VPN,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+RedShield VPN,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Safervpn,Switzerland,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Cyprus,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Spain,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Finland,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,France,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,United Kingdom,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Hong Kong,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Hungary,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Israel,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Norway,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Portugal,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Romania,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,Thailand,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Safervpn,South Africa,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Albania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Austria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Bulgaria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Chile,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Costa Rica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Denmark,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Spain,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Israel,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Jamaica,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Jordan,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,New Zealand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Seychelles,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Sentinel dVPN,Thailand,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+SlickVPN,Austria,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SlickVPN,Singapore,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,Switzerland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,Spain,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,France,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,Israel,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,Sweden,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SmartVPN,Slovenia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Austria,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Canada,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Denmark,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Greece,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Italy,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Norway,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Panama,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Sweden,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Smartdnsproxy,Türkiye,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+SotaVPN,Latvia,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+SotaVPN,Netherlands,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+StrongVPN,Finland,lt-50,1,1,lt-50,80.0,VPN-Infrastructure-Atlas
+Surfshark,Austria,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Sri Lanka,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Surfshark,Romania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+SwitchVPN,Austria,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Belgium,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Switzerland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Czechia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,France,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,India,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,South Korea,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Malaysia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Norway,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+SwitchVPN,Singapore,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Trust.Zone,Albania,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,Australia,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,Israel,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,Poland,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,Seychelles,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+Trust.Zone,Türkiye,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+TunnelBear,Canada,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+TunnelBear,Italy,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN Gate,European Union,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Gate,Laos,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Gate,Romania,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Gate,Ukraine,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Gate,Vietnam,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+VPN Jantit,Bulgaria,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Moldova,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Romania,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Jantit,Türkiye,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPN Unlimited,Ukraine,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN Unlimited,South Africa,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPN.ac,Italy,lt-50,1,0,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Lithuania,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Norway,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Panama,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPN.ac,Portugal,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNSecure,Hong Kong,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNSecure,Israel,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNSecure,Latvia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNSecure,Sweden,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+VPNUK,Spain,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas
+VPNUK,Hong Kong,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNUK,Ireland,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+VPNUK,Türkiye,lt-50,1,1,lt-50,95.0,VPN-Infrastructure-Atlas
+Vpnfacile,United Kingdom,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnfacile,United States,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,Denmark,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,Japan,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,South Korea,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Vpnht,United States,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+WiTopia,Egypt,lt-50,1,0,lt-50,95.0,VPN-Infrastructure-Atlas
+WorldVPN,Belgium,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Brazil,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Chile,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,China,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Spain,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Greece,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Ireland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Iceland,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Japan,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Liechtenstein,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Luxembourg,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Malaysia,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Norway,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Philippines,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Portugal,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Romania,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+WorldVPN,Türkiye,lt-50,1,1,lt-50,88.0,VPN-Infrastructure-Atlas
+Zoogvpn,Armenia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Austria,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Brazil,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Estonia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Finland,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Georgia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Hungary,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Indonesia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Italy,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Kazakhstan,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Latvia,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Moldova,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,New Zealand,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Thailand,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Türkiye,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,Vietnam,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+Zoogvpn,South Africa,lt-50,1,1,lt-50,78.0,VPN-Infrastructure-Atlas
+uVPN,Luxembourg,lt-50,1,1,lt-50,70.0,VPN-Infrastructure-Atlas

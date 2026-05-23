@@ -1,0 +1,90 @@
+provider,observed_countries,geo_truth_score,mmdb_country_match_rate,virtual_location_likelihood,city_precision_quality,confidence
+AirVPN,10,0.63,0.65,low,high,high
+Anonine,24,0.71,0.74,low,medium,medium
+Anonvpn,4,0.49,0.86,medium,medium,low
+AnonymousVPN,14,0.59,0.40,low,medium,low
+Astrill,49,0.82,0.75,low,high,high
+AzireVPN,12,0.59,0.33,low,high,low
+BTGuard,4,0.49,0.90,medium,medium,low
+BoxPN,23,0.71,0.73,low,medium,medium
+CCrypto VPN,4,0.47,0.62,medium,medium,low
+CactusVPN,25,0.75,0.88,low,medium,low
+Cryptostorm,10,0.58,0.47,low,high,low
+CyberGhost,14,0.55,0.11,low,high,high
+EasyHideIP,24,0.71,0.73,low,medium,medium
+ExpressVPN,13,0.55,0.12,medium,high,medium
+FastestVPN,11,0.56,0.32,low,high,low
+FlowVPN,49,0.76,0.51,low,high,medium
+FreeVPN,12,0.66,0.96,low,medium,low
+Freedomip,1,0.39,1.00,medium,low,low
+Freevpn,2,0.41,0.67,medium,medium,low
+Froot,6,0.55,0.77,medium,medium,low
+FrootVPN,24,0.71,0.73,low,medium,medium
+Getflix,12,0.58,0.52,low,medium,low
+GhostPath,42,0.82,0.95,low,high,medium
+Giganews,1,0.36,0.25,medium,high,low
+Goosevpn,4,0.42,0.12,medium,high,low
+Hide.me,3,0.44,0.67,medium,low,low
+HideIPVPN,10,0.58,0.61,low,high,low
+Hotspotshield,15,0.57,0.41,low,high,low
+IPVanish,14,0.67,0.53,low,high,high
+IVPN,20,0.65,0.44,low,high,medium
+Integrityvpn,1,0.39,1.00,medium,low,low
+Ivacy,46,0.75,0.76,low,medium,low
+KevinVPN,14,0.61,0.58,low,medium,low
+KeyDrop,3,0.48,0.71,medium,medium,low
+Kompot VPN,9,0.57,0.65,low,medium,low
+Le VPN,9,0.47,0.22,medium,medium,low
+LimeVPN,1,0.44,0.75,medium,medium,low
+MoriVPN,1,0.32,0.00,medium,high,low
+Mullvad,13,0.62,0.33,low,high,high
+NetShade,4,0.45,0.28,medium,high,low
+Njalla,1,0.20,0.00,high,low,medium
+NordVPN,15,0.60,0.14,low,high,high
+OVPN,6,0.57,0.67,low,high,low
+Octanevpn,1,0.39,1.00,medium,low,low
+Opera VPN,1,0.41,0.97,medium,medium,low
+OysterVPN,36,0.70,0.82,low,medium,low
+Perimeter81,1,0.30,0.25,medium,medium,low
+PhantomPeer,4,0.45,0.50,medium,medium,low
+Privado,3,0.45,0.30,medium,high,medium
+Private Internet Access,21,0.68,0.49,low,high,medium
+PrivateVPN,59,0.82,0.89,low,medium,medium
+ProtonVPN,25,0.64,0.13,low,high,high
+Proxpn,9,0.58,0.75,low,medium,low
+Psiphon,9,0.56,0.28,low,high,medium
+PureVPN,16,0.59,0.19,low,high,medium
+RedShield VPN,9,0.52,0.27,medium,high,low
+Riseup VPN,4,0.50,0.71,medium,medium,low
+SSHMax,1,0.39,1.00,medium,low,low
+Safervpn,18,0.61,0.46,low,medium,low
+Sentinel dVPN,57,0.84,0.59,low,high,high
+SlickVPN,4,0.56,0.82,low,medium,low
+SmartVPN,8,0.55,0.67,low,medium,low
+Smartdnsproxy,15,0.58,0.35,low,high,low
+SotaVPN,3,0.37,0.25,medium,medium,low
+StrongVPN,11,0.65,0.70,low,high,medium
+Surfshark,100,0.84,0.97,low,medium,medium
+SwitchVPN,17,0.65,0.67,low,medium,low
+TorGuard,14,0.54,0.14,medium,high,medium
+Trust.Zone,15,0.56,0.28,low,high,low
+TunnelBear,9,0.53,0.19,medium,high,medium
+VPN Gate,10,0.67,0.80,low,high,low
+VPN Jantit,23,0.66,0.28,low,high,medium
+VPN Unlimited,13,0.60,0.33,low,high,medium
+VPN.ac,17,0.70,0.71,low,high,medium
+VPNObratno,1,0.54,1.00,medium,high,low
+VPNSTunnel,1,0.20,0.00,high,low,low
+VPNSecure,10,0.53,0.28,medium,high,low
+VPNUK,13,0.65,0.64,low,high,low
+Vpnbook,1,0.22,0.00,high,medium,low
+Vpnfacile,3,0.46,0.86,medium,low,low
+Vpnht,13,0.64,0.83,low,medium,medium
+VyprVPN,1,0.38,0.25,medium,high,low
+WLVPN,14,0.67,0.53,low,high,high
+WiTopia,26,0.74,0.70,low,high,medium
+Windscribe,30,0.70,0.38,low,high,high
+WorkingVPN,1,0.33,0.33,medium,medium,low
+WorldVPN,34,0.73,0.85,low,medium,medium
+Zoogvpn,28,0.66,0.37,low,high,low
+uVPN,6,0.50,0.46,medium,high,low

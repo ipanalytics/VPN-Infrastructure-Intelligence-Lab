@@ -1,0 +1,65 @@
+prefix_cluster,asn,operator,observed_exact_count,provider_count,provider_examples,source_repo
+SharedPrefixCluster-001,29889,FSNET-1,2,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-002,51852,PLI-AS,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-003,62563,AS-GLOBALTELEHOST,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-004,11831,ESECUREDATA,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-005,9009,M247,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-006,62904,AS62904 - Eonix Corporation,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-007,16276,OVH,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-008,54643,IDIGITAL,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-009,29889,FSNET-1,1,5,Anonine; BoxPN; EasyHideIP; Froot; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-010,9008,ASN-VO Visual Online S.A. Luxembourg,14,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-011,63023,AS-GLOBALTELEHOST,11,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-012,63023,AS-GLOBALTELEHOST,11,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-013,136557,HOST-AS-AP Host Universal Pty Ltd,11,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-014,9009,M247,11,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-015,35758,HQSERV_NETWORKS,10,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-016,60458,ASN-XTUDIONET,9,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-017,197155,ARTNET,8,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-018,42831,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",8,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-019,34081,SERVER24-AS INCUBATEC GmbH - Srl,8,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-020,21130,IOMART-IE,7,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-021,16276,OVH,7,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-022,6698,VIRTUALSYSTEMS,7,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-023,29889,FSNET-1,6,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-024,11831,ESECUREDATA,6,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-025,133398,TELE-AS Tele Asia Limited,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-026,45839,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-027,63023,AS-GLOBALTELEHOST,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-028,52423,Data Miners S.A.  Racknation.cr,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-029,45382,EHOSTIDC-AS-KR Hostcenter,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-030,262287,Latitude.sh LTDA,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-031,136557,HOST-AS-AP Host Universal Pty Ltd,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-032,56655,GIGAHOST,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-033,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-034,60781,LEASEWEB-NL-AMS-01 Netherlands,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-035,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-036,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-037,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-038,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-039,42926,RADORE,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-040,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-041,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-042,9009,M247,5,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-043,51852,PLI-AS,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-044,51765,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-045,62563,AS-GLOBALTELEHOST,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-046,9009,M247,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-047,62904,AS62904 - Eonix Corporation,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-048,60781,LEASEWEB-NL-AMS-01 Netherlands,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-049,54643,IDIGITAL,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-050,36666,GTCOMM,4,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-051,12876,Online SAS,3,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-052,29889,FSNET-1,3,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-053,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,2,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-054,197155,ARTNET,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-055,51765,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-056,12876,Online SAS,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-057,42926,RADORE,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-058,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-059,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-060,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-061,29889,FSNET-1,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-062,29889,FSNET-1,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-063,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence
+SharedPrefixCluster-064,60781,LEASEWEB-NL-AMS-01 Netherlands,1,4,Anonine; BoxPN; EasyHideIP; FrootVPN,ipanalytics/vpn-provider-overlap-intelligence

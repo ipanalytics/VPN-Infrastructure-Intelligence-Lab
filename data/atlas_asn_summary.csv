@@ -1,0 +1,768 @@
+asn,operator,observed_records_bucket,prefix_count,provider_count,country_count,country_examples,data_origin
+10066,GAYANET-AS-KR LG HelloVision Corp.,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+10297,ENET-2,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+10753,LUMEN-LEGACY-L3-CUSTOMER-SHARED-USE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+10929,ESTRUXTURE-QC-10929,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+11117,NUYEK,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+11232,MIDCO-NET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+11831,ESECUREDATA,aggregate,13,11,1,Canada,VPN-Infrastructure-Atlas
+11878,TZULO,aggregate,109,7,1,United States,VPN-Infrastructure-Atlas
+12297,TELECOM-ARMENIA Telecom Armenia AS,aggregate,1,1,1,Armenia,VPN-Infrastructure-Atlas
+12322,PROXAD,aggregate,3,1,1,France,VPN-Infrastructure-Atlas
+12389,ROSTELECOM-AS PJSC Rostelecom. Technical Team,aggregate,7,2,1,Russia,VPN-Infrastructure-Atlas
+12417,DHH-AS,aggregate,1,1,1,Croatia,VPN-Infrastructure-Atlas
+12479,UNI2-AS,aggregate,1,1,1,Spain,VPN-Infrastructure-Atlas
+1257,TELE2,aggregate,4,4,2,Estonia; European Union,VPN-Infrastructure-Atlas
+12735,ASTURKNET,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+12844,BOUYGTEL-B2B,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+12876,Online SAS,aggregate,62,22,1,France,VPN-Infrastructure-Atlas
+12975,PALTEL-AS PALTEL Autonomous System,aggregate,1,1,1,Palestine,VPN-Infrastructure-Atlas
+1299,"TWELVE99 Arelion, fka Telia Carrier",aggregate,7,3,3,Denmark; Sweden; United Kingdom,VPN-Infrastructure-Atlas
+131267,UNITEL-LA Star Telecom,aggregate,1,1,1,Laos,VPN-Infrastructure-Atlas
+13213,UK2NET-AS,aggregate,29,13,5,France; Germany; Netherlands; United Kingdom; United States,VPN-Infrastructure-Atlas
+132335,LEAPSWITCH-IN-AS-AP LEAPSWITCH NETWORKS PRIVATE LIMITED,aggregate,3,3,1,India,VPN-Infrastructure-Atlas
+132372,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,aggregate,28,5,9,Afghanistan; Brazil; Brunei; Egypt; Malaysia; Panama; Russia; Taiwan; Vietnam,VPN-Infrastructure-Atlas
+132825,MYTEK-AS-AP MYTEK TRADING PTY LTD,aggregate,1,1,1,Australia,VPN-Infrastructure-Atlas
+132839,POWERLINE-AS-AP POWER LINE DATACENTER,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+133159,MAMMOTHMEDIA-AS-AP Mammoth Media Pty Ltd,aggregate,1,1,1,Australia,VPN-Infrastructure-Atlas
+133210,ENTECHNOLOGIES-AS-AP EN Technologies Pte Ltd,aggregate,1,1,1,Singapore,VPN-Infrastructure-Atlas
+13335,CLOUDFLARENET,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+133398,TELE-AS Tele Asia Limited,aggregate,6,6,1,Hong Kong,VPN-Infrastructure-Atlas
+133480,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,aggregate,20,9,1,Australia,VPN-Infrastructure-Atlas
+133481,AIS-FIBRE-AS-AP AIS Fibre,aggregate,2,1,1,Thailand,VPN-Infrastructure-Atlas
+133752,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,aggregate,16,11,1,Hong Kong,VPN-Infrastructure-Atlas
+133800,IDNIC-BIZNETGIO-AS-ID PT Biznet Gio Nusantara,aggregate,4,2,1,Indonesia,VPN-Infrastructure-Atlas
+133950,HOOPLAHOSTING-AS-AP Hoopla Hosting Limited,aggregate,1,1,1,New Zealand,VPN-Infrastructure-Atlas
+134094,"SERVERFIELD-AS Serverfield Co., Ltd.",aggregate,3,3,2,Taiwan; Türkiye,VPN-Infrastructure-Atlas
+13445,WEBEX,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+134677,IDC-AS-AP Dromatics Systems Pte Ltd,aggregate,3,1,1,Singapore,VPN-Infrastructure-Atlas
+135450,IDNIC-BSTI-AS-ID PT Berkah Solusi Teknologi Informasi,aggregate,1,1,1,Indonesia,VPN-Infrastructure-Atlas
+135905,VNPT-AS-VN VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,aggregate,1,1,1,Vietnam,VPN-Infrastructure-Atlas
+136052,IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia,aggregate,1,1,1,Indonesia,VPN-Infrastructure-Atlas
+136258,"ONEPROVIDER-AS BrainStorm Network, Inc",aggregate,128,12,27,Australia; Bulgaria; Canada; Cyprus; Czechia; European Union; FL; France; Germany; India,VPN-Infrastructure-Atlas
+13649,ASN-FLEXENTIAL,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+136557,HOST-AS-AP Host Universal Pty Ltd,aggregate,50,14,2,Australia; New Zealand,VPN-Infrastructure-Atlas
+136787,PACKETHUBSA-AS-AP PacketHub S.A.,aggregate,99,1,1,Panama,VPN-Infrastructure-Atlas
+13737,AS-INCX,aggregate,10,7,1,United States,VPN-Infrastructure-Atlas
+137373,IDNIC-SUITEN-AS-ID PT. SUITEN INOVASI SUKSES,aggregate,2,2,1,Indonesia,VPN-Infrastructure-Atlas
+137409,GSLNETWORKS-AS-AP GSL Networks Pty LTD,aggregate,181,11,6,Australia; Netherlands; Oman; Philippines; Singapore; United States,VPN-Infrastructure-Atlas
+137552,TTSB-AS-AP Terabix,aggregate,1,1,1,Malaysia,VPN-Infrastructure-Atlas
+138199,TRANSATEL1-AS-AP Transatel,aggregate,1,1,1,Singapore,VPN-Infrastructure-Atlas
+138915,KAOPU-HK Kaopu Cloud HK Limited,aggregate,29,7,10,Antigua & Barbuda; Brazil; Hong Kong; Japan; Philippines; Saudi Arabia; South Korea; Thailand; United Kingdom; Vietnam,VPN-Infrastructure-Atlas
+139057,ELD-AS-AP Edgenext Legend Dynasty Pte. Ltd.,aggregate,2,1,1,Singapore,VPN-Infrastructure-Atlas
+13926,NETPROTECT-PHX,aggregate,3,3,1,United States,VPN-Infrastructure-Atlas
+139989,IDNIC-ATHAMEDIANET-AS-ID CV Atha Media Prima,aggregate,1,1,1,Indonesia,VPN-Infrastructure-Atlas
+140443,IDNIC-HERZA-AS-ID PT Herza Digital Indonesia,aggregate,1,1,1,Indonesia,VPN-Infrastructure-Atlas
+140599,COMFACCORPORATION-AS-AP COMFAC CORPORATION,aggregate,6,2,1,Philippines,VPN-Infrastructure-Atlas
+14061,DIGITALOCEAN-ASN,aggregate,170,17,3,India; Netherlands; United States,VPN-Infrastructure-Atlas
+140787,LAMA-AS-VN LAM A ARCHITECTURE CONSTRUCTION COMPANY LIMITED,aggregate,1,1,1,Vietnam,VPN-Infrastructure-Atlas
+140952,"STL-AS-AP Strong Technology, LLC",aggregate,31,3,1,United States,VPN-Infrastructure-Atlas
+141039,PACKETHUBSA-AS-AP PacketHub S.A.,aggregate,19,1,1,Panama,VPN-Infrastructure-Atlas
+141995,CAPL-AS-AP Contabo Asia Private Limited,aggregate,3,1,1,Singapore,VPN-Infrastructure-Atlas
+142002,SCLOUDPTELTD-AS Scloud Pte Ltd,aggregate,2,1,1,Singapore,VPN-Infrastructure-Atlas
+142036,HOSTEONS-AS-AP Hosteons Pte. Ltd.,aggregate,4,1,1,Singapore,VPN-Infrastructure-Atlas
+142064,VERGETEL1-AS-AP VERGETEL,aggregate,1,1,1,Australia,VPN-Infrastructure-Atlas
+14315,1GSERVERS,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+14544,RETEK,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+14586,NUCLEARFALLOUT-CHI,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+14618,AMAZON-AES,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+146943,TIER4CLOU-AS Tier 4 Cloud Services,aggregate,3,2,1,India,VPN-Infrastructure-Atlas
+147049,PACKETHUBSA-AS-AP PacketHub S.A.,aggregate,30,1,1,Australia,VPN-Infrastructure-Atlas
+147176,"NNECL-AS-AP NZ Network Enterprise Co., Ltd.",aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+149020,WEBHORIZON-AS-AP WebHorizon Internet Services,aggregate,6,2,1,Singapore,VPN-Infrastructure-Atlas
+149042,SITCL-AS-AP Silicon Cloud Global US,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+149440,EVOXTENTERPRISE-AS-AP Evoxt Enterprise,aggregate,2,2,1,Malaysia,VPN-Infrastructure-Atlas
+14956,ROUTERHOSTING,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+150249,IDNIC-ATHARVA-AS-ID PT Atharva Telematika Persada,aggregate,3,1,1,Indonesia,VPN-Infrastructure-Atlas
+150315,VCL-AS-AP Virtury Cloud Private Limited,aggregate,1,1,1,Pakistan,VPN-Infrastructure-Atlas
+150423,SERVER-AS-AP Server Galactic Private Limited,aggregate,2,1,1,Singapore,VPN-Infrastructure-Atlas
+150623,HOSTPAT-AS-IN HOSTDZIRE WEB SERVICES PRIVATE LIMITED,aggregate,2,1,1,India,VPN-Infrastructure-Atlas
+15083,INFOLINK-MIA-,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+151407,HNSL-AS-AP Hytron Network Services Limited,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+151858,INTERDIGI-VN INTERDIGI JOINT STOCK COMPANY,aggregate,1,1,1,Vietnam,VPN-Infrastructure-Atlas
+152565,JOYSVC-AS-IN JOY SERVICES,aggregate,1,1,1,India,VPN-Infrastructure-Atlas
+153003,LACHANSO-VN Digital Shield Technology Company Limited,aggregate,1,1,1,Vietnam,VPN-Infrastructure-Atlas
+153393,RACKVOLT-AS-AP RACKVOLT CLOUD SOLUTIONS PRIVATE LIMITED,aggregate,2,1,1,India,VPN-Infrastructure-Atlas
+154047,IT2-AS-AP IT Nut Hosting,aggregate,1,1,1,Bangladesh,VPN-Infrastructure-Atlas
+154177,LIGHT4-AS-AP LIGHT NODE LIMITED,aggregate,2,2,1,Hong Kong,VPN-Infrastructure-Atlas
+154376,CLOUDVALLEY-AS-AP Cloudvalley Sdn. Bhd.,aggregate,1,1,1,Malaysia,VPN-Infrastructure-Atlas
+15440,BALTNETA Customers AS,aggregate,2,2,1,Lithuania,VPN-Infrastructure-Atlas
+15547,NETPLUS,aggregate,1,1,1,Switzerland,VPN-Infrastructure-Atlas
+15626,GF-UA,aggregate,6,3,2,Ukraine; United States,VPN-Infrastructure-Atlas
+15805,SKYNET-CY-AS,aggregate,2,1,1,Cyprus,VPN-Infrastructure-Atlas
+16010,MAGTICOMAS Magticom,aggregate,1,1,1,Georgia,VPN-Infrastructure-Atlas
+16125,CHERRYSERVERS1-AS,aggregate,3,2,1,Lithuania,VPN-Infrastructure-Atlas
+16247,"M247-UK M247 UK Ltd, trading as M247",aggregate,4,3,1,United Kingdom,VPN-Infrastructure-Atlas
+16276,OVH,aggregate,155,27,5,Australia; Canada; France; Poland; Singapore,VPN-Infrastructure-Atlas
+16302,SUOMICOMMUNICATIONS,aggregate,1,1,1,Finland,VPN-Infrastructure-Atlas
+16509,AMAZON-02,aggregate,8,2,1,United States,VPN-Infrastructure-Atlas
+16652,RISEUP,aggregate,3,1,1,United States,VPN-Infrastructure-Atlas
+1680,NV-ASN CELLCOM ltd.,aggregate,1,1,1,Israel,VPN-Infrastructure-Atlas
+17243,BYTENODE-AS,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+17356,VERMONT-TELE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+174,COGENT-174,aggregate,67,9,4,Canada; Czechia; Germany; United States,VPN-Infrastructure-Atlas
+17497,LGHL-AS-AP Liasail Global Hongkong Limited,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+17506,UCOM ARTERIA Networks Corporation,aggregate,1,1,1,Japan,VPN-Infrastructure-Atlas
+17511,OPTAGE OPTAGE Inc.,aggregate,1,1,1,Japan,VPN-Infrastructure-Atlas
+17583,KCNNET-AS-KR Keumgang Cable Network,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+17676,GIGAINFRA SoftBank Corp.,aggregate,7,1,1,Japan,VPN-Infrastructure-Atlas
+17858,POWERVIS-AS-KR LG POWERCOMM,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+17864,SKB-TBROAD_HANVIT-AS-KR SK Broadband Co Ltd,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+18126,"CTCX Chubu Telecommunications Company, Inc.",aggregate,3,1,1,Japan,VPN-Infrastructure-Atlas
+18229,CTRLS-AS-IN CtrlS,aggregate,1,1,1,India,VPN-Infrastructure-Atlas
+18345,SERVERS-AUS-CUST Servers Australia Customers,aggregate,1,1,1,Australia,VPN-Infrastructure-Atlas
+18403,FPT-AS-AP FPT Telecom Company,aggregate,1,1,1,Vietnam,VPN-Infrastructure-Atlas
+18747,IFX18747,aggregate,6,2,5,Argentina; Chile; Mexico; Panama; United States,VPN-Infrastructure-Atlas
+18779,EGIHOSTING,aggregate,5,2,1,United States,VPN-Infrastructure-Atlas
+18978,ENZUINC-,aggregate,5,4,1,United States,VPN-Infrastructure-Atlas
+19148,LEASEWEB-USA-PHX,aggregate,4,3,1,United States,VPN-Infrastructure-Atlas
+19318,IS-AS-1,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+197071,ACTIVE-SERVERS active-servers.com,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+197075,ACTIVENETWORK-AS Active Network S.p.A.,aggregate,2,2,1,Italy,VPN-Infrastructure-Atlas
+197155,ARTNET,aggregate,12,7,1,Poland,VPN-Infrastructure-Atlas
+197450,SUNUCUN,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+197537,WISDOM-CLOUD,aggregate,1,1,1,Singapore,VPN-Infrastructure-Atlas
+197540,NETCUP-AS netcup GmbH,aggregate,2,2,1,Germany,VPN-Infrastructure-Atlas
+197648,CL8ASN1,aggregate,3,3,1,Cyprus,VPN-Infrastructure-Atlas
+197706,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",aggregate,16,11,1,Albania,VPN-Infrastructure-Atlas
+198203,ASN-ROUTELABEL,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+198588,TUNGSTEN,aggregate,1,1,1,China,VPN-Infrastructure-Atlas
+198610,BEGET-AS,aggregate,3,1,1,Russia,VPN-Infrastructure-Atlas
+198890,MADCOM-ASN,aggregate,3,3,1,Albania,VPN-Infrastructure-Atlas
+199081,LANCOM Athens - Greece,aggregate,1,1,1,Greece,VPN-Infrastructure-Atlas
+199218,PROTONVPN-2,aggregate,5,1,1,Switzerland,VPN-Infrastructure-Atlas
+199319,VOICE-NET-AS,aggregate,1,1,1,Poland,VPN-Infrastructure-Atlas
+199404,WHG-IN,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+199524,GCORE,aggregate,13,7,3,Israel; Luxembourg; South Korea,VPN-Infrastructure-Atlas
+199653,ARUBAFR-AS,aggregate,1,1,1,Italy,VPN-Infrastructure-Atlas
+19970,CARRIERDOMAIN-NYC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+199959,CROWNCLOUD,aggregate,2,1,1,Australia,VPN-Infrastructure-Atlas
+200000,UKRAINE-AS,aggregate,2,1,1,Ukraine,VPN-Infrastructure-Atlas
+200019,ALEXHOST,aggregate,4,2,2,Moldova; Switzerland,VPN-Infrastructure-Atlas
+200185,XANDMAIL-ASN,aggregate,2,1,1,Italy,VPN-Infrastructure-Atlas
+200350,YANDEXCLOUD,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+200651,FLOKINET,aggregate,4,3,1,Iceland,VPN-Infrastructure-Atlas
+200698,GLOBALHOST-BOSNIA-AS,aggregate,6,3,1,Bosnia and Herzegovina,VPN-Infrastructure-Atlas
+200736,INALAN,aggregate,1,1,1,Greece,VPN-Infrastructure-Atlas
+200740,FIRST-SERVER-EU-AS FIRST-SERVER-US,aggregate,3,2,1,United Kingdom,VPN-Infrastructure-Atlas
+200805,MELITACABLE,aggregate,1,1,1,Malta,VPN-Infrastructure-Atlas
+200899,INTERSPACE-EUROPE,aggregate,1,1,1,North Macedonia,VPN-Infrastructure-Atlas
+201011,CORE-BACKBONE CORE-BACKBONE GMBH GLOBAL NETWORK,aggregate,2,2,1,Germany,VPN-Infrastructure-Atlas
+201201,DATALOGISTICS,aggregate,2,1,1,Lithuania,VPN-Infrastructure-Atlas
+201323,HOST-MEDIA-LTD,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+201575,WORLDBUS,aggregate,1,1,1,Georgia,VPN-Infrastructure-Atlas
+201814,MEVSPACE,aggregate,2,1,1,Poland,VPN-Infrastructure-Atlas
+201924,LERTAS-AS,aggregate,2,2,1,Slovakia,VPN-Infrastructure-Atlas
+202015,HZ-US-AS,aggregate,2,1,1,Bulgaria,VPN-Infrastructure-Atlas
+202053,UPCLOUD,aggregate,1,1,1,Finland,VPN-Infrastructure-Atlas
+20207,Gigared S.A.,aggregate,1,1,1,Argentina,VPN-Infrastructure-Atlas
+202401,WEBHOSTING24-AS Webhosting24 GmbH,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+202422,GHOST,aggregate,12,7,2,Luxembourg; Türkiye,VPN-Infrastructure-Atlas
+202425,INT-NETWORK,aggregate,4,2,1,Seychelles,VPN-Infrastructure-Atlas
+202448,MVPS www.mvps.net,aggregate,3,1,1,Cyprus,VPN-Infrastructure-Atlas
+202759,FAIRYHOSTING,aggregate,6,5,1,Estonia,VPN-Infrastructure-Atlas
+20278,NEXEON,aggregate,21,4,1,United States,VPN-Infrastructure-Atlas
+203003,MAGNA-CAPAX,aggregate,1,1,1,Finland,VPN-Infrastructure-Atlas
+203020,HOSTROYALE,aggregate,58,13,11,Brazil; Cyprus; Estonia; France; India; Luxembourg; Malta; Portugal; Spain; United Kingdom,VPN-Infrastructure-Atlas
+203090,COOPNORGE,aggregate,3,1,1,United Kingdom,VPN-Infrastructure-Atlas
+203156,RELAYIFY-LLC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+203210,SZYBKINET,aggregate,1,1,1,Poland,VPN-Infrastructure-Atlas
+203363,KUROIT Kuroit Limited,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+203380,DAINTERNATIONALGROUP,aggregate,1,1,1,Bulgaria,VPN-Infrastructure-Atlas
+203576,INTERNETBILISIM,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+203647,WORLDBUS,aggregate,1,1,1,Georgia,VPN-Infrastructure-Atlas
+203758,AARONSMITH-AS,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+204044,ONLYSERVERS Dedicated Server Hosting Provider,aggregate,3,3,1,United Kingdom,VPN-Infrastructure-Atlas
+204094,I4W,aggregate,2,2,1,Portugal,VPN-Infrastructure-Atlas
+204302,AUTO1-RIPE,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+20454,SSASN2,aggregate,5,3,1,United States,VPN-Infrastructure-Atlas
+20473,AS-VULTR,aggregate,125,15,1,United States,VPN-Infrastructure-Atlas
+204957,GREENFLOID-AS,aggregate,14,3,2,Poland; United States,VPN-Infrastructure-Atlas
+205016,HERNLABS,aggregate,3,1,1,Sweden,VPN-Infrastructure-Atlas
+205053,AWEB-ASN,aggregate,1,1,1,Greece,VPN-Infrastructure-Atlas
+205090,FIRST-SERVER-EUROPE,aggregate,3,2,1,United Kingdom,VPN-Infrastructure-Atlas
+205119,TELEKS-,aggregate,5,4,1,North Macedonia,VPN-Infrastructure-Atlas
+205467,BASEIP-LAX,aggregate,6,1,1,Netherlands,VPN-Infrastructure-Atlas
+205544,LEASEWEB-UK-LON-11,aggregate,2,2,1,United Kingdom,VPN-Infrastructure-Atlas
+205676,DCE,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+205983,INDE-PTE-EU,aggregate,1,1,1,Singapore,VPN-Infrastructure-Atlas
+206075,HOLLANDER-JACOBSEN,aggregate,2,1,1,Germany,VPN-Infrastructure-Atlas
+206092,SECFIREWALLAS,aggregate,32,2,2,Cyprus; Italy,VPN-Infrastructure-Atlas
+206264,AMARUTU-TECHNOLOGY,aggregate,6,3,2,Hong Kong; Seychelles,VPN-Infrastructure-Atlas
+206446,CLOUDLEASE,aggregate,2,2,1,Israel,VPN-Infrastructure-Atlas
+206804,ESTNOC-GLOBAL,aggregate,38,11,1,Estonia,VPN-Infrastructure-Atlas
+206991,IXIR,aggregate,3,3,1,Türkiye,VPN-Infrastructure-Atlas
+207083,HOSTSLIM-GLOBAL-NETWORK,aggregate,2,2,1,Estonia,VPN-Infrastructure-Atlas
+207108,AHCLOUD,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+207134,PHOENIXNAP-SRB,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+207137,PACKETHUBSA,aggregate,22,1,1,Panama,VPN-Infrastructure-Atlas
+207459,AS-TEKNOSOS-INT,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+207569,I-SERVERS-NORTH-EU to AS51765 announce AS207569,aggregate,2,2,1,United Kingdom,VPN-Infrastructure-Atlas
+207590,LOCLIXIT-AS,aggregate,1,1,1,Italy,VPN-Infrastructure-Atlas
+207713,GIR-AS,aggregate,3,2,1,Russia,VPN-Infrastructure-Atlas
+207821,INTERNETBOLAGET-DE,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+207957,SERVHOST-AS,aggregate,2,1,1,United Kingdom,VPN-Infrastructure-Atlas
+207990,HR-CUSTOMER,aggregate,7,5,3,India; Slovenia; United States,VPN-Infrastructure-Atlas
+207992,FEELB,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+208172,PV-HOSTED,aggregate,2,1,1,Switzerland,VPN-Infrastructure-Atlas
+208208,CYBERSE Cyberse GmbH & Co. KG,aggregate,2,2,1,Germany,VPN-Infrastructure-Atlas
+208226,OUIHEBERG,aggregate,5,2,1,France,VPN-Infrastructure-Atlas
+208483,WERIDATA-LLC,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+20860,IOMART-AS,aggregate,37,13,1,United Kingdom,VPN-Infrastructure-Atlas
+20910,BALTKOM-AS,aggregate,1,1,1,Latvia,VPN-Infrastructure-Atlas
+209103,PROTONVPN,aggregate,4,1,1,Switzerland,VPN-Infrastructure-Atlas
+209243,QUICKHOSTUK,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+209378,INIOS-AS,aggregate,2,2,1,Finland,VPN-Infrastructure-Atlas
+209604,TWO-E-TELEKOM,aggregate,3,1,1,Türkiye,VPN-Infrastructure-Atlas
+209630,KREDIT-AS,aggregate,1,1,1,Ukraine,VPN-Infrastructure-Atlas
+209641,I-SERVERS-EAST,aggregate,9,1,1,United Kingdom,VPN-Infrastructure-Atlas
+209847,THE,aggregate,77,8,13,Belgium; Brazil; Chile; Greece; Iceland; Ireland; Liechtenstein; Luxembourg; Malaysia; Netherlands,VPN-Infrastructure-Atlas
+209854,CYBERZONEHUB,aggregate,65,1,58,Albania; Algeria; Andorra; Argentina; Armenia; Australia; Azerbaijan; Bahamas; Bangladesh; Belize,VPN-Infrastructure-Atlas
+209874,TECHTIDE,aggregate,1,1,1,Portugal,VPN-Infrastructure-Atlas
+210329,CLOUDWEBMANAGE-UK-1,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+210429,HIZAKURA-,aggregate,2,2,1,Netherlands,VPN-Infrastructure-Atlas
+210538,KEYUBU,aggregate,3,1,1,Türkiye,VPN-Infrastructure-Atlas
+210634,YESONGIT,aggregate,1,1,1,China,VPN-Infrastructure-Atlas
+210644,AEZA-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+21069,ASN-METANET Routingpeering issues: noc@metanet.ch,aggregate,3,1,1,Switzerland,VPN-Infrastructure-Atlas
+210756,EDGECENTERLLC,aggregate,2,1,1,Russia,VPN-Infrastructure-Atlas
+210772,NEWPUSH,aggregate,4,2,1,Hungary,VPN-Infrastructure-Atlas
+21100,ITLDC-EU,aggregate,3,2,2,Netherlands; United States,VPN-Infrastructure-Atlas
+211154,MFBANKA-AS,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+211273,-Reserved AS-,aggregate,1,1,1,United Arab Emirates,VPN-Infrastructure-Atlas
+21130,IOMART-IE,aggregate,8,6,1,United Kingdom,VPN-Infrastructure-Atlas
+211462,GHT-NET,aggregate,2,1,1,Romania,VPN-Infrastructure-Atlas
+211507,"LAIN we love lain, cats and the world wide web",aggregate,4,1,1,Germany,VPN-Infrastructure-Atlas
+211552,CIVO-UK,aggregate,2,1,1,United Kingdom,VPN-Infrastructure-Atlas
+211971,GOODHOSTKZ Goodhost.KZ - Hosting provider of Kazakhstan. Dedicated and VDSVPS hosting,aggregate,1,1,1,Kazakhstan,VPN-Infrastructure-Atlas
+212027,PEBBLEHOST,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+212238,CDNEXT,aggregate,808,21,36,Australia; Austria; Bulgaria; Canada; Chile; Colombia; Croatia; Denmark; France; Germany,VPN-Infrastructure-Atlas
+212271,C1V Internet Service Provider in Italy,aggregate,1,1,1,Italy,VPN-Infrastructure-Atlas
+212336,BYTEVIRTLLC,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+212477,ROYALE-AS,aggregate,4,2,1,Netherlands,VPN-Infrastructure-Atlas
+212531,INTERNETO-VIZIJA,aggregate,2,2,1,Lithuania,VPN-Infrastructure-Atlas
+213035,AS-SERVERION Serverion B.V.,aggregate,3,2,1,Netherlands,VPN-Infrastructure-Atlas
+213167,CHOCIZ-AS,aggregate,1,1,1,India,VPN-Infrastructure-Atlas
+213169,AS-CATIXS-AKA,aggregate,4,1,1,United Kingdom,VPN-Infrastructure-Atlas
+213438,COLOCATEL-INC Colocatel Network - High Bandwidth Dedicated Servers,aggregate,1,1,1,Seychelles,VPN-Infrastructure-Atlas
+213495,SERVITRO-LTD,aggregate,2,1,1,United Kingdom,VPN-Infrastructure-Atlas
+213520,SENKO-AS Senko Digital Ltd,aggregate,2,1,1,Georgia,VPN-Infrastructure-Atlas
+213535,YOTTASRC,aggregate,2,1,1,Saudi Arabia,VPN-Infrastructure-Atlas
+213737,DEXDC,aggregate,2,1,1,United Kingdom,VPN-Infrastructure-Atlas
+213790,LIMITEDNETWORK-AS,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+213791,XENIAHOSTING,aggregate,1,1,1,Italy,VPN-Infrastructure-Atlas
+213887,WAICORE-LTD WAICORE LTD,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+213900,RS,aggregate,1,1,1,Albania,VPN-Infrastructure-Atlas
+213929,AS213929CH AS213929.ch,aggregate,2,1,1,Switzerland,VPN-Infrastructure-Atlas
+21409,IKOULA,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+214226,WEBENLET-AS,aggregate,1,1,1,Hungary,VPN-Infrastructure-Atlas
+214279,DASABO,aggregate,4,1,1,Estonia,VPN-Infrastructure-Atlas
+214481,WCZAPKOWICZ-AS as214481as-wczapkowicz Chunkserve Backbone Transit,aggregate,4,1,1,Poland,VPN-Infrastructure-Atlas
+214483,FIBERPOWER-AS,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+214505,NUCLEARFALLOUT-FRA,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+214639,ITM NORD AS,aggregate,2,1,1,Norway,VPN-Infrastructure-Atlas
+214640,HOSTUP HOSTUP,aggregate,2,2,1,Sweden,VPN-Infrastructure-Atlas
+214668,AXUSHOST,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+214677,DELUXHOST,aggregate,13,2,2,Italy; Netherlands,VPN-Infrastructure-Atlas
+21472,SERVERHOUSE,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+214789,NOVA-CLOUD-,aggregate,1,1,1,Kazakhstan,VPN-Infrastructure-Atlas
+214790,BRAINOZA,aggregate,1,1,1,Estonia,VPN-Infrastructure-Atlas
+214970,STREADER,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+215052,DINSERVGRO-NET,aggregate,1,1,1,Denmark,VPN-Infrastructure-Atlas
+215089,FASTPANDA,aggregate,2,2,1,United Kingdom,VPN-Infrastructure-Atlas
+215155,HALIL-OMER-TEKIN,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+215224,NOVOSERVE-CUSTOMERS-AS NovoServe Customers ASN,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+215362,PROMO-PLUS,aggregate,2,1,1,Romania,VPN-Infrastructure-Atlas
+215467,SKHRON Skhron OU: skhron.eu,aggregate,2,1,1,Estonia,VPN-Infrastructure-Atlas
+215540,GCS-AS,aggregate,21,3,1,United Kingdom,VPN-Infrastructure-Atlas
+215567,NETVAY,aggregate,3,1,1,Türkiye,VPN-Infrastructure-Atlas
+215607,DF-TRANSIT,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+215730,H2NEXUS-AS,aggregate,5,3,1,United Kingdom,VPN-Infrastructure-Atlas
+21581,M5HOSTING,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+215859,HETZNER-CLOUD4-AS,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+215960,HEARTBEAT-IT,aggregate,3,2,1,Germany,VPN-Infrastructure-Atlas
+216071,VDSINA,aggregate,3,1,1,United Arab Emirates,VPN-Infrastructure-Atlas
+216246,RU-AEZA-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+216280,Banka Kombetare Tregtare Sh.A.,aggregate,1,1,1,Albania,VPN-Infrastructure-Atlas
+216300,ABKHAZMEDIA-AS,aggregate,3,1,1,Georgia,VPN-Infrastructure-Atlas
+216329,CENTAURUS_AGENA3000,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+216382,LAYER,aggregate,1,1,1,United Arab Emirates,VPN-Infrastructure-Atlas
+216416,EVOLUS-IX,aggregate,2,1,1,Austria,VPN-Infrastructure-Atlas
+216475,NKTELECOM,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+21743,ANL-36,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+21859,ZEN-ECN,aggregate,61,11,4,Indonesia; Malaysia; Philippines; United States,VPN-Infrastructure-Atlas
+22363,PHMGMT-AS1,aggregate,108,2,1,United States,VPN-Infrastructure-Atlas
+22411,GTD PERU S.A,aggregate,1,1,1,Peru,VPN-Infrastructure-Atlas
+22439,PERFECT-INTERNATIONAL,aggregate,4,2,1,United States,VPN-Infrastructure-Atlas
+22612,NAMECHEAP-NET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+22781,STRTEC,aggregate,79,3,1,United States,VPN-Infrastructure-Atlas
+23352,SERVERCENTRAL,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+23470,RELIABLESITE,aggregate,15,5,1,United States,VPN-Infrastructure-Atlas
+23578,SKB-NAMDONGNET-AS-KR SK Broadband Co Ltd,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+23679,NUSANET-AS-ID PT. Media Antar Nusa,aggregate,3,2,1,Indonesia,VPN-Infrastructure-Atlas
+23778,"CANET IMIZU CABLE NETWORK CO.,LTD.",aggregate,1,1,1,Japan,VPN-Infrastructure-Atlas
+23884,PROENNET-AS Proen Corp Public Company Limited.,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+23959,OWL-AS-AP Owl Limited,aggregate,2,2,1,Vanuatu,VPN-Infrastructure-Atlas
+23969,TOT-NET TOT Public Company Limited,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+24085,QTSC-AS-VN Quang Trung Software City Development Company,aggregate,1,1,1,Vietnam,VPN-Infrastructure-Atlas
+24679,SSERV-AS,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+24768,ALMOUROLTEC,aggregate,6,6,1,Portugal,VPN-Infrastructure-Atlas
+24806,"INTERNET-CZ Ktis 2, 384 03 Ktis",aggregate,1,1,1,Czechia,VPN-Infrastructure-Atlas
+24851,UK-NETCETERA Netcetera Autonomous System Peers,aggregate,1,1,1,Isle of Man,VPN-Infrastructure-Atlas
+24863,LINKdotNET-AS,aggregate,2,1,1,Egypt,VPN-Infrastructure-Atlas
+24875,NOVOSERVE-AS,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+24940,HETZNER-AS,aggregate,67,6,2,Finland; Germany,VPN-Infrastructure-Atlas
+24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,aggregate,32,9,1,Germany,VPN-Infrastructure-Atlas
+2497,IIJ Internet Initiative Japan Inc.,aggregate,1,1,1,Japan,VPN-Infrastructure-Atlas
+24971,MASTER-AS Czech Republic  www.master.cz,aggregate,2,2,1,Czechia,VPN-Infrastructure-Atlas
+2516,KDDI KDDI CORPORATION,aggregate,10,1,1,Japan,VPN-Infrastructure-Atlas
+2518,BIGLOBE BIGLOBE Inc.,aggregate,2,1,1,Japan,VPN-Infrastructure-Atlas
+2519,VECTANT ARTERIA Networks Corporation,aggregate,4,2,1,Japan,VPN-Infrastructure-Atlas
+25198,ZETSERVERS ZetServers.com - Unmetered Cloud and Dedicated Servers Provider,aggregate,2,1,1,Romania,VPN-Infrastructure-Atlas
+2527,SO-NET Sony Network Communications Inc.,aggregate,4,1,1,Japan,VPN-Infrastructure-Atlas
+25369,BANDWIDTH-AS,aggregate,64,10,4,France; Netherlands; Switzerland; United Kingdom,VPN-Infrastructure-Atlas
+25467,AKTON-AS Akton Autonomous System,aggregate,3,2,1,Slovenia,VPN-Infrastructure-Atlas
+25693,VIRMACH,aggregate,3,1,1,United States,VPN-Infrastructure-Atlas
+25737,JONE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+25780,HUGESERVER-NETWORKS,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+26042,FIBERSTATE,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+262287,Latitude.sh LTDA,aggregate,24,12,1,Brazil,VPN-Infrastructure-Atlas
+26286,MYSTICDEVIO,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+263812,SONDATECH S.A.S.,aggregate,7,1,1,Argentina,VPN-Infrastructure-Atlas
+26383,ASNET,aggregate,9,4,3,Finland; Romania; United States,VPN-Infrastructure-Atlas
+26388,FIBERFI,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+267507,SRX TECNOLOGIA DA INFORMACAO LTDA,aggregate,2,1,1,Brazil,VPN-Infrastructure-Atlas
+26832,RICAWEBSERVICES,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+268581,QNAX LTDA,aggregate,4,4,1,Brazil,VPN-Infrastructure-Atlas
+270013,J AND J SPA INFOFRACTAL,aggregate,1,1,1,Chile,VPN-Infrastructure-Atlas
+272073,SILKGLOBAL DOMINICANA SRL,aggregate,1,1,1,Dominican Republic,VPN-Infrastructure-Atlas
+27257,WEBAIR-INTERNET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+27284,FOURPLEX-ASN,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+27323,SERVERSTADIUM,aggregate,3,3,1,United States,VPN-Infrastructure-Atlas
+27411,LEASEWEB-USA-CHI,aggregate,9,2,1,United States,VPN-Infrastructure-Atlas
+27823,Dattatec.com,aggregate,5,2,1,Argentina,VPN-Infrastructure-Atlas
+27879,Informatica y Telecomunicaciones S.A.,aggregate,1,1,1,Argentina,VPN-Infrastructure-Atlas
+28099,iHosting Servicios Internet Ltda.,aggregate,1,1,1,Chile,VPN-Infrastructure-Atlas
+28423,Truxgo S. de R.L de C.V,aggregate,1,1,1,Mexico,VPN-Infrastructure-Atlas
+2856,BT-UK-AS BTnet UK Regional network,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+2864,ALJASKA-AS,aggregate,1,1,1,Ukraine,VPN-Infrastructure-Atlas
+28753,LEASEWEB-DE-FRA-10,aggregate,8,4,1,Germany,VPN-Infrastructure-Atlas
+29049,DELTA-TELECOM-AS International Communication Operator,aggregate,1,1,1,Azerbaijan,VPN-Infrastructure-Atlas
+29066,VELIANET-AS velia.net Internetdienste GmbH,aggregate,21,5,1,Germany,VPN-Infrastructure-Atlas
+29182,RU-JSCIOT,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+29222,INFOMANIAK-AS,aggregate,1,1,1,Switzerland,VPN-Infrastructure-Atlas
+29302,HSI-EUROPE,aggregate,4,3,2,United Kingdom; United States,VPN-Infrastructure-Atlas
+29447,TIF-AS Iliad Italia S.p.A,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+29485,AMIS,aggregate,1,1,1,Croatia,VPN-Infrastructure-Atlas
+29550,SIMPLYTRANSIT,aggregate,3,1,1,United Kingdom,VPN-Infrastructure-Atlas
+29691,NINE,aggregate,5,5,1,Switzerland,VPN-Infrastructure-Atlas
+29802,HVC-AS,aggregate,5,4,1,United States,VPN-Infrastructure-Atlas
+29838,AMC,aggregate,4,1,1,United States,VPN-Infrastructure-Atlas
+29889,FSNET-1,aggregate,18,5,1,United States,VPN-Infrastructure-Atlas
+29951,SYPTEC-NOC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+30058,FDCSERVERS,aggregate,28,6,2,Netherlands; United States,VPN-Infrastructure-Atlas
+30083,AS-30083-US-VELIA-NET,aggregate,5,3,1,Germany,VPN-Infrastructure-Atlas
+30475,WEHOSTWEBSITES-COM,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+30633,LEASEWEB-USA-WDC,aggregate,4,4,1,United States,VPN-Infrastructure-Atlas
+30671,DATABRIDGE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+30722,VODAFONE-IT-ASN,aggregate,1,1,1,Italy,VPN-Infrastructure-Atlas
+30736,ASERGO-AS,aggregate,6,4,1,Denmark,VPN-Infrastructure-Atlas
+30860,YURTEH-AS,aggregate,3,3,1,Ukraine,VPN-Infrastructure-Atlas
+30900,WEBWORLD-AS ta Web World Ireland,aggregate,3,3,2,European Union; Ireland,VPN-Infrastructure-Atlas
+31034,ARUBA-ASN,aggregate,8,4,1,Italy,VPN-Infrastructure-Atlas
+31103,KEYWEB-AS,aggregate,2,1,1,Germany,VPN-Infrastructure-Atlas
+31122,DIGIWEB-AS,aggregate,1,1,1,Ireland,VPN-Infrastructure-Atlas
+3132,Red Cientifica Peruana,aggregate,2,1,1,Peru,VPN-Infrastructure-Atlas
+3170,VELOXSERV,aggregate,6,4,1,United Kingdom,VPN-Infrastructure-Atlas
+31708,"COREIX-UK-AS London, Great Britain",aggregate,4,1,1,United Kingdom,VPN-Infrastructure-Atlas
+31863,DACEN-2,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+31898,ORACLE-BMC-31898,aggregate,8,2,1,United States,VPN-Infrastructure-Atlas
+32097,WII,aggregate,7,4,1,United States,VPN-Infrastructure-Atlas
+3214,XTOM xTom GmbH,aggregate,4,2,1,Germany,VPN-Infrastructure-Atlas
+3215,France Telecom - Orange,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+3216,SOVAM-AS,aggregate,2,2,1,Russia,VPN-Infrastructure-Atlas
+32181,ASN-GIGENET,aggregate,7,3,1,United States,VPN-Infrastructure-Atlas
+3223,VOXILITY,aggregate,16,6,1,United Kingdom,VPN-Infrastructure-Atlas
+3236,SERVER server.ua,aggregate,5,5,1,Ukraine,VPN-Infrastructure-Atlas
+32374,NUCLEARFALLOUT-LAX,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+32489,AMANAHA-NEW,aggregate,30,15,1,Canada,VPN-Infrastructure-Atlas
+3257,GTT-BACKBONE GTT,aggregate,9,4,2,Canada; United States,VPN-Infrastructure-Atlas
+3258,XTOM-JAPAN xTom Japan Corporation,aggregate,4,3,1,Japan,VPN-Infrastructure-Atlas
+32613,IWEB-AS,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+32751,NUCLEARFALLOUT-SEA,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+3281,SIA_2CLOUD,aggregate,1,1,1,Latvia,VPN-Infrastructure-Atlas
+328364,Host-Africa-AS,aggregate,2,2,1,South Africa,VPN-Infrastructure-Atlas
+328915,MANN-IT-AS,aggregate,1,1,1,South Africa,VPN-Infrastructure-Atlas
+329184,Host-Africa-AS2,aggregate,2,2,1,South Africa,VPN-Infrastructure-Atlas
+329268,SS7-AS,aggregate,1,1,1,Tunisia,VPN-Infrastructure-Atlas
+33083,AXCELX-NET,aggregate,7,4,1,United States,VPN-Infrastructure-Atlas
+33185,HIVE-DATA-CENTER,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+33387,NOCIX,aggregate,11,8,1,United States,VPN-Infrastructure-Atlas
+33576,DIG001,aggregate,1,1,1,Jamaica,VPN-Infrastructure-Atlas
+33915,TNF-AS,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+3399,OBE-NET,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+34081,SERVER24-AS INCUBATEC GmbH - Srl,aggregate,4,4,1,Italy,VPN-Infrastructure-Atlas
+34224,NETERRA-AS,aggregate,1,1,1,Bulgaria,VPN-Infrastructure-Atlas
+34305,BASEIP,aggregate,4,1,1,Netherlands,VPN-Infrastructure-Atlas
+34343,BIP-AS BIP Backbone ASN,aggregate,12,1,1,Netherlands,VPN-Infrastructure-Atlas
+34533,ESAMARA-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+3462,HINET Data Communication Business Group,aggregate,21,4,1,Taiwan,VPN-Infrastructure-Atlas
+34689,HOSTEROID,aggregate,3,1,1,Romania,VPN-Infrastructure-Atlas
+34927,IFOG-GMBH,aggregate,2,1,1,Switzerland,VPN-Infrastructure-Atlas
+34971,PDDA-AS,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+34989,SERVETHEWORLD-AS,aggregate,9,6,1,Norway,VPN-Infrastructure-Atlas
+35432,CABLENET-AS,aggregate,1,1,1,Cyprus,VPN-Infrastructure-Atlas
+35592,COOLHOUSING-AS Vinohradska 190,aggregate,1,1,1,Czechia,VPN-Infrastructure-Atlas
+35661,VIRTUASYS-EU Lift weight. Push bytes. Never drop. Repeat.,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+35758,HQSERV_NETWORKS,aggregate,11,8,1,Israel,VPN-Infrastructure-Atlas
+35908,VPLSNET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+36007,KAMATERA,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+36114,VERSAWEB-ASN,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+36351,SOFTLAYER,aggregate,13,2,1,United States,VPN-Infrastructure-Atlas
+36352,AS-COLOCROSSING,aggregate,245,16,1,United States,VPN-Infrastructure-Atlas
+36530,FUTURE-LAIN,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+36599,SOFTETHER-AMERICA,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+36666,GTCOMM,aggregate,14,9,1,Canada,VPN-Infrastructure-Atlas
+37153,xneelo,aggregate,11,8,1,South Africa,VPN-Infrastructure-Atlas
+37518,FIBERGRID,aggregate,1,1,1,Seychelles,VPN-Infrastructure-Atlas
+37611,AFRIHOST-SP,aggregate,4,1,1,South Africa,VPN-Infrastructure-Atlas
+37684,ANGANI-AS,aggregate,1,1,1,Kenya,VPN-Infrastructure-Atlas
+3786,LGDACOM LG DACOM Corporation,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+3790,RADIOGRAFICA COSTARRICENSE,aggregate,2,2,1,Costa Rica,VPN-Infrastructure-Atlas
+37963,"ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.",aggregate,1,1,1,China,VPN-Infrastructure-Atlas
+38001,NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd,aggregate,1,1,1,Singapore,VPN-Infrastructure-Atlas
+3842,RAMNODE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+38623,VIETTELCAMBODIA-AS-AP ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,aggregate,1,1,1,Cambodia,VPN-Infrastructure-Atlas
+38673,KCTVNET-AS-KR Korea Cable TV Kwangju Broadcasting,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+38680,CMBHK-AS-KR CMB,aggregate,1,1,1,South Korea,VPN-Infrastructure-Atlas
+39020,COMVIVE-AS Seville - Spain,aggregate,5,5,1,Spain,VPN-Infrastructure-Atlas
+39287,ABSTRACT,aggregate,16,1,1,Romania,VPN-Infrastructure-Atlas
+39326,HSO-GROUP,aggregate,2,2,1,United Kingdom,VPN-Infrastructure-Atlas
+393423,NTT-GLOBAL-DATA-CENTERS-AMERICA-INC,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+393458,NUCLEARFALLOUT-ATL,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+39347,SELL-AS Orasul Navodari - Primaria Navodari,aggregate,1,1,1,Romania,VPN-Infrastructure-Atlas
+39351,ESAB-AS,aggregate,20,1,1,Sweden,VPN-Infrastructure-Atlas
+393886,LEASEWEB-USA-MIA,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+394065,ESSENSYSINC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+394256,CLOUDSINGULARITY,aggregate,6,4,1,Canada,VPN-Infrastructure-Atlas
+394380,LEASEWEB-USA-DAL,aggregate,7,2,1,United States,VPN-Infrastructure-Atlas
+394625,WHITELABELIT,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+39486,HOSTROYALE,aggregate,5,3,3,France; India; Portugal,VPN-Infrastructure-Atlas
+395092,SHOCK-1,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+395111,KVCNET-2009,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+395839,HOSTKEY-USA,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+395954,LEASEWEB-USA-LAX,aggregate,14,5,1,United States,VPN-Infrastructure-Atlas
+396073,MAJESTIC-HOSTING-01,aggregate,4,2,1,United States,VPN-Infrastructure-Atlas
+396190,LEASEWEB-USA-SEA,aggregate,9,4,1,United States,VPN-Infrastructure-Atlas
+396356,LATITUDE-SH,aggregate,44,17,4,Brazil; Chile; Mexico; United States,VPN-Infrastructure-Atlas
+396362,LEASEWEB-USA-NYC,aggregate,7,2,1,United States,VPN-Infrastructure-Atlas
+396426,-Reserved AS-,aggregate,1,1,1,UNKNOWN,VPN-Infrastructure-Atlas
+397032,SPARKED,aggregate,4,2,1,United States,VPN-Infrastructure-Atlas
+397373,H4Y-TECHNOLOGIES,aggregate,6,3,1,United States,VPN-Infrastructure-Atlas
+397391,HON-ASN,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+397423,TIER-NET,aggregate,8,3,1,United States,VPN-Infrastructure-Atlas
+397540,WINDSCRIBE,aggregate,2,1,1,Antarctica,VPN-Infrastructure-Atlas
+397735,NETWIRE-INC,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+39798,MIVOCLOUD,aggregate,1,1,1,Moldova,VPN-Infrastructure-Atlas
+39845,LV-2CLOUD-ASN16,aggregate,2,1,1,Latvia,VPN-Infrastructure-Atlas
+398493,SYSTEMINPLACE,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+398779,ACEHOST,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+399275,SOLID,aggregate,6,2,1,United States,VPN-Infrastructure-Atlas
+399471,AS-SERVERION,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+399498,PRIVATE-NETWORKS,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+399646,DARTNODE,aggregate,8,3,1,United States,VPN-Infrastructure-Atlas
+399804,HOSTODO,aggregate,4,1,1,United States,VPN-Infrastructure-Atlas
+399935,HAYASHIMO,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+400061,IGNERO,aggregate,1,1,1,Singapore,VPN-Infrastructure-Atlas
+400175,MICROTRONIX-ESOLUTIONS,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+40028,AS40028 - 1651884 Ontario Inc.,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+400475,NUCLEARFALLOUT-DAL,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+400587,RYAMER,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+400882,AS-CYBER-DATA,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+400992,ZHOUYISAT-COMMUNICATIONS,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+401263,NUCLEARFALLOUT-NYC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+401443,WAP-AC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+401486,RAVNIX,aggregate,3,1,1,United States,VPN-Infrastructure-Atlas
+40156,THEOPT-HOU,aggregate,5,4,1,United States,VPN-Infrastructure-Atlas
+401665,HOSTBILBY,aggregate,2,2,1,Canada,VPN-Infrastructure-Atlas
+40244,TURNKEY-INTERNET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+40676,AS40676 - Psychz Networks,aggregate,33,13,1,United States,VPN-Infrastructure-Atlas
+40861,PARAD-40-ASN,aggregate,16,2,1,United States,VPN-Infrastructure-Atlas
+40994,"ALWYZON Alwyzon, a trading name of Hohl IT e.U.",aggregate,2,2,1,Austria,VPN-Infrastructure-Atlas
+41000,FREETHOUGHT-AS,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+41111,AS-GEOHOSTING,aggregate,1,1,1,Romania,VPN-Infrastructure-Atlas
+41349,MVMTECH-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+41378,KIRINONET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+41564,AS41564,aggregate,12,6,1,United Kingdom,VPN-Infrastructure-Atlas
+41608,NEXTGENWEBS-NL,aggregate,1,1,1,Spain,VPN-Infrastructure-Atlas
+41652,SAS-SHPV-FRANCE,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+41745,FORTIS-AS Hosting services,aggregate,15,2,2,Germany; Russia,VPN-Infrastructure-Atlas
+41798,TTC-AS JSC Transtelecom,aggregate,1,1,1,Kazakhstan,VPN-Infrastructure-Atlas
+41843,ERTH-OMSK-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+41887,PROLOCATION Prolocation,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+4213,EVOCATIVE-GLOBAL,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+42160,LCPDCO LCP AS dc oostkamp,aggregate,1,1,1,Belgium,VPN-Infrastructure-Atlas
+42201,PVDATANET,aggregate,11,1,9,Canada; France; Germany; India; Italy; Netherlands; Spain; Sweden; United States,VPN-Infrastructure-Atlas
+42237,W1N,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+4224,CALYX-AS,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+42422,SECURITYNET-AS,aggregate,5,2,1,Czechia,VPN-Infrastructure-Atlas
+42473,AS-ANEXIA ANEXIA Internetdienstleistungs GmbH,aggregate,1,1,1,Austria,VPN-Infrastructure-Atlas
+42474,IL,aggregate,1,1,1,Estonia,VPN-Infrastructure-Atlas
+42532,VEESP-LV-AS,aggregate,1,1,1,Latvia,VPN-Infrastructure-Atlas
+42655,BESTHOSTING-AS,aggregate,1,1,1,Ukraine,VPN-Infrastructure-Atlas
+42675,OBEHOSTING Obehosting AB,aggregate,12,3,1,Sweden,VPN-Infrastructure-Atlas
+42708,GLESYS glesys.com,aggregate,37,18,3,Denmark; Finland; Sweden,VPN-Infrastructure-Atlas
+42831,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",aggregate,57,19,1,United Kingdom,VPN-Infrastructure-Atlas
+42926,RADORE,aggregate,10,6,1,Türkiye,VPN-Infrastructure-Atlas
+43289,TRABIA,aggregate,20,13,1,Moldova,VPN-Infrastructure-Atlas
+43317,VEESP-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+43350,NFORCE,aggregate,17,8,1,Netherlands,VPN-Infrastructure-Atlas
+43357,OWL Owl Limited,aggregate,8,2,1,Vanuatu,VPN-Infrastructure-Atlas
+43376,DOT,aggregate,1,1,1,Romania,VPN-Infrastructure-Atlas
+43513,NANO-AS,aggregate,2,2,1,Latvia,VPN-Infrastructure-Atlas
+43641,SOLLUTIUM-NL,aggregate,1,1,1,Poland,VPN-Infrastructure-Atlas
+44133,IPAX-AS,aggregate,1,1,1,Austria,VPN-Infrastructure-Atlas
+44259,ULTAHOST-AP-AS,aggregate,2,2,2,India; United States,VPN-Infrastructure-Atlas
+44382,WHITELABEL,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+44388,"TOPHOST-MD-AS R.Moldova, Chisinau, Paris 18A",aggregate,1,1,1,Moldova,VPN-Infrastructure-Atlas
+44679,BINBOX-GLOBAL-SERVICES,aggregate,2,1,1,Romania,VPN-Infrastructure-Atlas
+44684,MYTHIC Mythic Beasts Ltd,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+44709,CLOUDWEBMANAGE-,aggregate,4,4,1,Israel,VPN-Infrastructure-Atlas
+44803,WEBDOCK-AS,aggregate,1,1,1,Denmark,VPN-Infrastructure-Atlas
+44901,BELCLOUD Premium IP transit network,aggregate,1,1,1,Bulgaria,VPN-Infrastructure-Atlas
+44925,THE-1984-AS,aggregate,1,1,1,Iceland,VPN-Infrastructure-Atlas
+45032,FABIT-AS,aggregate,1,1,1,Denmark,VPN-Infrastructure-Atlas
+45102,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",aggregate,40,3,2,China; Philippines,VPN-Infrastructure-Atlas
+45146,RAJASA-AS-ID-AP PT. Raja Sepadan Abadi,aggregate,1,1,1,Indonesia,VPN-Infrastructure-Atlas
+45179,SITEHOST-AS-AP SiteHost New Zealand,aggregate,3,2,1,New Zealand,VPN-Infrastructure-Atlas
+45382,EHOSTIDC-AS-KR Hostcenter,aggregate,13,11,1,South Korea,VPN-Infrastructure-Atlas
+45413,SERVENET-AS-TH-AP ServeNET Solution Limited Partnership,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+45671,AS45671-NET-AU Wholesale Services Provider,aggregate,5,4,1,Australia,VPN-Infrastructure-Atlas
+45731,"ARDH-AS-ID ARDH GLOBAL INDONESIA, PT",aggregate,1,1,1,Indonesia,VPN-Infrastructure-Atlas
+45839,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,aggregate,6,6,1,Malaysia,VPN-Infrastructure-Atlas
+45899,VNPT-AS-VN VNPT Corp,aggregate,6,3,1,Vietnam,VPN-Infrastructure-Atlas
+46015,EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd.,aggregate,1,1,1,Malaysia,VPN-Infrastructure-Atlas
+46261,QUICKPACKET,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+46450,PILOT,aggregate,7,2,1,United States,VPN-Infrastructure-Atlas
+46475,LIMESTONENETWORKS,aggregate,24,9,1,United States,VPN-Infrastructure-Atlas
+46562,PERFORMIVE,aggregate,6,4,1,United States,VPN-Infrastructure-Atlas
+46573,VAULT-HOST,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+46664,VDI-NETWORK,aggregate,3,1,1,United States,VPN-Infrastructure-Atlas
+46844,SHARKTECH,aggregate,20,5,1,United States,VPN-Infrastructure-Atlas
+4694,IDCF IDC Frontier Inc.,aggregate,1,1,1,Japan,VPN-Infrastructure-Atlas
+47100,WITOPIA-AS1,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+4713,OCN NTT Communications Corporation,aggregate,3,1,1,Japan,VPN-Infrastructure-Atlas
+47264,LDEX,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+47447,TTM,aggregate,3,2,1,Germany,VPN-Infrastructure-Atlas
+47516,DEHOST-INTERNET-VE-BILISIM-TEKNOLOJILERI-SAN-TIC-LTD-STI DEHOST INTERNET VE BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI,aggregate,3,1,1,Türkiye,VPN-Infrastructure-Atlas
+47521,IPHOST .GR IpDomain,aggregate,2,2,1,Greece,VPN-Infrastructure-Atlas
+47540,WIPAK-AS,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+4760,HKTIMS-AP HKT Limited,aggregate,2,2,1,Hong Kong,VPN-Infrastructure-Atlas
+4766,KIXS-AS-KR Korea Telecom,aggregate,22,4,1,South Korea,VPN-Infrastructure-Atlas
+47810,PROSERVICE,aggregate,3,3,1,Georgia,VPN-Infrastructure-Atlas
+4785,XTOM-AS-JP xTom,aggregate,3,3,1,Japan,VPN-Infrastructure-Atlas
+47890,UNMANAGED-DEDICATED-SERVERS,aggregate,2,1,1,United Kingdom,VPN-Infrastructure-Atlas
+47987,DELTAHOST-KYIV,aggregate,4,3,1,Ukraine,VPN-Infrastructure-Atlas
+48011,DIGITURUNC,aggregate,2,2,1,Türkiye,VPN-Infrastructure-Atlas
+48031,XSERVERCLOUD,aggregate,5,5,1,Ukraine,VPN-Infrastructure-Atlas
+48207,GLBBULUTTEKNOLOJISI-AS,aggregate,2,1,1,Türkiye,VPN-Infrastructure-Atlas
+48314,IP-PROJECTS,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+48327,RAY-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+48347,MTW-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+48678,TR-PENTECH-AS,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+48716,PSKZ-ALA,aggregate,4,1,1,Kazakhstan,VPN-Infrastructure-Atlas
+48753,AVAHOHST,aggregate,2,2,1,Moldova,VPN-Infrastructure-Atlas
+48894,OPTIMUS-AS,aggregate,4,3,1,Slovenia,VPN-Infrastructure-Atlas
+49334,SH-COM-,aggregate,1,1,1,Türkiye,VPN-Infrastructure-Atlas
+49367,ASSEFLOW,aggregate,10,9,1,Italy,VPN-Infrastructure-Atlas
+49372,WICHITA-INTER-KONNECTS-1LL4H,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+49392,ASBAXETN,aggregate,4,1,1,Russia,VPN-Infrastructure-Atlas
+49453,GLOBALLAYER,aggregate,12,3,2,Belgium; Netherlands,VPN-Infrastructure-Atlas
+49532,SERVERHUB-NL,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+49592,PIPE-NET pipehost.net,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+49683,MASSIVEGRID,aggregate,22,2,1,United Kingdom,VPN-Infrastructure-Atlas
+49770,INTERNETPORT-AS,aggregate,2,2,1,Sweden,VPN-Infrastructure-Atlas
+49791,AS-3HCLOUD,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+4986,INTERSTAR,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+49870,AS49870-BV,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+49981,WORLDSTREAM,aggregate,29,4,1,Netherlands,VPN-Infrastructure-Atlas
+50053,ANTON-LEVIN-AS,aggregate,2,1,1,Kyrgyzstan,VPN-Infrastructure-Atlas
+50183,CENTURY-LTD,aggregate,1,1,1,Marshall Islands,VPN-Infrastructure-Atlas
+50304,BLIX,aggregate,8,4,1,Norway,VPN-Infrastructure-Atlas
+50340,SELECTEL-MSK,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+50599,Autonomous System for Dataspace P.S.A.,aggregate,3,1,1,Poland,VPN-Infrastructure-Atlas
+50613,THORDC-AS,aggregate,7,7,1,Iceland,VPN-Infrastructure-Atlas
+50837,CLOUDSIGMA-AS,aggregate,1,1,1,Switzerland,VPN-Infrastructure-Atlas
+50867,ORG-LVA15-AS,aggregate,4,2,1,Netherlands,VPN-Infrastructure-Atlas
+50926,AXARNET-AS,aggregate,1,1,1,Spain,VPN-Infrastructure-Atlas
+50979,ITL-LV,aggregate,5,3,2,Latvia; United States,VPN-Infrastructure-Atlas
+51159,THINKSYSTEMSUK-ASN,aggregate,2,1,1,United Kingdom,VPN-Infrastructure-Atlas
+51167,CONTABO,aggregate,6,1,1,Germany,VPN-Infrastructure-Atlas
+51202,NUXOA,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+51430,ALTUS,aggregate,22,14,2,Bulgaria; Netherlands,VPN-Infrastructure-Atlas
+51519,KARABRO Karabro AB,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+51659,ASBAXET,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+51747,INTERNETBOLAGET,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+51765,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,aggregate,21,15,1,Finland,VPN-Infrastructure-Atlas
+51815,TEKNIKBYRAN,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+51852,PLI-AS,aggregate,24,17,2,Panama; Switzerland,VPN-Infrastructure-Atlas
+51905,CWCS-VM CompuWeb Communications Services Ltd,aggregate,8,1,1,United Kingdom,VPN-Infrastructure-Atlas
+52048,RIXHOST,aggregate,7,3,1,Latvia,VPN-Infrastructure-Atlas
+52173,MAKONIX,aggregate,2,2,2,Latvia; Sweden,VPN-Infrastructure-Atlas
+52201,TCTEL,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+52368,ZAM LTDA.,aggregate,1,1,1,Chile,VPN-Infrastructure-Atlas
+52423,Data Miners S.A.  Racknation.cr,aggregate,9,9,1,Costa Rica,VPN-Infrastructure-Atlas
+52469,Offshore Racks S.A,aggregate,2,2,1,Panama,VPN-Infrastructure-Atlas
+53356,FREE RANGE CLOUD,aggregate,5,2,1,Canada,VPN-Infrastructure-Atlas
+53363,TANGRAM-CANADA-INC,aggregate,3,2,1,Canada,VPN-Infrastructure-Atlas
+53667,PONYNET,aggregate,13,3,3,Luxembourg; Switzerland; United States,VPN-Infrastructure-Atlas
+53755,IOFLOOD,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+53850,GORILLASERVERS,aggregate,7,2,1,United States,VPN-Infrastructure-Atlas
+5410,BOUYGTEL-ISP,aggregate,1,1,1,France,VPN-Infrastructure-Atlas
+54133,UNMETERED,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+54203,NETPROTECT-SP,aggregate,4,2,1,United States,VPN-Infrastructure-Atlas
+54600,PEG-SV,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+54643,IDIGITAL,aggregate,6,6,1,Canada,VPN-Infrastructure-Atlas
+55081,24SHELLS,aggregate,5,1,1,United States,VPN-Infrastructure-Atlas
+55154,MADGEN-01,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+55286,SERVER-MANIA,aggregate,12,5,1,Canada,VPN-Infrastructure-Atlas
+55720,GIGABIT-MY Gigabit Hosting Sdn Bhd,aggregate,7,5,1,Malaysia,VPN-Infrastructure-Atlas
+5606,GTS-BACKBONE GTS Telecom,aggregate,1,1,1,Romania,VPN-Infrastructure-Atlas
+56067,METRABYTE-TH 453 Ladplacout Jorakhaebua,aggregate,2,2,1,Thailand,VPN-Infrastructure-Atlas
+5607,BSKYB-BROADBAND-AS,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+56150,VHOST-AS-VN Viet Solutions Services Trading Company Limited,aggregate,2,1,1,Vietnam,VPN-Infrastructure-Atlas
+5617,TPNET,aggregate,1,1,1,Poland,VPN-Infrastructure-Atlas
+56309,"SIAMDATA-TH Siamdata Communication Co.,Ltd.",aggregate,5,2,1,Thailand,VPN-Infrastructure-Atlas
+56322,SERVERASTRA-AS,aggregate,6,4,1,Hungary,VPN-Infrastructure-Atlas
+56380,AS-ITFRUIT,aggregate,1,1,1,Moldova,VPN-Infrastructure-Atlas
+5650,FRONTIER-FRTR,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+56594,CB-BYO-IP,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+56630,MELBICOM-EU-AS Melbikomas UAB,aggregate,9,4,2,Latvia; Lithuania,VPN-Infrastructure-Atlas
+56655,GIGAHOST,aggregate,5,5,1,Norway,VPN-Infrastructure-Atlas
+56694,SMARTAPE,aggregate,3,2,1,Russia,VPN-Infrastructure-Atlas
+56704,FARICE-AS,aggregate,1,1,1,Iceland,VPN-Infrastructure-Atlas
+56803,AS-DATASOURCE,aggregate,1,1,1,Switzerland,VPN-Infrastructure-Atlas
+56971,AS56971 AS56971 Cloud,aggregate,21,2,2,Hong Kong; Netherlands,VPN-Infrastructure-Atlas
+57043,HOSTKEY-AS,aggregate,2,2,1,Netherlands,VPN-Infrastructure-Atlas
+57169,EDIS-AS-EU,aggregate,20,8,4,Austria; Belgium; Netherlands; Russia,VPN-Infrastructure-Atlas
+57717,FBX-AS,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+58061,SCALAXY-AS,aggregate,1,1,1,Latvia,VPN-Infrastructure-Atlas
+58065,PACKETEXCHANGE,aggregate,10,6,2,Spain; United Kingdom,VPN-Infrastructure-Atlas
+58212,DATAFOREST,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+58325,BANDWIDTH-ASIA,aggregate,4,2,1,United Kingdom,VPN-Infrastructure-Atlas
+58940,DEDAUS-AS-AP Dedicated Servers Australia,aggregate,1,1,1,Australia,VPN-Infrastructure-Atlas
+58955,"BANGMODENTERPRISE-TH Bangmod Enterprise Co., Ltd.",aggregate,3,3,1,Thailand,VPN-Infrastructure-Atlas
+59211,ONEASIAHOST OneAsiaHost,aggregate,2,1,1,Singapore,VPN-Infrastructure-Atlas
+59253,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,aggregate,6,4,1,Singapore,VPN-Infrastructure-Atlas
+59364,VHOST-HOLDINGS-SG vHost Holdings Pte Ltd,aggregate,2,2,1,Singapore,VPN-Infrastructure-Atlas
+59432,GINERNET,aggregate,1,1,1,Spain,VPN-Infrastructure-Atlas
+59478,IPSERVICE-AS,aggregate,1,1,1,Ukraine,VPN-Infrastructure-Atlas
+59491,LIVENET-,aggregate,2,1,1,Poland,VPN-Infrastructure-Atlas
+59615,SERVERUM-AS,aggregate,1,1,1,Latvia,VPN-Infrastructure-Atlas
+59711,HZ-EU-AS,aggregate,5,3,1,Bulgaria,VPN-Infrastructure-Atlas
+59729,ITL-BG,aggregate,7,3,2,Bulgaria; United States,VPN-Infrastructure-Atlas
+59741,SINAVPS SinaVPS,aggregate,2,1,1,Switzerland,VPN-Infrastructure-Atlas
+59787,WEBHS WEBSP LDA,aggregate,3,3,1,Portugal,VPN-Infrastructure-Atlas
+59815,TRINITY-AS,aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+59895,BINARYRACKS-AS,aggregate,2,2,1,United Kingdom,VPN-Infrastructure-Atlas
+60068,CDN77 _,aggregate,227,21,13,Australia; Czechia; Greece; Hong Kong; Italy; Japan; Poland; Singapore; Slovakia; Sweden,VPN-Infrastructure-Atlas
+60117,HS,aggregate,2,1,1,United Arab Emirates,VPN-Infrastructure-Atlas
+60404,LITESERVER,aggregate,4,4,1,Netherlands,VPN-Infrastructure-Atlas
+60458,ASN-XTUDIONET,aggregate,4,4,1,Spain,VPN-Infrastructure-Atlas
+60464,SUPERNET-UK,aggregate,3,1,1,United Kingdom,VPN-Infrastructure-Atlas
+6057,Administracion Nacional de Telecomunicaciones,aggregate,1,1,1,Uruguay,VPN-Infrastructure-Atlas
+60592,GRANSY Gransy s.r.o. gransy.com,aggregate,2,1,1,Czechia,VPN-Infrastructure-Atlas
+60781,LEASEWEB-NL-AMS-01 Netherlands,aggregate,32,14,1,Netherlands,VPN-Infrastructure-Atlas
+60800,NHL-AS1,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+61046,HZ-UK-AS,aggregate,2,1,1,Bulgaria,VPN-Infrastructure-Atlas
+61102,INTERHOST,aggregate,4,4,1,Israel,VPN-Infrastructure-Atlas
+61112,AkileCloud Network,aggregate,23,1,1,United Kingdom,VPN-Infrastructure-Atlas
+61138,ZAPPIE-HOST-AS Zappie Host,aggregate,6,4,1,United States,VPN-Infrastructure-Atlas
+61207,ILAIT,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+61211,SETCOR,aggregate,1,1,1,Croatia,VPN-Infrastructure-Atlas
+61272,IST-AS,aggregate,10,7,1,Lithuania,VPN-Infrastructure-Atlas
+61292,BLXGRP,aggregate,1,1,1,Norway,VPN-Infrastructure-Atlas
+61317,ASDETUK www.heficed.com,aggregate,7,6,1,United States,VPN-Infrastructure-Atlas
+61493,InterBS S.R.L. BAEHOST,aggregate,2,2,1,Argentina,VPN-Infrastructure-Atlas
+62005,BV-EU-AS,aggregate,3,1,3,Italy; Netherlands; Spain,VPN-Infrastructure-Atlas
+6206,NETROUTING-AS,aggregate,11,4,1,Netherlands,VPN-Infrastructure-Atlas
+62068,SPECTRAIP SpectraIP B.V.,aggregate,1,1,1,Netherlands,VPN-Infrastructure-Atlas
+62212,AS62212,aggregate,1,1,1,Estonia,VPN-Infrastructure-Atlas
+62214,RACKFOREST-AS,aggregate,2,1,1,Hungary,VPN-Infrastructure-Atlas
+62217,VOOSERVERS,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+62240,CLOUVIDER Clouvider - Global ASN,aggregate,127,10,2,United Kingdom; United States,VPN-Infrastructure-Atlas
+62282,RACKRAY UAB Rakrejus,aggregate,1,1,1,Lithuania,VPN-Infrastructure-Atlas
+62296,VITALNG,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+6233,XTOM,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+62425,KUZEYDC,aggregate,2,2,1,Türkiye,VPN-Infrastructure-Atlas
+62553,ELCRO-DIGITAL-SERVICES-LLC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+62563,AS-GLOBALTELEHOST,aggregate,10,8,1,Canada,VPN-Infrastructure-Atlas
+62564,LINVEO-LLC,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+62651,NETPROTECT-62651,aggregate,197,3,1,United States,VPN-Infrastructure-Atlas
+62744,QUINTEX,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+62874,WEB2OBJECTS,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+62904,AS62904 - Eonix Corporation,aggregate,14,6,1,United States,VPN-Infrastructure-Atlas
+63018,DEDICATED,aggregate,11,6,1,United States,VPN-Infrastructure-Atlas
+63023,AS-GLOBALTELEHOST,aggregate,33,12,2,United Kingdom; United States,VPN-Infrastructure-Atlas
+63150,BAGE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+63452,VELOCIHOST,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+63473,HOSTHATCH,aggregate,35,6,7,Australia; Austria; Japan; Norway; Singapore; Sweden; United States,VPN-Infrastructure-Atlas
+6364,ATLANTIC-NET-1,aggregate,3,3,1,United States,VPN-Infrastructure-Atlas
+63949,AKAMAI-LINODE-AP Akamai Connected Cloud,aggregate,57,3,8,Australia; Canada; Germany; India; Japan; Singapore; United Kingdom; United States,VPN-Infrastructure-Atlas
+63989,DE-CORP DE-CORP,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+64080,SYN-UK SYN,aggregate,1,1,1,United Kingdom,VPN-Infrastructure-Atlas
+64200,VIVIDHOSTING,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+64249,ENDOFFICE,aggregate,3,3,1,United States,VPN-Infrastructure-Atlas
+6428,CDM,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+64457,PIPEHOST-AS PIPEHOST,aggregate,1,1,1,Austria,VPN-Infrastructure-Atlas
+6461,ZAYO-6461,aggregate,3,2,1,United States,VPN-Infrastructure-Atlas
+6698,VIRTUALSYSTEMS,aggregate,8,8,1,Ukraine,VPN-Infrastructure-Atlas
+6718,NAV NAV Communications,aggregate,1,1,1,Romania,VPN-Infrastructure-Atlas
+6866,CYTA-NETWORK Internet Services,aggregate,2,2,1,Cyprus,VPN-Infrastructure-Atlas
+6939,HURRICANE,aggregate,14,2,1,United States,VPN-Infrastructure-Atlas
+701,UUNET,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+7018,ATT-INTERNET4,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+7040,NETMINDERS,aggregate,5,4,1,Canada,VPN-Infrastructure-Atlas
+7201,AS-NETWORKEDGE,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+7203,LEASEWEB-USA-SFO,aggregate,4,3,1,United States,VPN-Infrastructure-Atlas
+7393,CYBERCON,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+7488,CNSERVER-AP-AS CNServer LLC,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+7489,HOSTUS-GLOBAL-AS HostUS,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+7552,VIETEL-AS-AP Viettel Group,aggregate,2,2,1,Vietnam,VPN-Infrastructure-Atlas
+7765,KOUMBIT,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+7922,COMCAST-7922,aggregate,2,1,1,United States,VPN-Infrastructure-Atlas
+7979,SERVERS-COM,aggregate,7,6,2,Luxembourg; United States,VPN-Infrastructure-Atlas
+812,ROGERS-COMMUNICATIONS,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+8251,NFX_ZSPO,aggregate,1,1,1,Czechia,VPN-Infrastructure-Atlas
+8254,ROUTE95,aggregate,2,2,1,United States,VPN-Infrastructure-Atlas
+8280,SYNAPSECOM-AS SYNAPSECOM TELECOMS S.A.,aggregate,3,2,1,Greece,VPN-Infrastructure-Atlas
+835,GOCODEIT-EDGE,aggregate,1,1,1,Canada,VPN-Infrastructure-Atlas
+8434,TELENOR-SE Telenor Sverige AB,aggregate,1,1,1,Sweden,VPN-Infrastructure-Atlas
+8473,BAHNHOF,aggregate,3,3,1,Sweden,VPN-Infrastructure-Atlas
+8560,"IONOS-AS This is the joint network for IONOS, Fasthosts, Arsys, 1&1 Mail and Media and 1&1 Telecom. Formerly known as 1&1 Internet SE.",aggregate,87,3,1,Germany,VPN-Infrastructure-Atlas
+8648,ONE-NETWORK,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+8708,RCS-RDS 73-75 Dr. Staicovici,aggregate,1,1,1,Romania,VPN-Infrastructure-Atlas
+8749,"REDCOM-AS Redcom, Khabarovsk, Russia",aggregate,1,1,1,Russia,VPN-Infrastructure-Atlas
+8849,MELBICOM-EU-AS Melbikomas UAB,aggregate,7,5,1,Lithuania,VPN-Infrastructure-Atlas
+8881,VERSATEL,aggregate,1,1,1,Germany,VPN-Infrastructure-Atlas
+8888,XTOM xTom Pty Ltd,aggregate,2,1,1,Australia,VPN-Infrastructure-Atlas
+9008,ASN-VO Visual Online S.A. Luxembourg,aggregate,6,5,1,Luxembourg,VPN-Infrastructure-Atlas
+9009,M247,aggregate,1026,47,21,Austria; Belgium; Brazil; Bulgaria; Canada; Czechia; Denmark; France; Germany; Hong Kong,VPN-Infrastructure-Atlas
+9038,BAT-AS9038,aggregate,1,1,1,Jordan,VPN-Infrastructure-Atlas
+906,DMIT,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+9123,TIMEWEB-AS,aggregate,6,2,1,Russia,VPN-Infrastructure-Atlas
+9198,KAZTELECOM-AS,aggregate,2,2,1,Kazakhstan,VPN-Infrastructure-Atlas
+9269,HKBN-AS-AP Hong Kong Broadband Network Ltd.,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+9294,GNETINC-AS-AP GNET INC.,aggregate,4,1,1,United States,VPN-Infrastructure-Atlas
+9304,HUTCHISON-AS-AP HGC Global Communications Limited,aggregate,1,1,1,Hong Kong,VPN-Infrastructure-Atlas
+9312,XTOM xTom,aggregate,2,2,1,Hong Kong,VPN-Infrastructure-Atlas
+9318,SKB-AS SK Broadband Co Ltd,aggregate,7,3,1,South Korea,VPN-Infrastructure-Atlas
+9335,CAT-CLOUD-AP CAT Telecom Public Company Limited,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+939,USA-2022,aggregate,1,1,1,United States,VPN-Infrastructure-Atlas
+9605,"DOCOMO NTT DOCOMO, INC.",aggregate,1,1,1,Japan,VPN-Infrastructure-Atlas
+9658,"ETPI-IDS-AS-AP Eastern Telecoms Phils., Inc.",aggregate,2,1,1,Philippines,VPN-Infrastructure-Atlas
+9678,HOSTINGINSIDE HostingInside LTD.,aggregate,2,2,1,Taiwan,VPN-Infrastructure-Atlas
+9790,TWO-DEGREES-AS-AP Two Degrees Networks Limited,aggregate,2,2,1,New Zealand,VPN-Infrastructure-Atlas
+9824,"JTCL-JP-AS JCOM Co., Ltd.",aggregate,3,1,1,Japan,VPN-Infrastructure-Atlas
+9891,CSLOX-IDC-AS-AP CS LOXINFO Public Company Limited.,aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas
+9931,"CAT-AP The Communication Authoity of Thailand, CAT",aggregate,1,1,1,Thailand,VPN-Infrastructure-Atlas

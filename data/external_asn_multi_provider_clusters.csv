@@ -1,0 +1,294 @@
+asn_cluster,asn,operator,provider_count,observed_records_bucket,provider_examples,source_repo
+ASNCluster-001,212238,CDNEXT,22,5k-9.9k,Astrill; CactusVPN; CyberGhost; ExpressVPN; Hide.me; Hotspotshield; IPVanish; IVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-002,9009,M247,45,1k-4.9k,AirVPN; Anonine; BoxPN; CactusVPN; Cryptostorm; CyberGhost; EasyHideIP; ExpressVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-003,62651,NETPROTECT-62651,3,1k-4.9k,IPVanish; StrongVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-004,62240,CLOUVIDER Clouvider - Global ASN,12,1k-4.9k,Astrill; ExpressVPN; GhostPath; Hide.me; IPVanish; KevinVPN; NordVPN; Private Internet Access,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-005,60068,CDN77 _,18,1k-4.9k,AzireVPN; CyberGhost; ExpressVPN; Getflix; Hide.me; Hotspotshield; IVPN; Mullvad,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-006,137409,GSLNETWORKS-AS-AP GSL Networks Pty LTD,10,1k-4.9k,CyberGhost; ExpressVPN; IPVanish; Ivacy; NordVPN; Private Internet Access; ProtonVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-007,25369,BANDWIDTH-AS,8,500-999,FlowVPN; IPVanish; NordVPN; PrivateVPN; ProtonVPN; PureVPN; Surfshark; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-008,49453,GLOBALLAYER,3,500-999,AirVPN; NordVPN; Surfshark,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-009,11878,TZULO,6,500-999,AirVPN; AzireVPN; CCrypto VPN; IVPN; Mullvad; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-010,140952,"STL-AS-AP Strong Technology, LLC",3,500-999,IPVanish; StrongVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-011,174,COGENT-174,9,100-499,Astrill; CyberGhost; GhostPath; IPVanish; VPN Unlimited; Private Internet Access; SlickVPN; StrongVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-012,22781,STRTEC,3,100-499,IPVanish; StrongVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-013,21859,ZEN-ECN,9,100-499,ExpressVPN; Hide.me; IPVanish; Mullvad; Private Internet Access; PrivateVPN; TunnelBear; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-014,39287,ABSTRACT,1,100-499,Njalla,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-015,32489,AMANAHA-NEW,13,100-499,AirVPN; Anonvpn; BTGuard; Getflix; IVPN; VPN Unlimited; OVPN; ProtonVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-016,396356,LATITUDE-SH,15,100-499,CactusVPN; ExpressVPN; Hotspotshield; IPVanish; Ivacy; NordVPN; Private Internet Access; ProtonVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-017,203020,HOSTROYALE,14,100-499,Cryptostorm; IPVanish; IVPN; Ivacy; Mullvad; NordVPN; Privado; ProtonVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-018,14061,DIGITALOCEAN-ASN,15,100-499,Getflix; GhostPath; Goosevpn; VPN Unlimited; OysterVPN; PhantomPeer; PrivateVPN; Safervpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-019,42708,GLESYS glesys.com,16,100-499,Anonine; CactusVPN; CyberGhost; EasyHideIP; ExpressVPN; FlowVPN; Froot; Getflix,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-020,136258,"ONEPROVIDER-AS BrainStorm Network, Inc",12,100-499,AnonymousVPN; CactusVPN; FastestVPN; FlowVPN; VPN Unlimited; OysterVPN; Safervpn; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-021,46844,SHARKTECH,4,100-499,Astrill; IPVanish; StrongVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-022,136557,HOST-AS-AP Host Universal Pty Ltd,10,100-499,Anonine; AzireVPN; BoxPN; EasyHideIP; Ivacy; Mullvad; NordVPN; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-023,36352,AS-COLOCROSSING,15,100-499,Astrill; GhostPath; IPVanish; IVPN; Ivacy; PrivateVPN; PureVPN; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-024,16276,OVH,22,100-499,Anonine; BoxPN; CCrypto VPN; CactusVPN; EasyHideIP; FlowVPN; Freevpn; Froot,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-025,20473,AS-VULTR,15,100-499,BTGuard; FlowVPN; Getflix; IVPN; VPN Unlimited; Proxpn; Safervpn; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-026,42831,"UKSERVERS-AS UK Dedicated Servers, Hosting and Co-Location",17,100-499,Anonine; Anonvpn; BoxPN; EasyHideIP; ExpressVPN; FlowVPN; GhostPath; IPVanish,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-027,13213,UK2NET-AS,14,100-499,ExpressVPN; Getflix; GhostPath; Hide.me; HideIPVPN; IPVanish; IVPN; Mullvad,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-028,206804,ESTNOC-GLOBAL,11,100-499,AirVPN; CyberGhost; ExpressVPN; IPVanish; IVPN; Private Internet Access; ProtonVPN; StrongVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-029,54203,NETPROTECT-SP,2,100-499,IPVanish; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-030,262287,Latitude.sh LTDA,11,100-499,Anonine; Astrill; BoxPN; Cryptostorm; EasyHideIP; ExpressVPN; GhostPath; NordVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-031,206092,SECFIREWALLAS,2,100-499,ExpressVPN; Private Internet Access,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-032,3223,VOXILITY,6,100-499,IPVanish; Ivacy; PureVPN; StrongVPN; Vpnht; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-033,51430,ALTUS,13,100-499,AirVPN; Cryptostorm; CyberGhost; IPVanish; NordVPN; Private Internet Access; ProtonVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-034,22363,PHMGMT-AS1,2,100-499,Giganews; VyprVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-035,43350,NFORCE,8,100-499,BTGuard; Cryptostorm; IPVanish; ProtonVPN; Smartdnsproxy; VPN.ac; WLVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-036,12876,Online SAS,19,100-499,Anonine; AnonymousVPN; BoxPN; CactusVPN; Cryptostorm; EasyHideIP; FlowVPN; Freevpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-037,209847,THE,6,100-499,AnonymousVPN; FlowVPN; VPN Unlimited; VPNUK; WorldVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-038,13737,AS-INCX,4,100-499,IPVanish; Surfshark; WLVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-039,53667,PONYNET,1,50-99,FlowVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-040,62744,QUINTEX,1,50-99,AirVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-041,43289,TRABIA,14,50-99,CyberGhost; ExpressVPN; GhostPath; IPVanish; Ivacy; NordVPN; Private Internet Access; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-042,63949,AKAMAI-LINODE-AP Akamai Connected Cloud,3,50-99,GhostPath; SlickVPN; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-043,42675,OBEHOSTING Obehosting AB,3,50-99,AzireVPN; OVPN; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-044,55286,SERVER-MANIA,6,50-99,Astrill; IPVanish; StrongVPN; TorGuard; WLVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-045,40676,AS40676 - Psychz Networks,11,50-99,ExpressVPN; FastestVPN; Hotspotshield; VPN Unlimited; OysterVPN; Smartdnsproxy; TorGuard; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-046,13926,NETPROTECT-PHX,3,50-99,IPVanish; StrongVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-047,6206,NETROUTING-AS,3,50-99,AirVPN; AzireVPN; VPN Unlimited,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-048,24940,HETZNER-AS,6,50-99,CactusVPN; GhostPath; HideIPVPN; SlickVPN; WorldVPN; uVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-049,41564,AS41564,7,50-99,Cryptostorm; CyberGhost; ExpressVPN; NordVPN; Private Internet Access; ProtonVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-050,51765,CREANOVA-AS Oy Creanova Hosting Solutions Ltd.,11,50-99,Anonine; BoxPN; EasyHideIP; IPVanish; IVPN; Mullvad; ProtonVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-051,35758,HQSERV_NETWORKS,8,50-99,Anonine; BoxPN; EasyHideIP; IVPN; TorGuard; TunnelBear; Windscribe; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-052,58065,PACKETEXCHANGE,8,50-99,Cryptostorm; CyberGhost; ExpressVPN; NordVPN; Private Internet Access; ProtonVPN; Surfshark; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-053,132372,GBNETWORK-AS-AP GB Network Solutions Sdn. Bhd.,5,50-99,IPVanish; Ivacy; PureVPN; StrongVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-054,394256,CLOUDSINGULARITY,4,50-99,AirVPN; AzireVPN; IVPN; Mullvad,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-055,49981,WORLDSTREAM,3,50-99,Freevpn; ProtonVPN; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-056,60781,LEASEWEB-NL-AMS-01 Netherlands,11,50-99,Anonine; BoxPN; CactusVPN; EasyHideIP; HideIPVPN; IVPN; SwitchVPN; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-057,133480,INT-5GN-AS-AP 5G NETWORK OPERATIONS PTY LTD,8,50-99,AirVPN; GhostPath; PrivateVPN; SlickVPN; TorGuard; Trust.Zone; VPN.ac; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-058,45671,AS45671-NET-AU Wholesale Services Provider,4,50-99,CyberGhost; Getflix; Private Internet Access; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-059,63473,HOSTHATCH,5,50-99,AnonymousVPN; AzireVPN; FlowVPN; KevinVPN; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-060,20278,NEXEON,3,lt-50,NordVPN; Surfshark; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-061,20860,IOMART-AS,13,lt-50,Anonine; BoxPN; CactusVPN; Cryptostorm; FlowVPN; HideIPVPN; VPN Unlimited; Safervpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-062,46562,PERFORMIVE,4,lt-50,ProtonVPN; Surfshark; TorGuard; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-063,51852,PLI-AS,13,lt-50,Anonine; BoxPN; CactusVPN; Cryptostorm; EasyHideIP; Froot; Getflix; IVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-064,63018,DEDICATED,4,lt-50,AirVPN; AzireVPN; FastestVPN; VPN Unlimited,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-065,63023,AS-GLOBALTELEHOST,8,lt-50,Anonine; Astrill; BoxPN; EasyHideIP; HideIPVPN; ProtonVPN; Windscribe; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-066,197706,"KEMINET A datacenter located in TiranaAlbania. Webhosting, Dedicated Servers, VPS, IPv4IPv6 leasing",11,lt-50,CyberGhost; ExpressVPN; IPVanish; Ivacy; Mullvad; Private Internet Access; ProtonVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-067,43357,OWL Owl Limited,2,lt-50,AzireVPN; Mullvad,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-068,45179,SITEHOST-AS-AP SiteHost New Zealand,2,lt-50,AirVPN; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-069,61272,IST-AS,6,lt-50,CyberGhost; ExpressVPN; Hide.me; Private Internet Access; ProtonVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-070,57169,EDIS-AS-EU,9,lt-50,Astrill; FlowVPN; GhostPath; Le VPN; PhantomPeer; Safervpn; SlickVPN; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-071,40861,PARAD-40-ASN,2,lt-50,Giganews; VyprVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-072,52048,RIXHOST,2,lt-50,AirVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-073,200651,FLOKINET,3,lt-50,IVPN; VPN.ac; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-074,46475,LIMESTONENETWORKS,9,lt-50,Astrill; ExpressVPN; Hide.me; Ivacy; VPN Unlimited; Private Internet Access; ProtonVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-075,207990,HR-CUSTOMER,5,lt-50,IPVanish; Mullvad; NordVPN; Surfshark; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-076,56655,GIGAHOST,6,lt-50,Anonine; BoxPN; EasyHideIP; GhostPath; SlickVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-077,58325,BANDWIDTH-ASIA,2,lt-50,FastestVPN; NordVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-078,60404,LITESERVER,3,lt-50,Safervpn; SotaVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-079,27284,FOURPLEX-ASN,1,lt-50,KevinVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-080,50304,BLIX,4,lt-50,AzireVPN; Mullvad; PrivateVPN; SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-081,133752,LEASEWEB-APAC-HKG-10 LEASEWEB HONG KONG LIMITED,10,lt-50,CactusVPN; Hide.me; IVPN; OysterVPN; Proxpn; Safervpn; TunnelBear; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-082,3257,GTT-BACKBONE GTT,3,lt-50,CyberGhost; NordVPN; Private Internet Access,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-083,44679,BINBOX-GLOBAL-SERVICES,1,lt-50,CyberGhost,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-084,52423,Data Miners S.A.  Racknation.cr,6,lt-50,Anonine; BoxPN; EasyHideIP; FlowVPN; IPVanish; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-085,46450,PILOT,2,lt-50,Hotspotshield; VPN Unlimited,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-086,4766,KIXS-AS-KR Korea Telecom,2,lt-50,FlowVPN; VPN Gate,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-087,197540,NETCUP-AS netcup GmbH,1,lt-50,KeyDrop,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-088,32097,WII,4,lt-50,Astrill; CactusVPN; SlickVPN; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-089,37684,ANGANI-AS,2,lt-50,CyberGhost; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-090,56630,MELBICOM-EU-AS Melbikomas UAB,3,lt-50,Ivacy; PureVPN; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-091,263812,SONDATECH S.A.S.,1,lt-50,Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-092,24961,MYLOC-AS IP Backbone of WIIT AG formerly myLoc managed IT AG,9,lt-50,Anonine; BoxPN; Cryptostorm; CyberGhost; EasyHideIP; FastestVPN; VPN Unlimited; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-093,53356,FREE RANGE CLOUD,2,lt-50,KevinVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-094,4785,XTOM-AS-JP xTom,3,lt-50,IPVanish; ProtonVPN; WLVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-095,28753,LEASEWEB-DE-FRA-10,4,lt-50,IVPN; SmartVPN; VPN.ac; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-096,30058,FDCSERVERS,6,lt-50,Anonvpn; CactusVPN; GhostPath; VPN Unlimited; Proxpn; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-097,204094,I4W,3,lt-50,CactusVPN; Safervpn; TunnelBear,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-098,39486,HOSTROYALE,3,lt-50,Mullvad; NordVPN; Surfshark,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-099,16509,AMAZON-02,3,lt-50,FlowVPN; Perimeter81; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-100,11831,ESECUREDATA,9,lt-50,Anonine; BoxPN; EasyHideIP; Froot; VPN Unlimited; PrivateVPN; Trust.Zone; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-101,138915,KAOPU-HK Kaopu Cloud HK Limited,5,lt-50,CactusVPN; FlowVPN; Le VPN; OysterVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-102,204957,GREENFLOID-AS,2,lt-50,AnonymousVPN; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-103,29889,FSNET-1,4,lt-50,Anonine; BoxPN; EasyHideIP; Froot,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-104,45899,VNPT-AS-VN VNPT Corp,4,lt-50,FlowVPN; VPN Unlimited; VPN Gate; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-105,50613,THORDC-AS,8,lt-50,GhostPath; Hide.me; IVPN; Le VPN; PrivateVPN; Proxpn; SlickVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-106,205119,TELEKS-,5,lt-50,CyberGhost; NordVPN; Private Internet Access; Surfshark; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-107,328364,Host-Africa-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-108,397373,H4Y-TECHNOLOGIES,4,lt-50,Cryptostorm; GhostPath; SlickVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-109,1299,"TWELVE99 Arelion, fka Telia Carrier",3,lt-50,AnonymousVPN; AzireVPN; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-110,55720,GIGABIT-MY Gigabit Hosting Sdn Bhd,3,lt-50,AirVPN; IVPN; SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-111,133398,TELE-AS Tele Asia Limited,5,lt-50,Anonine; BoxPN; CactusVPN; EasyHideIP; SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-112,202422,GHOST,7,lt-50,AnonymousVPN; VPN Unlimited; KevinVPN; Le VPN; PrivateVPN; Smartdnsproxy; uVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-113,9008,ASN-VO Visual Online S.A. Luxembourg,3,lt-50,Anonine; BoxPN; EasyHideIP,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-114,197155,ARTNET,6,lt-50,Anonine; BoxPN; EasyHideIP; Surfshark; Trust.Zone; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-115,6698,VIRTUALSYSTEMS,7,lt-50,Anonine; BoxPN; CactusVPN; EasyHideIP; FlowVPN; Trust.Zone; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-116,3462,HINET Data Communication Business Group,4,lt-50,FlowVPN; SlickVPN; TorGuard; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-117,29066,VELIANET-AS velia.net Internetdienste GmbH,3,lt-50,CyberGhost; ExpressVPN; NetShade,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-118,29802,HVC-AS,5,lt-50,GhostPath; SlickVPN; VPN.ac; VPNUK; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-119,45382,EHOSTIDC-AS-KR Hostcenter,8,lt-50,Anonine; BoxPN; EasyHideIP; FastestVPN; FlowVPN; Surfshark; SwitchVPN; Vpnht,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-120,49367,ASSEFLOW,7,lt-50,AnonymousVPN; OVPN; Smartdnsproxy; SwitchVPN; TunnelBear; VPNUK; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-121,198890,MADCOM-ASN,2,lt-50,NordVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-122,36666,GTCOMM,8,lt-50,Anonine; BoxPN; EasyHideIP; Froot; GhostPath; Hide.me; SlickVPN; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-123,3170,VELOXSERV,3,lt-50,AzireVPN; FastestVPN; Mullvad,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-124,15626,GF-UA,2,lt-50,VPN Unlimited; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-125,21130,IOMART-IE,5,lt-50,Anonine; BoxPN; EasyHideIP; VPNSecure; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-126,31034,ARUBA-ASN,3,lt-50,CactusVPN; VPN Unlimited; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-127,33083,AXCELX-NET,3,lt-50,GhostPath; SlickVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-128,61138,ZAPPIE-HOST-AS Zappie Host,4,lt-50,FlowVPN; VPN Unlimited; Safervpn; Vpnht,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-129,199524,GCORE,6,lt-50,CactusVPN; FlowVPN; IVPN; Ivacy; PrivateVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-130,31103,KEYWEB-AS,1,lt-50,OVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-131,59729,ITL-BG,2,lt-50,AnonymousVPN; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-132,7040,NETMINDERS,3,lt-50,SlickVPN; SwitchVPN; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-133,8473,BAHNHOF,5,lt-50,GhostPath; Integrityvpn; ProtonVPN; SlickVPN; VPNSecure,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-134,9318,SKB-AS SK Broadband Co Ltd,3,lt-50,FlowVPN; VPN Gate; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-135,23959,OWL-AS-AP Owl Limited,2,lt-50,AzireVPN; Mullvad,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-136,24768,ALMOUROLTEC,5,lt-50,FlowVPN; IVPN; PrivateVPN; TorGuard; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-137,37153,xneelo,6,lt-50,FastestVPN; FlowVPN; VPN Unlimited; PrivateVPN; Safervpn; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-138,45102,"ALIBABA-CN-NET Alibaba US Technology Co., Ltd.",1,lt-50,WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-139,60458,ASN-XTUDIONET,3,lt-50,Anonine; BoxPN; EasyHideIP,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-140,62563,AS-GLOBALTELEHOST,6,lt-50,Anonine; Astrill; BoxPN; EasyHideIP; Froot; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-141,132335,LEAPSWITCH-IN-AS-AP LEAPSWITCH NETWORKS PRIVATE LIMITED,3,lt-50,GhostPath; SlickVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-142,200698,GLOBALHOST-BOSNIA-AS,4,lt-50,VPN Unlimited; ProtonVPN; Surfshark; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-143,4213,EVOCATIVE-GLOBAL,2,lt-50,CyberGhost; Private Internet Access,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-144,7979,SERVERS-COM,7,lt-50,GhostPath; HideIPVPN; PrivateVPN; ProtonVPN; SlickVPN; SwitchVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-145,23470,RELIABLESITE,3,lt-50,Astrill; GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-146,29691,NINE,5,lt-50,GhostPath; PhantomPeer; Proxpn; Safervpn; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-147,30633,LEASEWEB-USA-WDC,4,lt-50,Cryptostorm; FastestVPN; HideIPVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-148,34081,SERVER24-AS INCUBATEC GmbH - Srl,3,lt-50,Anonine; BoxPN; EasyHideIP,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-149,50979,ITL-LV,3,lt-50,FlowVPN; Trust.Zone; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-150,61317,ASDETUK www.heficed.com,5,lt-50,AnonymousVPN; Smartdnsproxy; SwitchVPN; Trust.Zone; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-151,202425,INT-NETWORK,2,lt-50,HideIPVPN; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-152,210772,NEWPUSH,2,lt-50,FlowVPN; Safervpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-153,396190,LEASEWEB-USA-SEA,3,lt-50,Cryptostorm; VPN Unlimited; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-154,6718,NAV NAV Communications,1,lt-50,AnonymousVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-155,6866,CYTA-NETWORK Internet Services,2,lt-50,PrivateVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-156,13335,CLOUDFLARENET,1,lt-50,KevinVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-157,27176,DATAWAGON,1,lt-50,SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-158,39020,COMVIVE-AS Seville - Spain,5,lt-50,GhostPath; Le VPN; Safervpn; SlickVPN; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-159,39326,HSO-GROUP,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-160,42926,RADORE,4,lt-50,Anonine; BoxPN; EasyHideIP; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-161,48894,OPTIMUS-AS,3,lt-50,GhostPath; VPN Unlimited; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-162,59253,LEASEWEB-APAC-SIN-11 LEASEWEB SINGAPORE PTE. LTD.,2,lt-50,Proxpn; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-163,397423,TIER-NET,3,lt-50,GhostPath; SlickVPN; Surfshark,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-164,2516,KDDI KDDI CORPORATION,2,lt-50,SlickVPN; VPN Gate,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-165,18747,IFX18747,2,lt-50,AzireVPN; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-166,28099,iHosting Servicios Internet Ltda.,3,lt-50,GhostPath; SlickVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-167,41652,SAS-SHPV-FRANCE,1,lt-50,Freedomip,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-168,45839,SHINJIRU-MY-AS-AP Shinjiru Technology Sdn Bhd,4,lt-50,Anonine; BoxPN; CactusVPN; EasyHideIP,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-169,47810,PROSERVICE,3,lt-50,ExpressVPN; Windscribe; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-170,54643,IDIGITAL,4,lt-50,Anonine; BoxPN; EasyHideIP; Froot,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-171,215540,GCS-AS,1,lt-50,FlowVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-172,268581,QNAX LTDA,4,lt-50,CactusVPN; IVPN; PrivateVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-173,400587,RYAMER,2,lt-50,AzireVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-174,3236,SERVER server.ua,5,lt-50,AzireVPN; CactusVPN; IVPN; PrivateVPN; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-175,7203,LEASEWEB-USA-SFO,3,lt-50,Astrill; VPN Unlimited; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-176,8280,SYNAPSECOM-AS SYNAPSECOM TELECOMS S.A.,2,lt-50,GhostPath; VPN Unlimited,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-177,12389,ROSTELECOM-AS PJSC Rostelecom. Technical Team,2,lt-50,VPN Gate; VPNObratno,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-178,16247,"M247-UK M247 UK Ltd, trading as M247",4,lt-50,Cryptostorm; Goosevpn; IVPN; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-179,18978,ENZUINC-,3,lt-50,Getflix; VPN Unlimited; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-180,26383,ASNET,2,lt-50,FlowVPN; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-181,30860,YURTEH-AS,2,lt-50,AnonymousVPN; Hotspotshield,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-182,30900,WEBWORLD-AS ta Web World Ireland,3,lt-50,Astrill; OysterVPN; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-183,33387,NOCIX,5,lt-50,FlowVPN; GhostPath; Hide.me; SlickVPN; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-184,34989,SERVETHEWORLD-AS,5,lt-50,Getflix; IVPN; Safervpn; Smartdnsproxy; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-185,39798,MIVOCLOUD,1,lt-50,ProtonVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-186,40156,THEOPT-HOU,3,lt-50,GhostPath; VPN Unlimited; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-187,42237,W1N,1,lt-50,SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-188,42422,SECURITYNET-AS,3,lt-50,FlowVPN; GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-189,43513,NANO-AS,2,lt-50,CCrypto VPN; Surfshark,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-190,59711,HZ-EU-AS,2,lt-50,VPN Unlimited; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-191,62904,AS62904 - Eonix Corporation,4,lt-50,Anonine; BoxPN; EasyHideIP; Froot,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-192,197648,CL8ASN1,3,lt-50,FlowVPN; PrivateVPN; Safervpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-193,200019,ALEXHOST,2,lt-50,CactusVPN; Cryptostorm,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-194,202759,FAIRYHOSTING,5,lt-50,FlowVPN; GhostPath; PrivateVPN; SlickVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-195,206991,IXIR,3,lt-50,FastestVPN; OysterVPN; VPNUK,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-196,215730,H2NEXUS-AS,2,lt-50,FlowVPN; SotaVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-197,1257,TELE2,3,lt-50,Ivacy; ProtonVPN; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-198,3786,LGDACOM LG DACOM Corporation,2,lt-50,VPN Gate; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-199,6461,ZAYO-6461,2,lt-50,CyberGhost; Private Internet Access,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-200,6939,HURRICANE,3,lt-50,Astrill; Cryptostorm; NetShade,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-201,19148,LEASEWEB-USA-PHX,3,lt-50,Astrill; Ivacy; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-202,19318,IS-AS-1,1,lt-50,VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-203,30083,AS-30083-US-VELIA-NET,3,lt-50,VPN Unlimited; Surfshark; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-204,36351,SOFTLAYER,4,lt-50,Astrill; GhostPath; Hide.me; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-205,43317,VEESP-AS,2,lt-50,Windscribe; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-206,47987,DELTAHOST-KYIV,4,lt-50,FlowVPN; GhostPath; SlickVPN; VPNSecure,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-207,48031,XSERVERCLOUD,4,lt-50,AnonymousVPN; FastestVPN; IVPN; VPN Unlimited,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-208,53055,DIMENOC SERVICOS DE INFORMATICA LTDA,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-209,53363,TANGRAM-CANADA-INC,2,lt-50,AnonymousVPN; WorldVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-210,134094,"SERVERFIELD-AS Serverfield Co., Ltd.",4,lt-50,GhostPath; Hotspotshield; SlickVPN; Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-211,153003,LACHANSO-VN Digital Shield Technology Company Limited,1,lt-50,Windscribe,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-212,205544,LEASEWEB-UK-LON-11,2,lt-50,NetShade; VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-213,206264,AMARUTU-TECHNOLOGY,3,lt-50,Ivacy; PureVPN; Trust.Zone,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-214,212336,BYTEVIRTLLC,2,lt-50,FlowVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-215,395954,LEASEWEB-USA-LAX,3,lt-50,VPN Unlimited; Le VPN; OysterVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-216,3790,RADIOGRAFICA COSTARRICENSE,2,lt-50,PrivateVPN; Proxpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-217,8849,MELBICOM-EU-AS Melbikomas UAB,3,lt-50,BTGuard; FlowVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-218,9678,HOSTINGINSIDE HostingInside LTD.,4,lt-50,GhostPath; PrivateVPN; ProtonVPN; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-219,14956,ROUTERHOSTING,1,lt-50,MoriVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-220,20454,SSASN2,3,lt-50,FlowVPN; GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-221,21472,SERVERHOUSE,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-222,22439,PERFECT-INTERNATIONAL,2,lt-50,Astrill; FlowVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-223,25198,ZETSERVERS ZetServers.com - Unmetered Cloud and Dedicated Servers Provider,2,lt-50,CactusVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-224,32181,ASN-GIGENET,2,lt-50,Astrill; KevinVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-225,36007,KAMATERA,2,lt-50,FlowVPN; VPNSecure,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-226,43641,SOLLUTIUM-NL,1,lt-50,Hide.me,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-227,44709,CLOUDWEBMANAGE-,2,lt-50,FlowVPN; VPNSecure,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-228,46261,QUICKPACKET,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-229,52469,Offshore Racks S.A,3,lt-50,FlowVPN; GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-230,56322,SERVERASTRA-AS,3,lt-50,GhostPath; SlickVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-231,56694,SMARTAPE,2,lt-50,CactusVPN; HideIPVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-232,59787,WEBHS WEBSP LDA,4,lt-50,FastestVPN; GhostPath; SlickVPN; Surfshark,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-233,59895,BINARYRACKS-AS,1,lt-50,FlowVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-234,61102,INTERHOST,3,lt-50,GhostPath; SlickVPN; Zoogvpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-235,62296,VITALNG,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-236,210329,CLOUDWEBMANAGE-UK-1,2,lt-50,FlowVPN; VPNSecure,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-237,212477,ROYALE-AS,1,lt-50,KevinVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-238,213035,AS-SERVERION Serverion B.V.,2,lt-50,Getflix; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-239,214677,DELUXHOST,1,lt-50,KevinVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-240,399646,DARTNODE,1,lt-50,KevinVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-242,6364,ATLANTIC-NET-1,3,lt-50,Getflix; HideIPVPN; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-243,8075,MICROSOFT-CORP-MSN-AS-BLOCK,1,lt-50,VPN Gate,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-244,14586,NUCLEARFALLOUT-CHI,2,lt-50,CactusVPN; LimeVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-245,15440,BALTNETA Customers AS,2,lt-50,AnonymousVPN; FlowVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-246,16125,CHERRYSERVERS1-AS,1,lt-50,VPN.ac,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-247,24806,"INTERNET-CZ Ktis 2, 384 03 Ktis",1,lt-50,SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-248,27323,SERVERSTADIUM,2,lt-50,VPN Unlimited; Safervpn,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-249,29302,HSI-EUROPE,2,lt-50,GhostPath; NetShade,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-250,30736,ASERGO-AS,3,lt-50,Getflix; Smartdnsproxy; Vpnht,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-251,32374,NUCLEARFALLOUT-LAX,2,lt-50,CactusVPN; LimeVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-252,34971,PDDA-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-253,36236,NETACTUATE,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-255,42160,LCPDCO LCP AS dc oostkamp,2,lt-50,SlickVPN; SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-256,44066,DE-FIRSTCOLO firstcolo.net,2,lt-50,KevinVPN; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-257,45146,RAJASA-AS-ID-AP PT. Raja Sepadan Abadi,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-258,46015,EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd.,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-259,50867,ORG-LVA15-AS,1,lt-50,Vpnht,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-260,52173,MAKONIX,1,lt-50,AnonymousVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-261,56803,AS-DATASOURCE,1,lt-50,Hide.me,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-262,58940,DEDAUS-AS-AP Dedicated Servers Australia,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-263,58955,"BANGMODENTERPRISE-TH Bangmod Enterprise Co., Ltd.",2,lt-50,AzireVPN; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-264,59432,GINERNET,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-265,62217,VOOSERVERS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-266,63452,VELOCIHOST,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-267,137373,IDNIC-SUITEN-AS-ID PT. SUITEN INOVASI SUKSES,2,lt-50,AzireVPN; ProtonVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-268,138199,TRANSATEL1-AS-AP Transatel,3,lt-50,GhostPath; SlickVPN; SwitchVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-269,197328,ISTANBULDC1,1,lt-50,Hide.me,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-270,198203,ASN-ROUTELABEL,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-271,201011,CORE-BACKBONE CORE-BACKBONE GMBH GLOBAL NETWORK,3,lt-50,FlowVPN; GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-272,201924,LERTAS-AS,2,lt-50,PrivateVPN; TorGuard,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-273,205053,AWEB-ASN,1,lt-50,GhostPath,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-274,209378,INIOS-AS,2,lt-50,Ivacy; PureVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-275,212531,INTERNETO-VIZIJA,2,lt-50,HideIPVPN; PrivateVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-276,329184,Host-Africa-AS2,1,lt-50,AnonymousVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-277,329268,SS7-AS,1,lt-50,FlowVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-278,399471,AS-SERVERION,2,lt-50,Getflix; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-279,400475,NUCLEARFALLOUT-DAL,2,lt-50,CactusVPN; LimeVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-280,3842,RAMNODE,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-281,6428,CDM,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-282,10297,ENET-2,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-283,10929,ESTRUXTURE-QC-10929,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-284,12400,PARTNER-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-285,21581,M5HOSTING,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-286,29580,A1BG_RSG A1 EAD,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-287,31122,DIGIWEB-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-288,31863,DACEN-2,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-289,36114,VERSAWEB-ASN,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-290,45032,FABIT-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-291,45413,SERVENET-AS-TH-AP ServeNET Solution Limited Partnership,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-292,47521,IPHOST .GR IpDomain,2,lt-50,Getflix; Smartdnsproxy,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-293,52201,TCTEL,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-294,199319,VOICE-NET-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence
+ASNCluster-295,213934,IPV1-SIA-AS,2,lt-50,GhostPath; SlickVPN,ipanalytics/ASN-VPN-Network-Intelligence

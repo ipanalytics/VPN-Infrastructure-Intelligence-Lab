@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-05-22T14:45:00.512277+00:00",
+  "provider_count": 89,
+  "country_count": 122,
+  "hosting_cluster_count": 772,
+  "external_overlap_pairs": 15,
+  "external_asn_clusters": 293,
+  "external_hosting_operators": 773,
+  "external_relationship_clusters": 5,
+  "external_shared_prefix_evidence_rows": 64,
+  "atlas_country_rows": 122,
+  "atlas_asn_rows": 767,
+  "atlas_provider_country_asn_rows": 2251,
+  "archive_sources": [
+    "ipanalytics/vpn-provider-overlap-intelligence",
+    "ipanalytics/ASN-VPN-Network-Intelligence",
+    "ipanalytics/VPN-Infrastructure-Atlas"
+  ],
+  "included_type": "vpn",
+  "excluded_providers": [
+    "Tor",
+    "Unattributed Proxy",
+    "iCloud Private Relay"
+  ],
+  "skipped_records": 2345164,
+  "geo_validation": "private geo.mmdb country match rate included as aggregate percentage only",
+  "public_boundary": "aggregate-only; no raw IPs, networks, endpoint lists, or MMDB files"
+}

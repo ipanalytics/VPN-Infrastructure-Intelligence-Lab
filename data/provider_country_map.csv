@@ -1,0 +1,1295 @@
+provider,country,observed_records_bucket,provider_country_share
+AirVPN,Netherlands,500-999,0.33
+AirVPN,Romania,500-999,0.30
+AirVPN,United States,100-499,0.17
+AirVPN,Canada,100-499,0.13
+AirVPN,Sweden,50-99,0.04
+AirVPN,Latvia,lt-50,0.02
+AirVPN,New Zealand,lt-50,0.01
+AirVPN,Malaysia,lt-50,0.00
+AirVPN,Australia,lt-50,0.00
+AirVPN,Estonia,lt-50,0.00
+Anonine,Romania,50-99,0.17
+Anonine,United States,lt-50,0.15
+Anonine,United Kingdom,lt-50,0.07
+Anonine,Canada,lt-50,0.07
+Anonine,Australia,lt-50,0.05
+Anonine,Luxembourg,lt-50,0.05
+Anonine,Sweden,lt-50,0.04
+Anonine,France,lt-50,0.04
+Anonine,Germany,lt-50,0.04
+Anonine,Israel,lt-50,0.03
+Anonine,Netherlands,lt-50,0.03
+Anonine,Poland,lt-50,0.03
+Anonine,Spain,lt-50,0.03
+Anonine,Italy,lt-50,0.03
+Anonine,Ukraine,lt-50,0.02
+Anonine,Türkiye,lt-50,0.02
+Anonine,Hong Kong,lt-50,0.02
+Anonine,Malaysia,lt-50,0.02
+Anonine,Costa Rica,lt-50,0.02
+Anonine,South Korea,lt-50,0.02
+Anonine,Brazil,lt-50,0.02
+Anonine,Panama,lt-50,0.02
+Anonine,Norway,lt-50,0.02
+Anonine,Finland,lt-50,0.02
+Anonvpn,Mauritius,lt-50,0.57
+Anonvpn,Canada,lt-50,0.14
+Anonvpn,United States,lt-50,0.14
+Anonvpn,United Kingdom,lt-50,0.14
+AnonymousVPN,Netherlands,lt-50,0.30
+AnonymousVPN,Canada,lt-50,0.23
+AnonymousVPN,United States,lt-50,0.12
+AnonymousVPN,Ukraine,lt-50,0.07
+AnonymousVPN,Latvia,lt-50,0.05
+AnonymousVPN,Luxembourg,lt-50,0.05
+AnonymousVPN,South Africa,lt-50,0.02
+AnonymousVPN,France,lt-50,0.02
+AnonymousVPN,Germany,lt-50,0.02
+AnonymousVPN,Lithuania,lt-50,0.02
+AnonymousVPN,Sweden,lt-50,0.02
+AnonymousVPN,Romania,lt-50,0.02
+AnonymousVPN,Italy,lt-50,0.02
+AnonymousVPN,Czechia,lt-50,0.02
+Astrill,United States,1k-4.9k,0.50
+Astrill,United Kingdom,500-999,0.31
+Astrill,France,100-499,0.04
+Astrill,Canada,50-99,0.02
+Astrill,Germany,lt-50,0.02
+Astrill,Taiwan,lt-50,0.01
+Astrill,Lithuania,lt-50,0.01
+Astrill,Netherlands,lt-50,0.01
+Astrill,Romania,lt-50,0.01
+Astrill,India,lt-50,0.01
+Astrill,Japan,lt-50,0.01
+Astrill,Hong Kong,lt-50,0.00
+Astrill,South Korea,lt-50,0.00
+Astrill,Malaysia,lt-50,0.00
+Astrill,Hungary,lt-50,0.00
+Astrill,Finland,lt-50,0.00
+Astrill,Singapore,lt-50,0.00
+Astrill,Israel,lt-50,0.00
+Astrill,Bulgaria,lt-50,0.00
+Astrill,Argentina,lt-50,0.00
+Astrill,Greece,lt-50,0.00
+Astrill,Norway,lt-50,0.00
+Astrill,Austria,lt-50,0.00
+Astrill,Moldova,lt-50,0.00
+Astrill,Italy,lt-50,0.00
+Astrill,Sweden,lt-50,0.00
+Astrill,New Zealand,lt-50,0.00
+Astrill,Russia,lt-50,0.00
+Astrill,Luxembourg,lt-50,0.00
+Astrill,Vietnam,lt-50,0.00
+Astrill,Pakistan,lt-50,0.00
+Astrill,South Africa,lt-50,0.00
+Astrill,Panama,lt-50,0.00
+Astrill,Ireland,lt-50,0.00
+Astrill,Bosnia and Herzegovina,lt-50,0.00
+Astrill,Ukraine,lt-50,0.00
+Astrill,Brazil,lt-50,0.00
+Astrill,Slovakia,lt-50,0.00
+Astrill,Estonia,lt-50,0.00
+Astrill,Denmark,lt-50,0.00
+Astrill,Portugal,lt-50,0.00
+Astrill,Thailand,lt-50,0.00
+Astrill,Spain,lt-50,0.00
+Astrill,Albania,lt-50,0.00
+Astrill,Czechia,lt-50,0.00
+Astrill,Türkiye,lt-50,0.00
+Astrill,Indonesia,lt-50,0.00
+Astrill,Slovenia,lt-50,0.00
+Astrill,Kazakhstan,lt-50,0.00
+AzireVPN,United Kingdom,lt-50,0.33
+AzireVPN,United States,lt-50,0.23
+AzireVPN,Sweden,lt-50,0.17
+AzireVPN,Netherlands,lt-50,0.06
+AzireVPN,Vanuatu,lt-50,0.05
+AzireVPN,Norway,lt-50,0.05
+AzireVPN,Canada,lt-50,0.03
+AzireVPN,South Africa,lt-50,0.02
+AzireVPN,Indonesia,lt-50,0.02
+AzireVPN,Thailand,lt-50,0.02
+AzireVPN,Australia,lt-50,0.02
+AzireVPN,Ukraine,lt-50,0.02
+BTGuard,Netherlands,lt-50,0.70
+BTGuard,Canada,lt-50,0.10
+BTGuard,United States,lt-50,0.10
+BTGuard,Lithuania,lt-50,0.10
+BoxPN,Romania,50-99,0.18
+BoxPN,United States,lt-50,0.16
+BoxPN,Canada,lt-50,0.07
+BoxPN,United Kingdom,lt-50,0.07
+BoxPN,Australia,lt-50,0.05
+BoxPN,Luxembourg,lt-50,0.05
+BoxPN,France,lt-50,0.04
+BoxPN,Germany,lt-50,0.04
+BoxPN,Israel,lt-50,0.03
+BoxPN,Netherlands,lt-50,0.03
+BoxPN,Poland,lt-50,0.03
+BoxPN,Spain,lt-50,0.03
+BoxPN,Italy,lt-50,0.03
+BoxPN,Ukraine,lt-50,0.02
+BoxPN,Türkiye,lt-50,0.02
+BoxPN,Hong Kong,lt-50,0.02
+BoxPN,Malaysia,lt-50,0.02
+BoxPN,Costa Rica,lt-50,0.02
+BoxPN,South Korea,lt-50,0.02
+BoxPN,Brazil,lt-50,0.02
+BoxPN,Panama,lt-50,0.02
+BoxPN,Norway,lt-50,0.02
+BoxPN,Finland,lt-50,0.02
+CCrypto VPN,France,lt-50,0.50
+CCrypto VPN,Latvia,lt-50,0.25
+CCrypto VPN,Estonia,lt-50,0.12
+CCrypto VPN,United States,lt-50,0.12
+CactusVPN,United States,lt-50,0.13
+CactusVPN,Netherlands,lt-50,0.10
+CactusVPN,United Kingdom,lt-50,0.07
+CactusVPN,Canada,lt-50,0.07
+CactusVPN,Hong Kong,lt-50,0.03
+CactusVPN,India,lt-50,0.03
+CactusVPN,Brazil,lt-50,0.03
+CactusVPN,Russia,lt-50,0.03
+CactusVPN,Ukraine,lt-50,0.03
+CactusVPN,Switzerland,lt-50,0.03
+CactusVPN,Portugal,lt-50,0.03
+CactusVPN,Latvia,lt-50,0.03
+CactusVPN,Moldova,lt-50,0.03
+CactusVPN,Italy,lt-50,0.03
+CactusVPN,Spain,lt-50,0.03
+CactusVPN,Japan,lt-50,0.03
+CactusVPN,Sweden,lt-50,0.03
+CactusVPN,Poland,lt-50,0.03
+CactusVPN,Romania,lt-50,0.03
+CactusVPN,Germany,lt-50,0.03
+CactusVPN,Luxembourg,lt-50,0.03
+CactusVPN,Malaysia,lt-50,0.02
+CactusVPN,Australia,lt-50,0.02
+CactusVPN,Singapore,lt-50,0.02
+CactusVPN,France,lt-50,0.02
+Cryptostorm,Romania,lt-50,0.46
+Cryptostorm,United States,lt-50,0.26
+Cryptostorm,United Kingdom,lt-50,0.07
+Cryptostorm,Netherlands,lt-50,0.05
+Cryptostorm,Moldova,lt-50,0.03
+Cryptostorm,Brazil,lt-50,0.03
+Cryptostorm,Panama,lt-50,0.03
+Cryptostorm,France,lt-50,0.03
+Cryptostorm,Germany,lt-50,0.03
+Cryptostorm,India,lt-50,0.03
+CyberGhost,United Kingdom,1k-4.9k,0.41
+CyberGhost,Romania,500-999,0.31
+CyberGhost,Australia,100-499,0.10
+CyberGhost,United States,100-499,0.07
+CyberGhost,Sweden,100-499,0.05
+CyberGhost,Netherlands,lt-50,0.02
+CyberGhost,Lithuania,lt-50,0.01
+CyberGhost,Estonia,lt-50,0.01
+CyberGhost,Moldova,lt-50,0.01
+CyberGhost,Albania,lt-50,0.01
+CyberGhost,Germany,lt-50,0.00
+CyberGhost,Kenya,lt-50,0.00
+CyberGhost,North Macedonia,lt-50,0.00
+CyberGhost,India,lt-50,0.00
+EasyHideIP,Romania,50-99,0.17
+EasyHideIP,United States,lt-50,0.15
+EasyHideIP,United Kingdom,lt-50,0.09
+EasyHideIP,Canada,lt-50,0.07
+EasyHideIP,Australia,lt-50,0.05
+EasyHideIP,Luxembourg,lt-50,0.05
+EasyHideIP,France,lt-50,0.04
+EasyHideIP,Germany,lt-50,0.04
+EasyHideIP,Israel,lt-50,0.03
+EasyHideIP,Netherlands,lt-50,0.03
+EasyHideIP,Poland,lt-50,0.03
+EasyHideIP,Spain,lt-50,0.03
+EasyHideIP,Italy,lt-50,0.03
+EasyHideIP,Ukraine,lt-50,0.02
+EasyHideIP,Türkiye,lt-50,0.02
+EasyHideIP,Hong Kong,lt-50,0.02
+EasyHideIP,Malaysia,lt-50,0.02
+EasyHideIP,Costa Rica,lt-50,0.02
+EasyHideIP,South Korea,lt-50,0.02
+EasyHideIP,Brazil,lt-50,0.02
+EasyHideIP,Panama,lt-50,0.02
+EasyHideIP,Norway,lt-50,0.02
+EasyHideIP,Finland,lt-50,0.02
+EasyHideIP,Sweden,lt-50,0.00
+ExpressVPN,Cyprus,100-499,0.27
+ExpressVPN,United Kingdom,100-499,0.26
+ExpressVPN,Australia,50-99,0.22
+ExpressVPN,United States,lt-50,0.08
+ExpressVPN,Brazil,lt-50,0.07
+ExpressVPN,Romania,lt-50,0.03
+ExpressVPN,Sweden,lt-50,0.02
+ExpressVPN,Estonia,lt-50,0.02
+ExpressVPN,Germany,lt-50,0.01
+ExpressVPN,Albania,lt-50,0.01
+ExpressVPN,Lithuania,lt-50,0.01
+ExpressVPN,Moldova,lt-50,0.01
+ExpressVPN,Georgia,lt-50,0.01
+FastestVPN,Romania,lt-50,0.48
+FastestVPN,United States,lt-50,0.17
+FastestVPN,Canada,lt-50,0.16
+FastestVPN,United Kingdom,lt-50,0.07
+FastestVPN,Germany,lt-50,0.03
+FastestVPN,South Korea,lt-50,0.01
+FastestVPN,South Africa,lt-50,0.01
+FastestVPN,Ukraine,lt-50,0.01
+FastestVPN,Türkiye,lt-50,0.01
+FastestVPN,Portugal,lt-50,0.01
+FastestVPN,United Kingdom,lt-50,0.01
+FlowVPN,United States,50-99,0.20
+FlowVPN,Canada,lt-50,0.14
+FlowVPN,United Kingdom,lt-50,0.08
+FlowVPN,Singapore,lt-50,0.05
+FlowVPN,France,lt-50,0.04
+FlowVPN,Netherlands,lt-50,0.04
+FlowVPN,Vietnam,lt-50,0.03
+FlowVPN,Switzerland,lt-50,0.03
+FlowVPN,South Korea,lt-50,0.03
+FlowVPN,Hungary,lt-50,0.03
+FlowVPN,Italy,lt-50,0.02
+FlowVPN,Romania,lt-50,0.02
+FlowVPN,Hong Kong,lt-50,0.02
+FlowVPN,Austria,lt-50,0.02
+FlowVPN,Argentina,lt-50,0.02
+FlowVPN,Czechia,lt-50,0.02
+FlowVPN,Moldova,lt-50,0.02
+FlowVPN,Russia,lt-50,0.02
+FlowVPN,Philippines,lt-50,0.01
+FlowVPN,Ukraine,lt-50,0.01
+FlowVPN,Lithuania,lt-50,0.01
+FlowVPN,Georgia,lt-50,0.01
+FlowVPN,Germany,lt-50,0.01
+FlowVPN,Sweden,lt-50,0.01
+FlowVPN,Japan,lt-50,0.01
+FlowVPN,Taiwan,lt-50,0.01
+FlowVPN,South Africa,lt-50,0.01
+FlowVPN,Türkiye,lt-50,0.01
+FlowVPN,Luxembourg,lt-50,0.01
+FlowVPN,Indonesia,lt-50,0.00
+FlowVPN,Costa Rica,lt-50,0.00
+FlowVPN,Australia,lt-50,0.00
+FlowVPN,Panama,lt-50,0.00
+FlowVPN,Cyprus,lt-50,0.00
+FlowVPN,Denmark,lt-50,0.00
+FlowVPN,Chile,lt-50,0.00
+FlowVPN,Croatia,lt-50,0.00
+FlowVPN,Kazakhstan,lt-50,0.00
+FlowVPN,Armenia,lt-50,0.00
+FlowVPN,Malaysia,lt-50,0.00
+FlowVPN,Tunisia,lt-50,0.00
+FlowVPN,India,lt-50,0.00
+FlowVPN,Mexico,lt-50,0.00
+FlowVPN,Estonia,lt-50,0.00
+FlowVPN,Azerbaijan,lt-50,0.00
+FlowVPN,Israel,lt-50,0.00
+FlowVPN,Poland,lt-50,0.00
+FlowVPN,Finland,lt-50,0.00
+FlowVPN,Portugal,lt-50,0.00
+FreeVPN,United States,lt-50,0.38
+FreeVPN,Netherlands,lt-50,0.12
+FreeVPN,Indonesia,lt-50,0.08
+FreeVPN,Germany,lt-50,0.08
+FreeVPN,France,lt-50,0.08
+FreeVPN,Switzerland,lt-50,0.04
+FreeVPN,Luxembourg,lt-50,0.04
+FreeVPN,United Kingdom,lt-50,0.04
+FreeVPN,Sweden,lt-50,0.04
+FreeVPN,Singapore,lt-50,0.04
+FreeVPN,Finland,lt-50,0.04
+FreeVPN,Estonia,lt-50,0.04
+Freedomip,France,lt-50,1.00
+Freevpn,France,lt-50,0.67
+Freevpn,Netherlands,lt-50,0.33
+Froot,Sweden,lt-50,0.45
+Froot,Canada,lt-50,0.18
+Froot,United States,lt-50,0.18
+Froot,Romania,lt-50,0.09
+Froot,Panama,lt-50,0.05
+Froot,France,lt-50,0.05
+FrootVPN,Romania,50-99,0.17
+FrootVPN,United States,lt-50,0.15
+FrootVPN,Canada,lt-50,0.07
+FrootVPN,Australia,lt-50,0.05
+FrootVPN,United Kingdom,lt-50,0.05
+FrootVPN,Luxembourg,lt-50,0.05
+FrootVPN,France,lt-50,0.04
+FrootVPN,Germany,lt-50,0.04
+FrootVPN,Sweden,lt-50,0.03
+FrootVPN,Israel,lt-50,0.03
+FrootVPN,Netherlands,lt-50,0.03
+FrootVPN,Poland,lt-50,0.03
+FrootVPN,Spain,lt-50,0.03
+FrootVPN,Italy,lt-50,0.03
+FrootVPN,Ukraine,lt-50,0.02
+FrootVPN,Türkiye,lt-50,0.02
+FrootVPN,Hong Kong,lt-50,0.02
+FrootVPN,Malaysia,lt-50,0.02
+FrootVPN,Costa Rica,lt-50,0.02
+FrootVPN,South Korea,lt-50,0.02
+FrootVPN,Brazil,lt-50,0.02
+FrootVPN,Panama,lt-50,0.02
+FrootVPN,Norway,lt-50,0.02
+FrootVPN,Finland,lt-50,0.02
+Getflix,United States,lt-50,0.33
+Getflix,United Kingdom,lt-50,0.10
+Getflix,Türkiye,lt-50,0.10
+Getflix,Romania,lt-50,0.10
+Getflix,Canada,lt-50,0.05
+Getflix,Sweden,lt-50,0.05
+Getflix,Netherlands,lt-50,0.05
+Getflix,Norway,lt-50,0.05
+Getflix,Australia,lt-50,0.05
+Getflix,Panama,lt-50,0.05
+Getflix,Denmark,lt-50,0.05
+Getflix,Greece,lt-50,0.05
+GhostPath,United States,lt-50,0.34
+GhostPath,United Kingdom,lt-50,0.09
+GhostPath,Australia,lt-50,0.05
+GhostPath,Canada,lt-50,0.05
+GhostPath,Netherlands,lt-50,0.04
+GhostPath,Germany,lt-50,0.03
+GhostPath,France,lt-50,0.02
+GhostPath,Sweden,lt-50,0.02
+GhostPath,Singapore,lt-50,0.02
+GhostPath,Czechia,lt-50,0.02
+GhostPath,Russia,lt-50,0.02
+GhostPath,India,lt-50,0.02
+GhostPath,Italy,lt-50,0.02
+GhostPath,Greece,lt-50,0.02
+GhostPath,Belgium,lt-50,0.02
+GhostPath,Spain,lt-50,0.02
+GhostPath,Malaysia,lt-50,0.01
+GhostPath,Indonesia,lt-50,0.01
+GhostPath,Thailand,lt-50,0.01
+GhostPath,Hong Kong,lt-50,0.01
+GhostPath,Austria,lt-50,0.01
+GhostPath,Japan,lt-50,0.01
+GhostPath,Ukraine,lt-50,0.01
+GhostPath,Brazil,lt-50,0.01
+GhostPath,Switzerland,lt-50,0.01
+GhostPath,Panama,lt-50,0.01
+GhostPath,Norway,lt-50,0.01
+GhostPath,Estonia,lt-50,0.01
+GhostPath,Portugal,lt-50,0.01
+GhostPath,Moldova,lt-50,0.01
+GhostPath,Slovenia,lt-50,0.01
+GhostPath,Israel,lt-50,0.01
+GhostPath,Serbia,lt-50,0.01
+GhostPath,Poland,lt-50,0.01
+GhostPath,Iceland,lt-50,0.01
+GhostPath,Chile,lt-50,0.01
+GhostPath,Türkiye,lt-50,0.01
+GhostPath,Romania,lt-50,0.01
+GhostPath,Hungary,lt-50,0.01
+GhostPath,Ireland,lt-50,0.01
+GhostPath,Denmark,lt-50,0.01
+GhostPath,Luxembourg,lt-50,0.01
+Giganews,United States,50-99,1.00
+Goosevpn,Romania,lt-50,0.76
+Goosevpn,United States,lt-50,0.16
+Goosevpn,Netherlands,lt-50,0.06
+Goosevpn,United Kingdom,lt-50,0.02
+Hide.me,United States,lt-50,0.33
+Hide.me,Switzerland,lt-50,0.33
+Hide.me,Poland,lt-50,0.33
+HideIPVPN,France,lt-50,0.31
+HideIPVPN,United Kingdom,lt-50,0.22
+HideIPVPN,United States,lt-50,0.14
+HideIPVPN,Netherlands,lt-50,0.08
+HideIPVPN,Poland,lt-50,0.06
+HideIPVPN,Germany,lt-50,0.06
+HideIPVPN,Seychelles,lt-50,0.06
+HideIPVPN,Russia,lt-50,0.03
+HideIPVPN,Spain,lt-50,0.03
+HideIPVPN,Lithuania,lt-50,0.03
+Hotspotshield,Romania,lt-50,0.32
+Hotspotshield,United Kingdom,lt-50,0.20
+Hotspotshield,United States,lt-50,0.20
+Hotspotshield,China,lt-50,0.02
+Hotspotshield,Taiwan,lt-50,0.02
+Hotspotshield,Brazil,lt-50,0.02
+Hotspotshield,Germany,lt-50,0.02
+Hotspotshield,Panama,lt-50,0.02
+Hotspotshield,South Africa,lt-50,0.02
+Hotspotshield,Marshall Islands,lt-50,0.02
+Hotspotshield,Singapore,lt-50,0.02
+Hotspotshield,Bangladesh,lt-50,0.02
+Hotspotshield,Lithuania,lt-50,0.02
+Hotspotshield,France,lt-50,0.02
+Hotspotshield,Ukraine,lt-50,0.02
+IPVanish,United States,1k-4.9k,0.71
+IPVanish,United Kingdom,500-999,0.22
+IPVanish,Netherlands,lt-50,0.01
+IPVanish,Australia,lt-50,0.01
+IPVanish,Romania,lt-50,0.01
+IPVanish,Canada,lt-50,0.01
+IPVanish,Estonia,lt-50,0.01
+IPVanish,India,lt-50,0.01
+IPVanish,Finland,lt-50,0.00
+IPVanish,Malaysia,lt-50,0.00
+IPVanish,Moldova,lt-50,0.00
+IPVanish,Costa Rica,lt-50,0.00
+IPVanish,Japan,lt-50,0.00
+IPVanish,Albania,lt-50,0.00
+IVPN,United Kingdom,lt-50,0.29
+IVPN,Romania,lt-50,0.23
+IVPN,United States,lt-50,0.15
+IVPN,Netherlands,lt-50,0.05
+IVPN,Canada,lt-50,0.04
+IVPN,Panama,lt-50,0.02
+IVPN,Estonia,lt-50,0.02
+IVPN,Malaysia,lt-50,0.02
+IVPN,Ukraine,lt-50,0.01
+IVPN,Germany,lt-50,0.01
+IVPN,Finland,lt-50,0.01
+IVPN,Australia,lt-50,0.01
+IVPN,Iceland,lt-50,0.01
+IVPN,Israel,lt-50,0.01
+IVPN,Norway,lt-50,0.01
+IVPN,Hong Kong,lt-50,0.01
+IVPN,Sweden,lt-50,0.01
+IVPN,Portugal,lt-50,0.01
+IVPN,Brazil,lt-50,0.01
+IVPN,Luxembourg,lt-50,0.01
+Integrityvpn,Sweden,lt-50,1.00
+Ivacy,United States,lt-50,0.17
+Ivacy,Australia,lt-50,0.14
+Ivacy,United Kingdom,lt-50,0.04
+Ivacy,Canada,lt-50,0.04
+Ivacy,United Kingdom,lt-50,0.04
+Ivacy,Estonia,lt-50,0.04
+Ivacy,Hong Kong,lt-50,0.03
+Ivacy,Romania,lt-50,0.03
+Ivacy,Luxembourg,lt-50,0.03
+Ivacy,Singapore,lt-50,0.01
+Ivacy,Austria,lt-50,0.01
+Ivacy,Serbia,lt-50,0.01
+Ivacy,Spain,lt-50,0.01
+Ivacy,Norway,lt-50,0.01
+Ivacy,Switzerland,lt-50,0.01
+Ivacy,Ukraine,lt-50,0.01
+Ivacy,Poland,lt-50,0.01
+Ivacy,Ireland,lt-50,0.01
+Ivacy,France,lt-50,0.01
+Ivacy,Türkiye,lt-50,0.01
+Ivacy,Denmark,lt-50,0.01
+Ivacy,Hungary,lt-50,0.01
+Ivacy,Sweden,lt-50,0.01
+Ivacy,Panama,lt-50,0.01
+Ivacy,Taiwan,lt-50,0.01
+Ivacy,Afghanistan,lt-50,0.01
+Ivacy,Philippines,lt-50,0.01
+Ivacy,Russia,lt-50,0.01
+Ivacy,Vietnam,lt-50,0.01
+Ivacy,Egypt,lt-50,0.01
+Ivacy,Brunei,lt-50,0.01
+Ivacy,Oman,lt-50,0.01
+Ivacy,Moldova,lt-50,0.01
+Ivacy,Latvia,lt-50,0.01
+Ivacy,Portugal,lt-50,0.01
+Ivacy,Lithuania,lt-50,0.01
+Ivacy,Nigeria,lt-50,0.01
+Ivacy,Netherlands,lt-50,0.01
+Ivacy,Slovakia,lt-50,0.01
+Ivacy,Albania,lt-50,0.01
+Ivacy,Bulgaria,lt-50,0.01
+Ivacy,Brazil,lt-50,0.01
+Ivacy,Chile,lt-50,0.01
+Ivacy,Greece,lt-50,0.01
+Ivacy,Finland,lt-50,0.01
+Ivacy,Belgium,lt-50,0.01
+KevinVPN,United States,lt-50,0.37
+KevinVPN,United Kingdom,lt-50,0.16
+KevinVPN,Germany,lt-50,0.07
+KevinVPN,Netherlands,lt-50,0.07
+KevinVPN,Austria,lt-50,0.06
+KevinVPN,France,lt-50,0.04
+KevinVPN,Canada,lt-50,0.03
+KevinVPN,Italy,lt-50,0.03
+KevinVPN,Singapore,lt-50,0.03
+KevinVPN,Sweden,lt-50,0.03
+KevinVPN,Switzerland,lt-50,0.03
+KevinVPN,Romania,lt-50,0.03
+KevinVPN,Luxembourg,lt-50,0.01
+KevinVPN,Türkiye,lt-50,0.01
+KeyDrop,Russia,lt-50,0.71
+KeyDrop,United Arab Emirates,lt-50,0.21
+KeyDrop,Germany,lt-50,0.07
+Kompot VPN,Panama,lt-50,0.21
+Kompot VPN,Russia,lt-50,0.15
+Kompot VPN,United States,lt-50,0.13
+Kompot VPN,Estonia,lt-50,0.13
+Kompot VPN,United Kingdom,lt-50,0.11
+Kompot VPN,Netherlands,lt-50,0.10
+Kompot VPN,Kazakhstan,lt-50,0.08
+Kompot VPN,Poland,lt-50,0.08
+Kompot VPN,Argentina,lt-50,0.02
+Le VPN,Romania,lt-50,0.35
+Le VPN,Luxembourg,lt-50,0.22
+Le VPN,Austria,lt-50,0.17
+Le VPN,United States,lt-50,0.04
+Le VPN,United Kingdom,lt-50,0.04
+Le VPN,Iceland,lt-50,0.04
+Le VPN,Spain,lt-50,0.04
+Le VPN,Hong Kong,lt-50,0.04
+Le VPN,Sweden,lt-50,0.04
+LimeVPN,United States,lt-50,1.00
+MoriVPN,United States,lt-50,1.00
+Mullvad,United States,100-499,0.27
+Mullvad,United Kingdom,100-499,0.23
+Mullvad,Romania,100-499,0.16
+Mullvad,Sweden,100-499,0.15
+Mullvad,India,50-99,0.07
+Mullvad,Vanuatu,50-99,0.04
+Mullvad,Australia,lt-50,0.03
+Mullvad,Norway,lt-50,0.02
+Mullvad,Canada,lt-50,0.01
+Mullvad,Finland,lt-50,0.01
+Mullvad,Hong Kong,lt-50,0.00
+Mullvad,Albania,lt-50,0.00
+Mullvad,Panama,lt-50,0.00
+NetShade,France,lt-50,0.72
+NetShade,United States,lt-50,0.11
+NetShade,United Kingdom,lt-50,0.11
+NetShade,Germany,lt-50,0.06
+Njalla,Romania,100-499,1.00
+NordVPN,United Kingdom,1k-4.9k,0.52
+NordVPN,Panama,1k-4.9k,0.20
+NordVPN,Romania,1k-4.9k,0.12
+NordVPN,Australia,1k-4.9k,0.11
+NordVPN,United States,100-499,0.02
+NordVPN,India,50-99,0.01
+NordVPN,Brazil,50-99,0.01
+NordVPN,Netherlands,50-99,0.01
+NordVPN,Sweden,lt-50,0.00
+NordVPN,Albania,lt-50,0.00
+NordVPN,France,lt-50,0.00
+NordVPN,Germany,lt-50,0.00
+NordVPN,Canada,lt-50,0.00
+NordVPN,Moldova,lt-50,0.00
+NordVPN,North Macedonia,lt-50,0.00
+OVPN,Sweden,50-99,0.71
+OVPN,Romania,lt-50,0.15
+OVPN,United Kingdom,lt-50,0.09
+OVPN,Germany,lt-50,0.02
+OVPN,Canada,lt-50,0.01
+OVPN,Italy,lt-50,0.01
+Octanevpn,United States,lt-50,1.00
+Opera VPN,Sweden,lt-50,1.00
+OysterVPN,United States,lt-50,0.18
+OysterVPN,India,lt-50,0.06
+OysterVPN,European Union,lt-50,0.06
+OysterVPN,Netherlands,lt-50,0.04
+OysterVPN,Vietnam,lt-50,0.04
+OysterVPN,Canada,lt-50,0.04
+OysterVPN,Singapore,lt-50,0.02
+OysterVPN,Malaysia,lt-50,0.02
+OysterVPN,Japan,lt-50,0.02
+OysterVPN,Australia,lt-50,0.02
+OysterVPN,France,lt-50,0.02
+OysterVPN,Namibia,lt-50,0.02
+OysterVPN,Ukraine,lt-50,0.02
+OysterVPN,Antigua & Barbuda,lt-50,0.02
+OysterVPN,Brazil,lt-50,0.02
+OysterVPN,South Korea,lt-50,0.02
+OysterVPN,Italy,lt-50,0.02
+OysterVPN,Türkiye,lt-50,0.02
+OysterVPN,Russia,lt-50,0.02
+OysterVPN,Sweden,lt-50,0.02
+OysterVPN,Germany,lt-50,0.02
+OysterVPN,Portugal,lt-50,0.02
+OysterVPN,Bulgaria,lt-50,0.02
+OysterVPN,Taiwan,lt-50,0.02
+OysterVPN,Pakistan,lt-50,0.02
+OysterVPN,Hong Kong,lt-50,0.02
+OysterVPN,FL,lt-50,0.02
+OysterVPN,Switzerland,lt-50,0.02
+OysterVPN,Thailand,lt-50,0.02
+OysterVPN,Philippines,lt-50,0.02
+OysterVPN,Saudi Arabia,lt-50,0.02
+OysterVPN,United Kingdom,lt-50,0.02
+OysterVPN,United Kingdom,lt-50,0.02
+OysterVPN,Czechia,lt-50,0.02
+OysterVPN,Cyprus,lt-50,0.02
+OysterVPN,Poland,lt-50,0.02
+Perimeter81,United States,lt-50,1.00
+PhantomPeer,United States,lt-50,0.70
+PhantomPeer,Romania,lt-50,0.10
+PhantomPeer,Switzerland,lt-50,0.10
+PhantomPeer,Sweden,lt-50,0.10
+Privado,Netherlands,100-499,0.94
+Privado,India,lt-50,0.05
+Privado,Romania,lt-50,0.01
+Private Internet Access,United States,100-499,0.30
+Private Internet Access,Romania,50-99,0.17
+Private Internet Access,United Kingdom,50-99,0.14
+Private Internet Access,Australia,50-99,0.14
+Private Internet Access,United Kingdom,lt-50,0.03
+Private Internet Access,Canada,lt-50,0.03
+Private Internet Access,Sweden,lt-50,0.03
+Private Internet Access,Germany,lt-50,0.02
+Private Internet Access,Cyprus,lt-50,0.02
+Private Internet Access,Italy,lt-50,0.02
+Private Internet Access,Denmark,lt-50,0.02
+Private Internet Access,Spain,lt-50,0.01
+Private Internet Access,Japan,lt-50,0.01
+Private Internet Access,Netherlands,lt-50,0.01
+Private Internet Access,Estonia,lt-50,0.01
+Private Internet Access,Finland,lt-50,0.01
+Private Internet Access,Lithuania,lt-50,0.01
+Private Internet Access,Albania,lt-50,0.01
+Private Internet Access,Moldova,lt-50,0.00
+Private Internet Access,North Macedonia,lt-50,0.00
+Private Internet Access,India,lt-50,0.00
+PrivateVPN,Sweden,lt-50,0.17
+PrivateVPN,United States,lt-50,0.15
+PrivateVPN,India,lt-50,0.08
+PrivateVPN,United Kingdom,lt-50,0.06
+PrivateVPN,Canada,lt-50,0.04
+PrivateVPN,Italy,lt-50,0.04
+PrivateVPN,Germany,lt-50,0.03
+PrivateVPN,Australia,lt-50,0.03
+PrivateVPN,Poland,lt-50,0.03
+PrivateVPN,Netherlands,lt-50,0.03
+PrivateVPN,France,lt-50,0.03
+PrivateVPN,South Africa,lt-50,0.01
+PrivateVPN,Cyprus,lt-50,0.01
+PrivateVPN,Norway,lt-50,0.01
+PrivateVPN,Denmark,lt-50,0.01
+PrivateVPN,Japan,lt-50,0.01
+PrivateVPN,Spain,lt-50,0.01
+PrivateVPN,Thailand,lt-50,0.01
+PrivateVPN,Malaysia,lt-50,0.01
+PrivateVPN,Philippines,lt-50,0.01
+PrivateVPN,Malta,lt-50,0.01
+PrivateVPN,Portugal,lt-50,0.01
+PrivateVPN,Serbia,lt-50,0.01
+PrivateVPN,Singapore,lt-50,0.01
+PrivateVPN,Peru,lt-50,0.01
+PrivateVPN,Moldova,lt-50,0.01
+PrivateVPN,Argentina,lt-50,0.01
+PrivateVPN,Belgium,lt-50,0.01
+PrivateVPN,Hungary,lt-50,0.01
+PrivateVPN,Estonia,lt-50,0.01
+PrivateVPN,Czechia,lt-50,0.01
+PrivateVPN,Austria,lt-50,0.01
+PrivateVPN,Bulgaria,lt-50,0.01
+PrivateVPN,Costa Rica,lt-50,0.01
+PrivateVPN,Mexico,lt-50,0.01
+PrivateVPN,Ukraine,lt-50,0.01
+PrivateVPN,Taiwan,lt-50,0.01
+PrivateVPN,Panama,lt-50,0.01
+PrivateVPN,Vietnam,lt-50,0.01
+PrivateVPN,Chile,lt-50,0.01
+PrivateVPN,Ireland,lt-50,0.01
+PrivateVPN,Latvia,lt-50,0.01
+PrivateVPN,Indonesia,lt-50,0.01
+PrivateVPN,Brazil,lt-50,0.01
+PrivateVPN,New Zealand,lt-50,0.01
+PrivateVPN,United Arab Emirates,lt-50,0.01
+PrivateVPN,Slovakia,lt-50,0.01
+PrivateVPN,Israel,lt-50,0.01
+PrivateVPN,Greece,lt-50,0.01
+PrivateVPN,Lithuania,lt-50,0.01
+PrivateVPN,Finland,lt-50,0.01
+PrivateVPN,Isle of Man,lt-50,0.01
+PrivateVPN,Iceland,lt-50,0.01
+PrivateVPN,Hong Kong,lt-50,0.01
+PrivateVPN,Croatia,lt-50,0.01
+PrivateVPN,Romania,lt-50,0.01
+PrivateVPN,South Korea,lt-50,0.01
+PrivateVPN,Luxembourg,lt-50,0.01
+PrivateVPN,Türkiye,lt-50,0.01
+ProtonVPN,United Kingdom,500-999,0.61
+ProtonVPN,Romania,100-499,0.26
+ProtonVPN,Netherlands,50-99,0.05
+ProtonVPN,Switzerland,lt-50,0.03
+ProtonVPN,Australia,lt-50,0.02
+ProtonVPN,United States,lt-50,0.01
+ProtonVPN,Estonia,lt-50,0.01
+ProtonVPN,Japan,lt-50,0.00
+ProtonVPN,Iceland,lt-50,0.00
+ProtonVPN,Moldova,lt-50,0.00
+ProtonVPN,India,lt-50,0.00
+ProtonVPN,Albania,lt-50,0.00
+ProtonVPN,Cyprus,lt-50,0.00
+ProtonVPN,Indonesia,lt-50,0.00
+ProtonVPN,Canada,lt-50,0.00
+ProtonVPN,Croatia,lt-50,0.00
+ProtonVPN,Sweden,lt-50,0.00
+ProtonVPN,Bosnia and Herzegovina,lt-50,0.00
+ProtonVPN,North Macedonia,lt-50,0.00
+ProtonVPN,Finland,lt-50,0.00
+ProtonVPN,Seychelles,lt-50,0.00
+ProtonVPN,Taiwan,lt-50,0.00
+ProtonVPN,Palestine,lt-50,0.00
+ProtonVPN,Lithuania,lt-50,0.00
+ProtonVPN,European Union,lt-50,0.00
+Proxpn,United States,lt-50,0.46
+Proxpn,Mauritius,lt-50,0.12
+Proxpn,Canada,lt-50,0.08
+Proxpn,Singapore,lt-50,0.08
+Proxpn,United Kingdom,lt-50,0.08
+Proxpn,Switzerland,lt-50,0.04
+Proxpn,Costa Rica,lt-50,0.04
+Proxpn,Hong Kong,lt-50,0.04
+Proxpn,Iceland,lt-50,0.04
+Psiphon,Singapore,100-499,0.28
+Psiphon,United States,100-499,0.27
+Psiphon,France,50-99,0.17
+Psiphon,Canada,lt-50,0.07
+Psiphon,Germany,lt-50,0.07
+Psiphon,Romania,lt-50,0.07
+Psiphon,Netherlands,lt-50,0.05
+Psiphon,United Kingdom,lt-50,0.01
+Psiphon,Lithuania,lt-50,0.01
+PureVPN,United Kingdom,100-499,0.34
+PureVPN,Romania,50-99,0.22
+PureVPN,Australia,50-99,0.13
+PureVPN,Malaysia,lt-50,0.11
+PureVPN,United States,lt-50,0.07
+PureVPN,Lithuania,lt-50,0.02
+PureVPN,Luxembourg,lt-50,0.02
+PureVPN,Seychelles,lt-50,0.01
+PureVPN,European Union,lt-50,0.01
+PureVPN,Canada,lt-50,0.01
+PureVPN,Moldova,lt-50,0.01
+PureVPN,India,lt-50,0.01
+PureVPN,Albania,lt-50,0.01
+PureVPN,Netherlands,lt-50,0.01
+PureVPN,Brazil,lt-50,0.00
+PureVPN,Finland,lt-50,0.00
+RedShield VPN,United States,lt-50,0.35
+RedShield VPN,United Kingdom,lt-50,0.32
+RedShield VPN,Romania,lt-50,0.11
+RedShield VPN,Israel,lt-50,0.05
+RedShield VPN,Brazil,lt-50,0.05
+RedShield VPN,Canada,lt-50,0.03
+RedShield VPN,Finland,lt-50,0.03
+RedShield VPN,Thailand,lt-50,0.03
+RedShield VPN,Türkiye,lt-50,0.03
+Riseup VPN,France,lt-50,0.62
+Riseup VPN,United States,lt-50,0.19
+Riseup VPN,Canada,lt-50,0.10
+Riseup VPN,United Kingdom,lt-50,0.10
+SSHMax,Czechia,lt-50,1.00
+Safervpn,United States,lt-50,0.38
+Safervpn,Austria,lt-50,0.13
+Safervpn,Canada,lt-50,0.08
+Safervpn,Netherlands,lt-50,0.05
+Safervpn,Thailand,lt-50,0.03
+Safervpn,South Africa,lt-50,0.03
+Safervpn,United Kingdom,lt-50,0.03
+Safervpn,Switzerland,lt-50,0.03
+Safervpn,Cyprus,lt-50,0.03
+Safervpn,Hungary,lt-50,0.03
+Safervpn,Portugal,lt-50,0.03
+Safervpn,Romania,lt-50,0.03
+Safervpn,France,lt-50,0.03
+Safervpn,Norway,lt-50,0.03
+Safervpn,Hong Kong,lt-50,0.03
+Safervpn,Spain,lt-50,0.03
+Safervpn,Israel,lt-50,0.03
+Safervpn,Finland,lt-50,0.03
+Sentinel dVPN,United States,100-499,0.38
+Sentinel dVPN,United Kingdom,100-499,0.13
+Sentinel dVPN,Germany,100-499,0.12
+Sentinel dVPN,Türkiye,50-99,0.05
+Sentinel dVPN,Romania,lt-50,0.03
+Sentinel dVPN,Canada,lt-50,0.03
+Sentinel dVPN,Singapore,lt-50,0.03
+Sentinel dVPN,Hong Kong,lt-50,0.03
+Sentinel dVPN,Italy,lt-50,0.02
+Sentinel dVPN,France,lt-50,0.02
+Sentinel dVPN,China,lt-50,0.02
+Sentinel dVPN,Estonia,lt-50,0.01
+Sentinel dVPN,Vietnam,lt-50,0.01
+Sentinel dVPN,Australia,lt-50,0.01
+Sentinel dVPN,Georgia,lt-50,0.01
+Sentinel dVPN,Netherlands,lt-50,0.01
+Sentinel dVPN,India,lt-50,0.01
+Sentinel dVPN,Poland,lt-50,0.00
+Sentinel dVPN,Ukraine,lt-50,0.00
+Sentinel dVPN,Moldova,lt-50,0.00
+Sentinel dVPN,Egypt,lt-50,0.00
+Sentinel dVPN,United Arab Emirates,lt-50,0.00
+Sentinel dVPN,Peru,lt-50,0.00
+Sentinel dVPN,Taiwan,lt-50,0.00
+Sentinel dVPN,Argentina,lt-50,0.00
+Sentinel dVPN,Russia,lt-50,0.00
+Sentinel dVPN,Uruguay,lt-50,0.00
+Sentinel dVPN,Sweden,lt-50,0.00
+Sentinel dVPN,South Africa,lt-50,0.00
+Sentinel dVPN,Malaysia,lt-50,0.00
+Sentinel dVPN,Norway,lt-50,0.00
+Sentinel dVPN,Czechia,lt-50,0.00
+Sentinel dVPN,Cyprus,lt-50,0.00
+Sentinel dVPN,Saudi Arabia,lt-50,0.00
+Sentinel dVPN,Kazakhstan,lt-50,0.00
+Sentinel dVPN,Lithuania,lt-50,0.00
+Sentinel dVPN,Indonesia,lt-50,0.00
+Sentinel dVPN,Bulgaria,lt-50,0.00
+Sentinel dVPN,South Korea,lt-50,0.00
+Sentinel dVPN,Japan,lt-50,0.00
+Sentinel dVPN,Chile,lt-50,0.00
+Sentinel dVPN,UNKNOWN,lt-50,0.00
+Sentinel dVPN,Portugal,lt-50,0.00
+Sentinel dVPN,Seychelles,lt-50,0.00
+Sentinel dVPN,Kyrgyzstan,lt-50,0.00
+Sentinel dVPN,Switzerland,lt-50,0.00
+Sentinel dVPN,Iceland,lt-50,0.00
+Sentinel dVPN,Denmark,lt-50,0.00
+Sentinel dVPN,New Zealand,lt-50,0.00
+Sentinel dVPN,Costa Rica,lt-50,0.00
+Sentinel dVPN,Spain,lt-50,0.00
+Sentinel dVPN,Israel,lt-50,0.00
+Sentinel dVPN,Thailand,lt-50,0.00
+Sentinel dVPN,Albania,lt-50,0.00
+Sentinel dVPN,Jamaica,lt-50,0.00
+Sentinel dVPN,Jordan,lt-50,0.00
+Sentinel dVPN,Austria,lt-50,0.00
+SlickVPN,United States,lt-50,0.64
+SlickVPN,United Kingdom,lt-50,0.18
+SlickVPN,Singapore,lt-50,0.09
+SlickVPN,Austria,lt-50,0.09
+SmartVPN,United States,lt-50,0.25
+SmartVPN,Canada,lt-50,0.25
+SmartVPN,Switzerland,lt-50,0.08
+SmartVPN,Slovenia,lt-50,0.08
+SmartVPN,Israel,lt-50,0.08
+SmartVPN,Spain,lt-50,0.08
+SmartVPN,Sweden,lt-50,0.08
+SmartVPN,France,lt-50,0.08
+Smartdnsproxy,Romania,lt-50,0.31
+Smartdnsproxy,United States,lt-50,0.25
+Smartdnsproxy,Netherlands,lt-50,0.10
+Smartdnsproxy,United Kingdom,lt-50,0.08
+Smartdnsproxy,Luxembourg,lt-50,0.04
+Smartdnsproxy,Australia,lt-50,0.04
+Smartdnsproxy,Canada,lt-50,0.02
+Smartdnsproxy,Austria,lt-50,0.02
+Smartdnsproxy,Sweden,lt-50,0.02
+Smartdnsproxy,Türkiye,lt-50,0.02
+Smartdnsproxy,Norway,lt-50,0.02
+Smartdnsproxy,Panama,lt-50,0.02
+Smartdnsproxy,Denmark,lt-50,0.02
+Smartdnsproxy,Greece,lt-50,0.02
+Smartdnsproxy,Italy,lt-50,0.02
+SotaVPN,United Kingdom,lt-50,0.50
+SotaVPN,Netherlands,lt-50,0.25
+SotaVPN,Latvia,lt-50,0.25
+StrongVPN,United States,100-499,0.86
+StrongVPN,United Kingdom,lt-50,0.06
+StrongVPN,Canada,lt-50,0.02
+StrongVPN,Romania,lt-50,0.01
+StrongVPN,India,lt-50,0.01
+StrongVPN,Estonia,lt-50,0.01
+StrongVPN,Malaysia,lt-50,0.01
+StrongVPN,Netherlands,lt-50,0.01
+StrongVPN,Australia,lt-50,0.00
+StrongVPN,Costa Rica,lt-50,0.00
+StrongVPN,Finland,lt-50,0.00
+Surfshark,United States,lt-50,0.17
+Surfshark,Australia,lt-50,0.04
+Surfshark,United Kingdom,lt-50,0.03
+Surfshark,France,lt-50,0.02
+Surfshark,Canada,lt-50,0.02
+Surfshark,Spain,lt-50,0.02
+Surfshark,Portugal,lt-50,0.01
+Surfshark,Poland,lt-50,0.01
+Surfshark,Belgium,lt-50,0.01
+Surfshark,Germany,lt-50,0.01
+Surfshark,India,lt-50,0.01
+Surfshark,Italy,lt-50,0.01
+Surfshark,Thailand,lt-50,0.01
+Surfshark,Mexico,lt-50,0.01
+Surfshark,Serbia,lt-50,0.01
+Surfshark,Japan,lt-50,0.01
+Surfshark,Ukraine,lt-50,0.01
+Surfshark,United Arab Emirates,lt-50,0.01
+Surfshark,Brazil,lt-50,0.01
+Surfshark,Denmark,lt-50,0.01
+Surfshark,Greece,lt-50,0.01
+Surfshark,Croatia,lt-50,0.01
+Surfshark,South Africa,lt-50,0.01
+Surfshark,Ireland,lt-50,0.01
+Surfshark,Chile,lt-50,0.01
+Surfshark,Singapore,lt-50,0.01
+Surfshark,Colombia,lt-50,0.01
+Surfshark,Pakistan,lt-50,0.01
+Surfshark,Malaysia,lt-50,0.01
+Surfshark,Hong Kong,lt-50,0.01
+Surfshark,Bulgaria,lt-50,0.01
+Surfshark,Israel,lt-50,0.01
+Surfshark,Albania,lt-50,0.01
+Surfshark,Ghana,lt-50,0.01
+Surfshark,Bosnia and Herzegovina,lt-50,0.01
+Surfshark,Azerbaijan,lt-50,0.01
+Surfshark,Philippines,lt-50,0.01
+Surfshark,Morocco,lt-50,0.01
+Surfshark,South Korea,lt-50,0.01
+Surfshark,Costa Rica,lt-50,0.01
+Surfshark,Netherlands,lt-50,0.01
+Surfshark,New Zealand,lt-50,0.01
+Surfshark,Luxembourg,lt-50,0.01
+Surfshark,Estonia,lt-50,0.01
+Surfshark,Czechia,lt-50,0.01
+Surfshark,Panama,lt-50,0.01
+Surfshark,Slovakia,lt-50,0.01
+Surfshark,Sweden,lt-50,0.01
+Surfshark,Cyprus,lt-50,0.01
+Surfshark,Malta,lt-50,0.01
+Surfshark,Finland,lt-50,0.01
+Surfshark,Laos,lt-50,0.01
+Surfshark,Nepal,lt-50,0.01
+Surfshark,Bolivia,lt-50,0.01
+Surfshark,Paraguay,lt-50,0.01
+Surfshark,Slovenia,lt-50,0.01
+Surfshark,Uruguay,lt-50,0.01
+Surfshark,Belize,lt-50,0.01
+Surfshark,North Macedonia,lt-50,0.01
+Surfshark,Moldova,lt-50,0.01
+Surfshark,Kazakhstan,lt-50,0.01
+Surfshark,Türkiye,lt-50,0.01
+Surfshark,Iceland,lt-50,0.01
+Surfshark,Puerto Rico,lt-50,0.01
+Surfshark,Taiwan,lt-50,0.01
+Surfshark,Venezuela,lt-50,0.01
+Surfshark,Saudi Arabia,lt-50,0.01
+Surfshark,Myanmar,lt-50,0.01
+Surfshark,Algeria,lt-50,0.01
+Surfshark,Bahamas,lt-50,0.01
+Surfshark,Cambodia,lt-50,0.01
+Surfshark,Egypt,lt-50,0.01
+Surfshark,Isle of Man,lt-50,0.01
+Surfshark,Lithuania,lt-50,0.01
+Surfshark,Liechtenstein,lt-50,0.01
+Surfshark,Monaco,lt-50,0.01
+Surfshark,Andorra,lt-50,0.01
+Surfshark,Bangladesh,lt-50,0.01
+Surfshark,Macao,lt-50,0.01
+Surfshark,Mongolia,lt-50,0.01
+Surfshark,Bhutan,lt-50,0.01
+Surfshark,Brunei,lt-50,0.01
+Surfshark,Montenegro,lt-50,0.01
+Surfshark,Nigeria,lt-50,0.01
+Surfshark,Norway,lt-50,0.01
+Surfshark,Hungary,lt-50,0.01
+Surfshark,Latvia,lt-50,0.01
+Surfshark,Vietnam,lt-50,0.01
+Surfshark,Georgia,lt-50,0.01
+Surfshark,Switzerland,lt-50,0.01
+Surfshark,Argentina,lt-50,0.01
+Surfshark,Armenia,lt-50,0.01
+Surfshark,Ecuador,lt-50,0.01
+Surfshark,Greenland,lt-50,0.01
+Surfshark,Indonesia,lt-50,0.01
+Surfshark,Uzbekistan,lt-50,0.01
+Surfshark,Peru,lt-50,0.01
+Surfshark,Romania,lt-50,0.00
+Surfshark,Sri Lanka,lt-50,0.00
+Surfshark,Austria,lt-50,0.00
+SwitchVPN,United States,lt-50,0.40
+SwitchVPN,Hong Kong,lt-50,0.12
+SwitchVPN,Panama,lt-50,0.11
+SwitchVPN,United Kingdom,lt-50,0.10
+SwitchVPN,Netherlands,lt-50,0.06
+SwitchVPN,Italy,lt-50,0.06
+SwitchVPN,Canada,lt-50,0.02
+SwitchVPN,Malaysia,lt-50,0.01
+SwitchVPN,India,lt-50,0.01
+SwitchVPN,Singapore,lt-50,0.01
+SwitchVPN,Czechia,lt-50,0.01
+SwitchVPN,Switzerland,lt-50,0.01
+SwitchVPN,Austria,lt-50,0.01
+SwitchVPN,South Korea,lt-50,0.01
+SwitchVPN,France,lt-50,0.01
+SwitchVPN,Belgium,lt-50,0.01
+SwitchVPN,Norway,lt-50,0.01
+TorGuard,Romania,100-499,0.83
+TorGuard,United States,lt-50,0.05
+TorGuard,Norway,lt-50,0.03
+TorGuard,Australia,lt-50,0.02
+TorGuard,Canada,lt-50,0.02
+TorGuard,Thailand,lt-50,0.01
+TorGuard,Estonia,lt-50,0.01
+TorGuard,Moldova,lt-50,0.01
+TorGuard,United Kingdom,lt-50,0.01
+TorGuard,Chile,lt-50,0.01
+TorGuard,Finland,lt-50,0.01
+TorGuard,Portugal,lt-50,0.01
+TorGuard,Israel,lt-50,0.00
+TorGuard,Singapore,lt-50,0.00
+Trust.Zone,Romania,lt-50,0.44
+Trust.Zone,United Kingdom,lt-50,0.18
+Trust.Zone,Canada,lt-50,0.08
+Trust.Zone,Bulgaria,lt-50,0.07
+Trust.Zone,Germany,lt-50,0.06
+Trust.Zone,United States,lt-50,0.03
+Trust.Zone,France,lt-50,0.03
+Trust.Zone,Netherlands,lt-50,0.02
+Trust.Zone,Ukraine,lt-50,0.02
+Trust.Zone,Seychelles,lt-50,0.01
+Trust.Zone,Australia,lt-50,0.01
+Trust.Zone,Israel,lt-50,0.01
+Trust.Zone,Albania,lt-50,0.01
+Trust.Zone,Türkiye,lt-50,0.01
+Trust.Zone,Poland,lt-50,0.01
+TunnelBear,United States,100-499,0.50
+TunnelBear,Romania,100-499,0.30
+TunnelBear,Singapore,lt-50,0.10
+TunnelBear,New Zealand,lt-50,0.04
+TunnelBear,Hong Kong,lt-50,0.04
+TunnelBear,United Kingdom,lt-50,0.01
+TunnelBear,Netherlands,lt-50,0.01
+TunnelBear,Italy,lt-50,0.00
+TunnelBear,Canada,lt-50,0.00
+VPN Gate,Japan,lt-50,0.42
+VPN Gate,South Korea,lt-50,0.29
+VPN Gate,United States,lt-50,0.18
+VPN Gate,Thailand,lt-50,0.03
+VPN Gate,Russia,lt-50,0.03
+VPN Gate,Vietnam,lt-50,0.01
+VPN Gate,Laos,lt-50,0.01
+VPN Gate,European Union,lt-50,0.01
+VPN Gate,Romania,lt-50,0.01
+VPN Gate,Ukraine,lt-50,0.01
+VPN Jantit,United States,lt-50,0.25
+VPN Jantit,United Kingdom,lt-50,0.14
+VPN Jantit,China,lt-50,0.12
+VPN Jantit,Russia,lt-50,0.09
+VPN Jantit,France,lt-50,0.09
+VPN Jantit,Hong Kong,lt-50,0.04
+VPN Jantit,Indonesia,lt-50,0.04
+VPN Jantit,Singapore,lt-50,0.03
+VPN Jantit,Philippines,lt-50,0.03
+VPN Jantit,Netherlands,lt-50,0.03
+VPN Jantit,Thailand,lt-50,0.02
+VPN Jantit,Germany,lt-50,0.02
+VPN Jantit,Luxembourg,lt-50,0.02
+VPN Jantit,Hungary,lt-50,0.02
+VPN Jantit,South Africa,lt-50,0.01
+VPN Jantit,Vietnam,lt-50,0.01
+VPN Jantit,Cambodia,lt-50,0.01
+VPN Jantit,Estonia,lt-50,0.01
+VPN Jantit,Kazakhstan,lt-50,0.01
+VPN Jantit,Bulgaria,lt-50,0.01
+VPN Jantit,Romania,lt-50,0.01
+VPN Jantit,Moldova,lt-50,0.01
+VPN Jantit,Türkiye,lt-50,0.01
+VPN Unlimited,United States,100-499,0.53
+VPN Unlimited,Netherlands,lt-50,0.14
+VPN Unlimited,Canada,lt-50,0.13
+VPN Unlimited,France,lt-50,0.08
+VPN Unlimited,Slovenia,lt-50,0.03
+VPN Unlimited,Romania,lt-50,0.02
+VPN Unlimited,United Kingdom,lt-50,0.02
+VPN Unlimited,Germany,lt-50,0.02
+VPN Unlimited,Italy,lt-50,0.01
+VPN Unlimited,Greece,lt-50,0.01
+VPN Unlimited,Bulgaria,lt-50,0.01
+VPN Unlimited,South Africa,lt-50,0.00
+VPN Unlimited,Ukraine,lt-50,0.00
+VPN.ac,United States,lt-50,0.21
+VPN.ac,Netherlands,lt-50,0.14
+VPN.ac,Romania,lt-50,0.14
+VPN.ac,France,lt-50,0.09
+VPN.ac,Australia,lt-50,0.07
+VPN.ac,Canada,lt-50,0.07
+VPN.ac,Germany,lt-50,0.06
+VPN.ac,United Kingdom,lt-50,0.06
+VPN.ac,Iceland,lt-50,0.05
+VPN.ac,Seychelles,lt-50,0.03
+VPN.ac,Singapore,lt-50,0.03
+VPN.ac,Hong Kong,lt-50,0.02
+VPN.ac,Portugal,lt-50,0.01
+VPN.ac,Lithuania,lt-50,0.01
+VPN.ac,Norway,lt-50,0.01
+VPN.ac,Panama,lt-50,0.01
+VPN.ac,Italy,lt-50,0.01
+VPNObratno,Russia,lt-50,1.00
+VPNSTunnel,United States,lt-50,1.00
+VPNSecure,France,lt-50,0.52
+VPNSecure,Canada,lt-50,0.17
+VPNSecure,United Kingdom,lt-50,0.13
+VPNSecure,United States,lt-50,0.05
+VPNSecure,Ukraine,lt-50,0.03
+VPNSecure,Romania,lt-50,0.03
+VPNSecure,Sweden,lt-50,0.02
+VPNSecure,Latvia,lt-50,0.02
+VPNSecure,Hong Kong,lt-50,0.02
+VPNSecure,Israel,lt-50,0.02
+VPNUK,United Kingdom,lt-50,0.46
+VPNUK,Canada,lt-50,0.17
+VPNUK,United States,lt-50,0.09
+VPNUK,Netherlands,lt-50,0.09
+VPNUK,Romania,lt-50,0.03
+VPNUK,Switzerland,lt-50,0.03
+VPNUK,France,lt-50,0.02
+VPNUK,Germany,lt-50,0.02
+VPNUK,Italy,lt-50,0.02
+VPNUK,Türkiye,lt-50,0.01
+VPNUK,Hong Kong,lt-50,0.01
+VPNUK,Spain,lt-50,0.01
+VPNUK,Ireland,lt-50,0.01
+Vpnbook,France,lt-50,1.00
+Vpnfacile,France,lt-50,0.71
+Vpnfacile,United Kingdom,lt-50,0.14
+Vpnfacile,United States,lt-50,0.14
+Vpnht,Germany,lt-50,0.28
+Vpnht,France,lt-50,0.21
+Vpnht,United Kingdom,lt-50,0.17
+Vpnht,Romania,lt-50,0.09
+Vpnht,Russia,lt-50,0.08
+Vpnht,Austria,lt-50,0.05
+Vpnht,Netherlands,lt-50,0.03
+Vpnht,Albania,lt-50,0.03
+Vpnht,Singapore,lt-50,0.02
+Vpnht,United States,lt-50,0.01
+Vpnht,South Korea,lt-50,0.01
+Vpnht,Japan,lt-50,0.01
+Vpnht,Denmark,lt-50,0.01
+VyprVPN,United States,50-99,1.00
+WLVPN,United States,1k-4.9k,0.71
+WLVPN,United Kingdom,500-999,0.22
+WLVPN,Netherlands,lt-50,0.01
+WLVPN,Australia,lt-50,0.01
+WLVPN,Romania,lt-50,0.01
+WLVPN,Canada,lt-50,0.01
+WLVPN,Estonia,lt-50,0.01
+WLVPN,India,lt-50,0.00
+WLVPN,Finland,lt-50,0.00
+WLVPN,Malaysia,lt-50,0.00
+WLVPN,Moldova,lt-50,0.00
+WLVPN,Costa Rica,lt-50,0.00
+WLVPN,Japan,lt-50,0.00
+WLVPN,Albania,lt-50,0.00
+WiTopia,United States,100-499,0.41
+WiTopia,Romania,100-499,0.20
+WiTopia,France,50-99,0.08
+WiTopia,United Kingdom,lt-50,0.06
+WiTopia,Canada,lt-50,0.05
+WiTopia,Türkiye,lt-50,0.04
+WiTopia,India,lt-50,0.02
+WiTopia,Australia,lt-50,0.01
+WiTopia,Thailand,lt-50,0.01
+WiTopia,South Korea,lt-50,0.01
+WiTopia,Portugal,lt-50,0.01
+WiTopia,Brazil,lt-50,0.01
+WiTopia,Malaysia,lt-50,0.01
+WiTopia,Netherlands,lt-50,0.01
+WiTopia,Latvia,lt-50,0.01
+WiTopia,Lithuania,lt-50,0.01
+WiTopia,Hong Kong,lt-50,0.01
+WiTopia,Vietnam,lt-50,0.01
+WiTopia,Italy,lt-50,0.01
+WiTopia,Israel,lt-50,0.01
+WiTopia,Russia,lt-50,0.01
+WiTopia,Panama,lt-50,0.01
+WiTopia,Iceland,lt-50,0.01
+WiTopia,Finland,lt-50,0.01
+WiTopia,Dominican Republic,lt-50,0.00
+WiTopia,Egypt,lt-50,0.00
+Windscribe,United Kingdom,100-499,0.34
+Windscribe,United States,100-499,0.19
+Windscribe,Romania,100-499,0.19
+Windscribe,Australia,lt-50,0.04
+Windscribe,Estonia,lt-50,0.03
+Windscribe,Canada,lt-50,0.02
+Windscribe,Argentina,lt-50,0.02
+Windscribe,Indonesia,lt-50,0.01
+Windscribe,Thailand,lt-50,0.01
+Windscribe,Cyprus,lt-50,0.01
+Windscribe,Brazil,lt-50,0.01
+Windscribe,Vietnam,lt-50,0.01
+Windscribe,Panama,lt-50,0.01
+Windscribe,Antarctica,lt-50,0.01
+Windscribe,South Africa,lt-50,0.01
+Windscribe,Albania,lt-50,0.01
+Windscribe,South Korea,lt-50,0.01
+Windscribe,India,lt-50,0.01
+Windscribe,Latvia,lt-50,0.01
+Windscribe,Moldova,lt-50,0.01
+Windscribe,Israel,lt-50,0.01
+Windscribe,Lithuania,lt-50,0.01
+Windscribe,Taiwan,lt-50,0.01
+Windscribe,Netherlands,lt-50,0.01
+Windscribe,Bosnia and Herzegovina,lt-50,0.00
+Windscribe,Iceland,lt-50,0.00
+Windscribe,North Macedonia,lt-50,0.00
+Windscribe,Georgia,lt-50,0.00
+Windscribe,Poland,lt-50,0.00
+Windscribe,Russia,lt-50,0.00
+WorkingVPN,France,lt-50,1.00
+WorldVPN,Germany,50-99,0.32
+WorldVPN,United States,lt-50,0.19
+WorldVPN,Netherlands,lt-50,0.07
+WorldVPN,France,lt-50,0.04
+WorldVPN,Hong Kong,lt-50,0.04
+WorldVPN,Poland,lt-50,0.03
+WorldVPN,Bulgaria,lt-50,0.03
+WorldVPN,Latvia,lt-50,0.03
+WorldVPN,Ukraine,lt-50,0.03
+WorldVPN,Italy,lt-50,0.03
+WorldVPN,Australia,lt-50,0.02
+WorldVPN,Finland,lt-50,0.02
+WorldVPN,Singapore,lt-50,0.02
+WorldVPN,Russia,lt-50,0.02
+WorldVPN,Sweden,lt-50,0.01
+WorldVPN,Austria,lt-50,0.01
+WorldVPN,Canada,lt-50,0.01
+WorldVPN,Japan,lt-50,0.01
+WorldVPN,Ireland,lt-50,0.01
+WorldVPN,Romania,lt-50,0.01
+WorldVPN,Luxembourg,lt-50,0.01
+WorldVPN,Belgium,lt-50,0.01
+WorldVPN,Malaysia,lt-50,0.01
+WorldVPN,Liechtenstein,lt-50,0.01
+WorldVPN,Brazil,lt-50,0.01
+WorldVPN,Chile,lt-50,0.01
+WorldVPN,Portugal,lt-50,0.01
+WorldVPN,China,lt-50,0.01
+WorldVPN,Philippines,lt-50,0.01
+WorldVPN,Iceland,lt-50,0.01
+WorldVPN,Norway,lt-50,0.01
+WorldVPN,Spain,lt-50,0.01
+WorldVPN,Türkiye,lt-50,0.01
+WorldVPN,Greece,lt-50,0.01
+Zoogvpn,Canada,lt-50,0.17
+Zoogvpn,United States,lt-50,0.14
+Zoogvpn,France,lt-50,0.10
+Zoogvpn,Netherlands,lt-50,0.10
+Zoogvpn,Hong Kong,lt-50,0.08
+Zoogvpn,Romania,lt-50,0.07
+Zoogvpn,Ukraine,lt-50,0.04
+Zoogvpn,United Kingdom,lt-50,0.04
+Zoogvpn,Germany,lt-50,0.02
+Zoogvpn,Israel,lt-50,0.02
+Zoogvpn,Lithuania,lt-50,0.02
+Zoogvpn,Vietnam,lt-50,0.01
+Zoogvpn,New Zealand,lt-50,0.01
+Zoogvpn,Thailand,lt-50,0.01
+Zoogvpn,Indonesia,lt-50,0.01
+Zoogvpn,South Africa,lt-50,0.01
+Zoogvpn,Brazil,lt-50,0.01
+Zoogvpn,Armenia,lt-50,0.01
+Zoogvpn,Moldova,lt-50,0.01
+Zoogvpn,Estonia,lt-50,0.01
+Zoogvpn,Kazakhstan,lt-50,0.01
+Zoogvpn,Finland,lt-50,0.01
+Zoogvpn,Georgia,lt-50,0.01
+Zoogvpn,Türkiye,lt-50,0.01
+Zoogvpn,Austria,lt-50,0.01
+Zoogvpn,Latvia,lt-50,0.01
+Zoogvpn,Hungary,lt-50,0.01
+Zoogvpn,Italy,lt-50,0.01
+uVPN,United States,lt-50,0.42
+uVPN,France,lt-50,0.27
+uVPN,Romania,lt-50,0.12
+uVPN,Germany,lt-50,0.08
+uVPN,United Kingdom,lt-50,0.08
+uVPN,Luxembourg,lt-50,0.04
