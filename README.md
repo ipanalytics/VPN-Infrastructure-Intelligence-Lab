@@ -33,24 +33,14 @@ Scores are infrastructure research signals. They are not legal claims, ownership
 ## Repository Layout
 
 ```text
-.github/workflows/  GitHub Pages deployment workflow
 dashboard/          Static dashboard application
 data/               Public aggregate CSV/JSON datasets
 docs/               Methodology and interpretation notes
 scripts/            Dataset build and public-output validation scripts
 README.md           Project overview
-.nojekyll           GitHub Pages static-file marker
 ```
 
-Local-only paths excluded from the public repository:
 
-```text
-internal/                  Private source material
-external/                  Local source-repo cache
-prompt.md                  Local project prompt/notes
-dashboard/untitled folder/ Old local dashboard draft
-*.mmdb, *.sqlite, *.db     Private databases
-```
 
 ## Dashboard
 
