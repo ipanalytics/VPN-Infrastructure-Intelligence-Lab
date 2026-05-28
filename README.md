@@ -2,6 +2,10 @@
 
 Public aggregate dataset and static dashboard for analyzing VPN infrastructure patterns.
 
+<p align="center">
+  <img src="./site/banner.png" alt="VPN Infrastructure Intelligence Lab" width="100%">
+</p>
+
 The repository presents derived infrastructure intelligence at provider, country, ASN, relationship, archetype, and anonymized hosting-cluster levels. The published data is designed for research, comparison, and visual exploration without exposing raw endpoint inventories or operational source material.
 
 ## Published Data Model
