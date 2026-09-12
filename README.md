@@ -1,5 +1,7 @@
 # VPN Infrastructure Intelligence Lab
 
+_Русская версия: [README.ru.md](README.ru.md)_
+
 Public aggregate dataset and static dashboard for analyzing VPN infrastructure patterns.
 
 <p align="center">
